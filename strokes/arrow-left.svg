@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-left</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-left" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M64,32 L19.3054524,61.489186 C17.9224952,62.4016527 17.5410872,64.2624614 18.4535538,65.6454186 C18.6783691,65.9861543 18.9703594,66.2774233 19.31165,66.5013953 L63.5,95.5 L63.5,95.5" id="Path-52" stroke="#000000" stroke-width="3"></path>
+            <line x1="48" y1="64" x2="111.5" y2="64" id="Path-53" stroke="#000000" stroke-width="3"></line>
+        </g>
+    </g>
+</svg>

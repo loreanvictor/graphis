@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>people</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="people" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M47.5,72 C57.7172679,72 66,61.254834 66,48 C66,34.745166 57.7172679,24 47.5,24 C37.2827321,24 29,34.745166 29,48 C29,57.6592762 33.3985973,65.9857774 39.7390403,69.7923664" id="Path" stroke="#000000" stroke-width="3"></path>
+            <path d="M79.5,72 C89.7172679,72 98,61.254834 98,48 C98,34.745166 89.7172679,24 79.5,24 C76.4818712,24 73.6325464,24.9376033 71.1156543,26.6005348" id="Path-Copy" stroke="#000000" stroke-width="3"></path>
+            <path d="M48,72 L64,72 C72.836556,72 80,79.163444 80,88 L80,88 L80,88 L80,104.5" id="Path-46" stroke="#000000" stroke-width="3"></path>
+            <path d="M80,72 L96,72 C104.836556,72 112,79.163444 112,88 L112,88 L112,88 L112,104.5" id="Path-46-Copy" stroke="#000000" stroke-width="3"></path>
+            <path d="M16,104 L16,88 C16,79.163444 23.163444,72 32,72 L32,72 L32,72 L48,88 L56,80" id="Path-47" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

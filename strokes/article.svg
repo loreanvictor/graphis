@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>article</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="article" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M24,112 L24,18 C24,16.8954305 24.8954305,16 26,16 L102,16 C103.104569,16 104,16.8954305 104,18 L104,112 L104,112" id="Path-17" stroke="#000000" stroke-width="3"></path>
+            <path d="M88,48 L88,34 C88,32.8954305 87.1045695,32 86,32 L42,32 C40.8954305,32 40,32.8954305 40,34 L40,54.5 C40,55.6045695 40.8954305,56.5 42,56.5 L88,56.5" id="Path" stroke="#000000" stroke-width="3"></path>
+            <path d="M40,73 L84,73 C86.209139,73 88,74.790861 88,77 C88,79.209139 86.209139,81 84,81 L44,81 C41.790861,81 40,82.790861 40,85 C40,87.209139 41.790861,89 44,89 L84.5,89 C86.4329966,89 88,90.5670034 88,92.5 C88,94.4329966 86.4329966,96 84.5,96 L44,96 C41.790861,96 40,97.790861 40,100 C40,102.209139 41.790861,104 44,104 L80,104 C84.418278,104 88,107.581722 88,112 L88,112 L88,112" id="Path-18" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>text</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="text" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M16,32 L104,32 C108.418278,32 112,35.581722 112,40 C112,44.418278 108.418278,48 104,48 L24,48 C19.581722,48 16,51.581722 16,56 C16,60.418278 19.581722,64 24,64 L104,64 C108.418278,64 112,67.581722 112,72 C112,76.418278 108.418278,80 104,80 L24,80 C19.581722,80 16,83.581722 16,88 C16,92.418278 19.581722,96 24,96 L64,96 C72.836556,96 80,103.163444 80,112 L80,112 L80,112" id="Path-6" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

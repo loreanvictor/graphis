@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>marker-off</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="marker-off" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M112,72 L122,72 L112,56 L104,56 L104,72 L96,72 C91.581722,72 88,75.581722 88,80 L88,80 L88,80 L70.0104076,80 M58.3431458,80 L6,80 L6,48 C28.9493507,48 46.1613636,48 57.636039,48 M70.0104076,48 C73.4250091,48 79.4215399,48 88,48 C88,52.418278 91.581722,56 96,56 L96,63.5" id="Shape" stroke="#000000" stroke-width="3" transform="translate(64.000000, 64.000000) rotate(135.000000) translate(-64.000000, -64.000000) "></path>
+            <line x1="16" y1="16" x2="112" y2="112" id="Path-4" stroke="#000000" stroke-width="3"></line>
+        </g>
+    </g>
+</svg>

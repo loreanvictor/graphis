@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>reader</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="reader" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M63.5,64 C73.7172679,64 82,53.254834 82,40 C82,26.745166 73.7172679,16 63.5,16 C53.2827321,16 45,26.745166 45,40 C45,47.1565708 47.4145432,53.5815349 51.2444526,57.978663" id="Path" stroke="#000000" stroke-width="3"></path>
+            <path d="M32,80 C32,71.163444 39.163444,64 48,64 L64,64 L64,64 M80,64 C88.836556,64 96,71.163444 96,80 L112,80 C80,85.3333333 64,96 64,112 C64,96 47.8333333,85.3333333 15.5,80" id="Shape" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

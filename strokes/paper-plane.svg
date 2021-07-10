@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>paper-plane</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="paper-plane" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M88,64 L40.7415817,56.4484491 C39.1594191,56.195631 37.8807743,55.0230972 37.4921754,53.4687014 L32,31.5 L32,31.5 L112,64 L32,96 L37.3449333,74.6202669 C37.7407523,73.0369906 39.0587426,71.8529524 40.6752298,71.6284403 L53.2761462,69.878313 C54.8375768,69.6614477 56,68.3264187 56,66.75 C56,65.2312169 54.7687831,64 53.25,64 L40,64 L40,64" id="Path-36" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

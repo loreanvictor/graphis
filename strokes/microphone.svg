@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>microphone</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="microphone" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <line x1="40" y1="112" x2="56" y2="112" id="Path-13" stroke="#000000" stroke-width="3"></line>
+            <polyline id="Path-15" stroke="#000000" stroke-width="3" points="88 112 64 112 64 96"></polyline>
+            <path d="M32,64 C32,81.673112 46.326888,96 64,96 C81.673112,96 96,81.673112 96,64 L96,64 L96,64" id="Path-16" stroke="#000000" stroke-width="3"></path>
+            <path d="M88,48 L76,48 C73.790861,48 72,46.209139 72,44 C72,41.790861 73.790861,40 76,40 L88,40 L88,40 C88,26.745166 77.254834,16 64,16 C50.745166,16 40,26.745166 40,40 L40,64 C40,77.254834 50.745166,88 64,88 C77.254834,88 88,77.254834 88,64 L76,64 C73.790861,64 72,62.209139 72,60 C72,57.790861 73.790861,56 76,56 L88,56 L88,56" id="Path" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

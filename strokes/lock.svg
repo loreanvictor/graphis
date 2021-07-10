@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lock</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lock" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M31.5,48 L30,48 C26.6862915,48 24,50.6862915 24,54 L24,105.5 C24,108.813708 26.6862915,111.5 30,111.5 L98,111.5 C101.313708,111.5 104,108.813708 104,105.5 L104,54 C104,50.6862915 101.313708,48 98,48 L40,48 L40,48 L40,40 C40,26.745166 50.745166,16 64,16 C77.254834,16 88,26.745166 88,40 L88,40 L88,40" id="Path-2" stroke="#000000" stroke-width="3"></path>
+            <path d="M63.5,80 C59.3578644,80 56,76.6421356 56,72.5 L56,72 C56,67.581722 59.581722,64 64,64 C68.418278,64 72,67.581722 72,72 L72,72.5 C72,75.3565384 70.4030378,77.8400862 68.0532002,79.1065567 L68.0125966,92.0000198 C68.0056333,94.2111826 66.2111737,96 64,96 C61.790861,96 60,94.209139 60,92 L60,82.5 L60,82.5" id="Path-10" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

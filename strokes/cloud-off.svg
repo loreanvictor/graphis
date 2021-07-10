@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cloud-off</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cloud-off" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M36,96 C24.954305,96 16,87.045695 16,76 C16,65.9912336 23.3520237,57.6996243 32.9501848,56.2310585 C33.6684909,53.3504357 34.7771791,50.6242983 36.2168068,48.1120831 M48.0503064,36.2520152 C52.7456683,33.5472384 58.1921457,32 64,32 C72.6211569,32 80.4460443,35.4092347 86.2000263,40.9530682" id="Shape" stroke="#000000" stroke-width="3"></path>
+            <path d="M36,96 C55.5555556,96 70.2222222,96 80,96 M104.748197,89.1900698 C109.221833,84.8307217 112,78.7397987 112,72 C112,58.745166 101.254834,48 88,48 C85.2616909,48 82.6304924,48.4585952 80.1790176,49.3031725" id="Shape" stroke="#000000" stroke-width="3"></path>
+            <line x1="16" y1="16" x2="112" y2="112" id="Path-58" stroke="#000000" stroke-width="3"></line>
+        </g>
+    </g>
+</svg>

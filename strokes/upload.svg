@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>upload</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="upload" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M36,96 C24.954305,96 16,87.045695 16,76 C16,65.9912336 23.3520237,57.6996243 32.9501848,56.2310585 C36.4209861,42.3121058 49.0062324,32 64,32 C72.6211569,32 80.4460443,35.4092347 86.2000263,40.9530682" id="Path" stroke="#000000" stroke-width="3"></path>
+            <path d="M36,96 C45.4841735,96 52.1508401,96 56,96 M72,96 C75.5555556,96 80.8888889,96 88,96 C101.254834,96 112,85.254834 112,72 C112,58.745166 101.254834,48 88,48 C85.2616909,48 82.6304924,48.4585952 80.1790176,49.3031725" id="Shape" stroke="#000000" stroke-width="3"></path>
+            <path d="M80,88 L64.8320503,65.2480754 C64.5256978,64.7885468 63.9048285,64.6643729 63.4452998,64.9707253 C63.3354475,65.0439602 63.2411846,65.1382232 63.1679497,65.2480754 L48,88 L48,88" id="Path-54" stroke="#000000" stroke-width="3"></path>
+            <line x1="64" y1="80" x2="64" y2="112" id="Path-55" stroke="#000000" stroke-width="3"></line>
+        </g>
+    </g>
+</svg>

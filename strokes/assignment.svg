@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>assignment</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="assignment" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M67.3817097,26.1373245 C67.7732963,25.5190463 68,24.7859979 68,24 C68,21.790861 66.209139,20 64,20 C61.790861,20 60,21.790861 60,24" id="Path" stroke="#000000" stroke-width="3"></path>
+            <path d="M104,56 L104,106 C104,109.313708 101.313708,112 98,112 L31,112 C27.6862915,112 25,109.313708 25,106 L25,30 C25,26.6862915 27.6862915,24 31,24 C38.7469558,24 44.4136225,24 48,24 M80,24 C84,24 90,24 98,24 C101.313708,24 104,26.6862915 104,30 L104,32.5" id="Shape" stroke="#000000" stroke-width="3"></path>
+            <polyline id="Path-59" stroke="#000000" stroke-width="3" points="48 64 64 80 104 40"></polyline>
+            <path d="M52,16 L48,16 L48,23.5 C48,27.918278 51.581722,31.5 56,31.5 L72,31.5 C76.418278,31.5 80,27.918278 80,23.5 L80,16 L60,16 C60,19.8947868 60,22.3947868 60,23.5" id="Path" stroke="#000000" stroke-width="3" transform="translate(64.000000, 23.750000) scale(1, -1) translate(-64.000000, -23.750000) "></path>
+        </g>
+    </g>
+</svg>
