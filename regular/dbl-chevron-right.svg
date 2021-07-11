@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg   viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>dbl-chevron-right</title>
     <g id="dbl-chevron-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <path d="M57.2769025,13.7414161 L107.035582,64.018415 L57.2584875,113.276998 L53.7415125,109.723002 L99.964,63.981 L53.7230975,17.2585839 L57.2769025,13.7414161 Z M25.2769025,13.7414161 L75.0355819,64.018415 L25.2584875,113.276998 L21.7415125,109.723002 L67.964,63.981 L21.7230975,17.2585839 L25.2769025,13.7414161 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>

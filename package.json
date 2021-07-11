@@ -1,0 +1,29 @@
+{
+  "name": "graphis",
+  "version": "0.1.0",
+  "description": "a stylish and convenient icon font",
+  "main": "index.js",
+  "files": [
+    "font",
+    "helpers",
+    "light",
+    "regular"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loreanvictor/graphis.git"
+  },
+  "keywords": [
+    "icon-font",
+    "icons"
+  ],
+  "author": "Eugene Ghanizadeh Khoub <ghanizadeh.eugene@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loreanvictor/graphis/issues"
+  },
+  "homepage": "https://github.com/loreanvictor/graphis#readme"
+}
