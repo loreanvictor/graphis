@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'graphis';
-  src:  url('./graphis.eot?el5dl2');
-  src:  url('./graphis.eot?el5dl2#iefix') format('embedded-opentype'),
-    url('./graphis.ttf?el5dl2') format('truetype'),
-    url('./graphis.woff?el5dl2') format('woff'),
-    url('./graphis.svg?el5dl2#graphis') format('svg');
+  src:  url('graphis.eot?el5dl2');
+  src:  url('graphis.eot?el5dl2#iefix') format('embedded-opentype'),
+    url('graphis.ttf?el5dl2') format('truetype'),
+    url('graphis.woff?el5dl2') format('woff'),
+    url('graphis.svg?el5dl2#graphis') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
