@@ -1052,11 +1052,11 @@
       },
       "metrics": {
         "emSize": 1024,
-        "baseline": 20,
+        "baseline": 10,
         "whitespace": 25
       },
       "embed": false,
-      "autoHost": true,
+      "autoHost": false,
       "includeMetadata": true,
       "showSelector": false,
       "showMetrics": true,
