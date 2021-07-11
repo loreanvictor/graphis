@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg   viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg   viewBox="0 0 116 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>dbl-chevron-left</title>
     <g id="dbl-chevron-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M72.4817768,13.7414161 L76.0355819,17.2585839 L29.7946793,63.981 L76.0171669,109.723002 L72.5001918,113.276998 L22.7230975,64.018415 L72.4817768,13.7414161 Z M104.481777,13.7414161 L108.035582,17.2585839 L61.7946793,63.981 L108.017167,109.723002 L104.500192,113.276998 L54.7230975,64.018415 L104.481777,13.7414161 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M64.7586793,8 L68.3124844,11.5171679 L22.0715819,58.2395839 L68.2940694,103.981586 L64.7770943,107.535582 L15,58.2769989 L64.7586793,8 Z M96.7586793,8 L100.312484,11.5171679 L54.0715819,58.2395839 L100.294069,103.981586 L96.7770943,107.535582 L47,58.2769989 L96.7586793,8 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
     </g>
 </svg>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg   viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg   viewBox="0 0 116 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>x-mark</title>
     <g id="x-mark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Path" fill="#000000" fill-rule="nonzero" points="96.232233 27.232233 99.767767 30.767767 67.035233 63.500233 99.767767 96.232233 96.232233 99.767767 63.500233 67.035233 30.767767 99.767767 27.232233 96.232233 59.965233 63.500233 28.232233 31.767767 31.767767 28.232233 63.500233 59.965233"></polygon>
+        <polygon id="Path" fill="#000000" fill-rule="nonzero" points="90.23 21.23 93.7655339 24.7655339 61.033 57.498 93.7655339 90.23 90.23 93.7655339 57.498 61.033 24.7655339 93.7655339 21.23 90.23 53.963 57.498 22.23 25.7655339 25.7655339 22.23 57.498 53.963"></polygon>
     </g>
 </svg>

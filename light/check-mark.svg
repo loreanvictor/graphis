@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg   viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>check-mark</title>
-    <g id="check-mark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" stroke-opacity="0.01" stroke="#979797" stroke-width="0.1" x="0" y="0" width="128" height="128"></rect>
-        <polygon id="Path-48" fill="#000000" fill-rule="nonzero" points="110.93934 30.9393398 113.06066 33.0606602 48 98.1213203 22.9393398 73.0606602 25.0606602 70.9393398 48 93.879"></polygon>
-    </g>
-</svg>

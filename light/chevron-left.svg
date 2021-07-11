@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg   viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>chevron-left</title>
-    <g id="chevron-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" stroke-opacity="0.01" stroke="#979797" stroke-width="0.1" transform="translate(64.000000, 64.000000) scale(-1, 1) translate(-64.000000, -64.000000) " x="0" y="0" width="128" height="128"></rect>
-        <polygon id="Path-26" fill="#000000" fill-rule="nonzero" transform="translate(57.027604, 63.505524) scale(-1, 1) translate(-57.027604, -63.505524) " points="31.4338585 16.5551504 33.5661415 14.4448496 82.6213491 64.011049 33.5550925 112.566199 31.4449075 110.433801 78.377 63.988"></polygon>
-    </g>
-</svg>
