@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dbl-chevron-left</title>
+    <g id="dbl-chevron-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke-opacity="0.01" stroke="#979797" stroke-width="0.1" transform="translate(64.000000, 64.000000) scale(-1, 1) translate(-64.000000, -64.000000) " x="0" y="0" width="128" height="128"></rect>
+        <path d="M72.4890661,14.4448496 L74.6213491,16.5551504 L27.6782076,63.988 L74.6103001,110.433801 L72.5001151,112.566199 L23.4338585,64.011049 L72.4890661,14.4448496 Z M104.489066,14.4448496 L106.621349,16.5551504 L59.6782076,63.988 L106.6103,110.433801 L104.500115,112.566199 L55.4338585,64.011049 L104.489066,14.4448496 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

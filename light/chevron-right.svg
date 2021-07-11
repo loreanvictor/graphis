@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chevron-right</title>
+    <g id="chevron-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke-opacity="0.01" stroke="#979797" stroke-width="0.1" x="0" y="0" width="128" height="128"></rect>
+        <polygon id="Path-26" fill="#000000" fill-rule="nonzero" points="46.4338585 16.5551504 48.5661415 14.4448496 97.6213491 64.011049 48.5550925 112.566199 46.4449075 110.433801 93.377 63.988"></polygon>
+    </g>
+</svg>

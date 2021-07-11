@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pencil</title>
+    <g id="pencil" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke-opacity="0.01" stroke="#979797" stroke-width="0.1" x="0" y="0" width="128" height="128"></rect>
+        <polygon id="Path" fill="#000000" fill-rule="nonzero" points="43.2447002 99.2869895 36.5271857 92.5694751 38.6485061 90.4481548 43.2454073 95.0450559 110.420551 27.8699117 101.228163 18.6775236 33.2165118 86.6891751 27.4719763 101.624685 34.8293196 98.7952323 35.9062569 101.595269 22.248351 106.84831 30.6452441 85.0163879 101.227456 14.4341758 114.662485 27.8692046"></polygon>
+    </g>
+</svg>
