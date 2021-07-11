@@ -1,7 +1,10 @@
 
-import { configuration, DefaultMarkdownCustomInlineComponents, DefaultConfig } from '@codedoc/core';
+import { configuration,
+    DefaultMarkdownCustomComponents,
+    DefaultMarkdownCustomInlineComponents,
+    DefaultConfig } from '@codedoc/core';
 
-import { Glyph } from './components/glyph';
+import { Glyph, GlyphHolder } from './components/glyph';
 import { copyGlyphs$ } from './components/copy';
 import { theme } from './theme';
 
@@ -21,6 +24,10 @@ export const config = /*#__PURE__*/configuration({
     }
   },
   markdown: {
+    customComponents: {
+      ...DefaultMarkdownCustomComponents,
+      GlyphHolder,
+    },
     customInlineComponents: {
       ...DefaultMarkdownCustomInlineComponents,
       Glyph,
