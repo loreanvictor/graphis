@@ -14,14 +14,11 @@
 ```
 👉 **STEP 2**: set the font family on icon elements:
 ```css
-i {
-  font-family: 'graphis';
-
-  font-style: normal; /* --> to cancel italicity of <i> elements */
-  font-size: 1.5em;   /* --> this is a good idea for when you want to display icons alongside text */
+body, * {
+  font-family: 'graphis', sans-serif;
 }
 ```
 👉 **STEP 3**: use the corresponding emojis to render icons:
 ```html
-<button><i>🔒</i> Login</button>
+<button>🔒 Login</button>
 ```
