@@ -4,9 +4,8 @@
 
 ---
 
-**graphis** is a stylish icon font that is super convenient to use. Glyphs are mapped to emojis, so just drop the font and you're good to go. Want to use icons inside text? Add your text font as a fallback font, emojis are icons and the rest is normal text.
-
-# How to Use
+**graphis** is a stylish icon font that is super convenient to use. Icons are mapped to emojis and special characters, so
+just load the font and copy the icons like any other text.
 
 👉 **STEP 1**: load the icon font:
 ```html
@@ -14,14 +13,15 @@
 ```
 👉 **STEP 2**: set the font family on icon elements:
 ```css
-i {
-  font-family: 'graphis';
-
-  font-style: normal; /* --> to cancel italicity of <i> elements */
-  font-size: 1.5em;   /* --> this is a good idea for when you want to display icons alongside text */
+body, * {
+  font-family: 'graphis', sans-serif;
 }
 ```
-👉 **STEP 3**: use the corresponding emojis to render icons:
+👉 **STEP 3**: use the emojis and special characters to render icons:
 ```html
-<button><i>🔒</i> Login</button>
+<h1>👤 Account</h1>
+<input type="email" placeholder="✉ Email"/><br>
+<input type="password" placeholder="⊀ password"/><br>
+<button>🔒 Login</button>
 ```
+[🚀 Check it out!](https://codepen.io/lorean_victor/pen/oNWzOQr)
