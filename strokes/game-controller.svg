@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>game-controller</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="game-controller" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M16.5,81 L16.5,88.5 C16.5,97.336556 23.663444,104.5 32.5,104.5 C41.336556,104.5 48.5,97.336556 48.5,88.5 L48.5,80.5" id="Path" stroke="#000000" stroke-width="3"></path>
+            <path d="M80.5,86.5 L80.5,88.5 C80.5,97.336556 87.663444,104.5 96.5,104.5 C105.336556,104.5 112.5,97.336556 112.5,88.5" id="Path" stroke="#000000" stroke-width="3"></path>
+            <path d="M72.5,64.5 L60.5,64.5 C58.290861,64.5 56.5,66.290861 56.5,68.5 L56.5,73 L56.5,73 L72.5,73 C76.918278,73 80.5,76.581722 80.5,81 L80.5,88.5" id="Path" stroke="#000000" stroke-width="3"></path>
+            <path d="M16.5,88.5 L16.5,49 C16.5,40.163444 23.663444,33 32.5,33 L44.1267861,33 C46.8399152,33 49.3541066,34.423511 50.75,36.75 C52.1458934,39.076489 54.6600848,40.5 57.3732139,40.5 L72.25,40.5 C74.8659597,40.5 77.2689602,39.0581997 78.5,36.75 C79.7310398,34.4418003 82.1340403,33 84.75,33 L96.5,33 C105.336556,33 112.5,40.163444 112.5,49 L112.5,88.5 L112.5,88.5" id="Path-74" stroke="#000000" stroke-width="3"></path>
+            <line x1="96.5" y1="24.5" x2="80.5" y2="24.5" id="Path-76" stroke="#000000" stroke-width="3"></line>
+            <line x1="32.5" y1="24.5" x2="48.5" y2="24.5" id="Path-77" stroke="#000000" stroke-width="3"></line>
+            <polyline id="Path-78" stroke="#000000" stroke-width="3" points="24.5 52.5 32.5 52.5 32.5 44.5"></polyline>
+            <line x1="36.5" y1="52.5" x2="40.5" y2="52.5" id="Path-79" stroke="#000000" stroke-width="3"></line>
+            <line x1="32.5" y1="56.5" x2="32.5" y2="60.5" id="Path-80" stroke="#000000" stroke-width="3"></line>
+            <path d="M96.5,60.5 C100.918278,60.5 104.5,56.918278 104.5,52.5 C104.5,48.081722 100.918278,44.5 96.5,44.5 C92.081722,44.5 88.5,48.081722 88.5,52.5" id="Path" stroke="#000000" stroke-width="3"></path>
+            <line x1="32.5" y1="88.5" x2="32.5" y2="73" id="Path-82" stroke="#000000" stroke-width="3"></line>
+            <line x1="96.5" y1="88.5" x2="96.5" y2="73" id="Path-83" stroke="#000000" stroke-width="3"></line>
+        </g>
+    </g>
+</svg>
