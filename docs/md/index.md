@@ -19,7 +19,7 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [➤](:Glyph (tag=send message paper-plane chat))
 > [✉](:Glyph (tag=email send letter envelope mail notification))
 > [💬](:Glyph (tag=chat discussion message send announcement talk))
-> [](:Glyph (tag=chat discussion message send talk))
+> [🙊](:Glyph (tag=chat discussion message send talk))
 > [🎙](:Glyph (tag=microphone audio voice sound))
 > [🎤](:Glyph (tag=microphone audio voice sound))
 > [🎥](:Glyph (tag=camera video selfie picture webcam))
@@ -73,6 +73,14 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🔍](:Glyph (tag=find select maginfying-glass search))
 > [🙈](:Glyph (tag=find select magnifying-glass search))
 > [⚙](:Glyph (tag=settings options configurations))
+> [🎧](:Glyph (tag=headphone sound music audio))
+> [◙](:Glyph (tag=speaker sound music audio))
+> [🎮](:Glyph (tag=game-controller controller joystick input))
+> [⌨](:Glyph (tag=keyboard keypad input typing))
+> [📇](:Glyph (tag=keyboard keypad input typing))
+> [🖱](:Glyph (tag=mouse scroll input click))
+> [☎](:Glyph (tag=numpad phone dialpad input))
+> [⍠](:Glyph (tag=remote tv input))
 
 ---
 
