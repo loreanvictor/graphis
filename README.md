@@ -1,5 +1,10 @@
 <div align="center">
 <img src="banner-rainbow.svg" width="512px"/>
+
+<br><br>
+  
+[![version](https://img.shields.io/npm/v/graphis?style=flat-square)](https://www.npmjs.com/package/graphis)
+  
 </div>
 
 ---
