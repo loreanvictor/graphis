@@ -63,7 +63,7 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🚀](:Glyph (tag=rocket launch space moon success))
 > [📄](:Glyph (tag=article blog post writing paper journal))
 > [📚](:Glyph (tag=books library reading bookmarks))
-> [☰](:Glyph (tag=layout format list items checklist bullets))
+> [≔](:Glyph (tag=layout format content list items checklist bullets))
 > [🪄](:Glyph (tag=magic wand wizard autoheal autofix magical))
 > [∇](:Glyph (tag=filter find sort data table query))
 > [∆](:Glyph (tag=filter find sort data table query))
@@ -81,6 +81,17 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🖱](:Glyph (tag=mouse scroll input click))
 > [☎](:Glyph (tag=numpad phone dialpad input))
 > [⍠](:Glyph (tag=remote tv input))
+> [⊞](:Glyph (tag=grid layout content))
+> [▦](:Glyph (tag=grid compact layout content))
+> [⚏](:Glyph (tag=grid layout content))
+> [☷](:Glyph (tag=grid compact layout content))
+> [⊟](:Glyph (tag=stack cards rows layout content))
+> [▤](:Glyph (tag=stack compact cards rows layout content))
+> [◫](:Glyph (tag=stack cards columns layout content))
+> [▥](:Glyph (tag=stack compact cards columns layout content))
+> [⌗](:Glyph (tag=table layout content))
+> [≣](:Glyph (tag=lines layout content))
+> [🎇](:Glyph (tag=slider present layout content))
 
 ---
 
