@@ -1412,7 +1412,7 @@
       },
       "metrics": {
         "emSize": 1024,
-        "baseline": 10,
+        "baseline": 15,
         "whitespace": 25
       },
       "embed": false,
