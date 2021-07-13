@@ -92,6 +92,11 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [⌗](:Glyph (tag=table layout content))
 > [≣](:Glyph (tag=lines layout content))
 > [🎇](:Glyph (tag=slider present layout content))
+> [⤩](:Glyph (tag=flowchart flow-chart workflow algorithm process graph))
+> [⤮](:Glyph (tag=flowchart flow-chart workflow algorithm process graph))
+> [📊](:Glyph (tag=barchart bar-chart graph statistics stats))
+> [📈](:Glyph (tag=linechart line-chart graph statistics stats))
+> [🥧](:Glyph (tag=piechart pie-chart graph statistics stats))
 
 ---
 
