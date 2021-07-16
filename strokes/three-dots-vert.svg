@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>three-dots-vert</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="three-dots-vert" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M72.5,24.5 C72.5,20.081722 68.918278,16.5 64.5,16.5 C60.081722,16.5 56.5,20.081722 56.5,24.5 C56.5,28.918278 60.081722,32.5 64.5,32.5" id="Path" stroke="#000000" stroke-width="3" transform="translate(64.500000, 24.500000) scale(-1, 1) rotate(90.000000) translate(-64.500000, -24.500000) "></path>
+            <path d="M64.5,72.5 C68.918278,72.5 72.5,68.918278 72.5,64.5 C72.5,60.081722 68.918278,56.5 64.5,56.5 C60.081722,56.5 56.5,60.081722 56.5,64.5" id="Path" stroke="#000000" stroke-width="3" transform="translate(64.500000, 64.500000) scale(-1, 1) rotate(90.000000) translate(-64.500000, -64.500000) "></path>
+            <path d="M64.5,112.5 C68.918278,112.5 72.5,108.918278 72.5,104.5 C72.5,100.081722 68.918278,96.5 64.5,96.5 C60.081722,96.5 56.5,100.081722 56.5,104.5" id="Path" stroke="#000000" stroke-width="3" transform="translate(64.500000, 104.500000) scale(-1, 1) rotate(90.000000) translate(-64.500000, -104.500000) "></path>
+            <path d="M50.5,46.5 C56,46.5 60.5,42.5 70.5,42.5 C80.5,42.5 85.5,46.5 90.5,46.5" id="Path-151" stroke="#000000" stroke-width="3" transform="translate(70.500000, 44.500000) scale(-1, 1) rotate(90.000000) translate(-70.500000, -44.500000) "></path>
+            <path d="M58.544901,90.7599207 C59.751603,90.6239879 61.0489787,90.544901 62.455099,90.544901 C72.455099,90.544901 77.455099,94.544901 82.455099,94.544901" id="Path-151-Copy" stroke="#000000" stroke-width="3" transform="translate(70.500000, 92.544901) scale(-1, 1) rotate(90.000000) translate(-70.500000, -92.544901) "></path>
+        </g>
+    </g>
+</svg>

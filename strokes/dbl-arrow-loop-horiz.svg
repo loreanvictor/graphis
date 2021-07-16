@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dbl-arrow-loop-horiz</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dbl-arrow-loop-horiz" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M63.8385269,104.494641 L64.5,104.5 C86.59139,104.5 104.5,86.59139 104.5,64.5 C104.5,53.5391837 100.091391,43.6080533 92.950652,36.3830879 M64.5,24.5 C42.40861,24.5 24.5,42.40861 24.5,64.5 C24.5,75.5573618 28.9866153,85.5668184 36.2386748,92.8071988" id="Shape" stroke="#000000" stroke-width="3" transform="translate(64.500000, 64.500000) rotate(90.000000) translate(-64.500000, -64.500000) "></path>
+            <path d="M36.5,76.5 L14.9961509,62.1641006 C14.0770935,61.5513957 13.8287458,60.309657 14.4414507,59.3905996 C14.5879204,59.170895 14.7764463,58.9823691 14.9961509,58.8358994 L36.5,44.5 L36.5,44.5" id="Path-153" stroke="#000000" stroke-width="3" transform="translate(24.500000, 60.500000) rotate(90.000000) translate(-24.500000, -60.500000) "></path>
+            <path d="M116.5,84.5 L94.9961509,70.1641006 C94.0770935,69.5513957 93.8287458,68.309657 94.4414507,67.3905996 C94.5879204,67.170895 94.7764463,66.9823691 94.9961509,66.8358994 L116.5,52.5 L116.5,52.5" id="Path-153-Copy" stroke="#000000" stroke-width="3" transform="translate(104.500000, 68.500000) scale(-1, -1) rotate(90.000000) translate(-104.500000, -68.500000) "></path>
+        </g>
+    </g>
+</svg>

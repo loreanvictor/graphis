@@ -9,7 +9,7 @@
                         <rect x="0" y="0" width="128" height="128"></rect>
                     </g>
                 </g>
-                <polyline id="Path-26" stroke="#000000" stroke-width="3" points="47.5 15.5 95.5 64 47.5 111.5"></polyline>
+                <path d="M47.5,16.5 L93.3786797,62.3786797 C94.5502525,63.5502525 94.5502525,65.4497475 93.3786797,66.6213203 L47.5,112.5 L47.5,112.5" id="Path-26" stroke="#000000" stroke-width="3"></path>
             </g>
         </g>
     </g>

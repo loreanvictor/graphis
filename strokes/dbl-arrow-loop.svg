@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dbl-arrow-loop</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dbl-arrow-loop" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M63.8385269,104.494641 L64.5,104.5 C86.59139,104.5 104.5,86.59139 104.5,64.5 C104.5,53.5391837 100.091391,43.6080533 92.950652,36.3830879 M64.5,24.5 C42.40861,24.5 24.5,42.40861 24.5,64.5 C24.5,75.5573618 28.9866153,85.5668184 36.2386748,92.8071988" id="Shape" stroke="#000000" stroke-width="3"></path>
+            <path d="M72.5,120.5 L50.9961509,106.164101 C50.0770935,105.551396 49.8287458,104.309657 50.4414507,103.3906 C50.5879204,103.170895 50.7764463,102.982369 50.9961509,102.835899 L72.5,88.5 L72.5,88.5" id="Path-153" stroke="#000000" stroke-width="3"></path>
+            <path d="M80.5,40.5 L58.9961509,26.1641006 C58.0770935,25.5513957 57.8287458,24.309657 58.4414507,23.3905996 C58.5879204,23.170895 58.7764463,22.9823691 58.9961509,22.8358994 L80.5,8.5 L80.5,8.5" id="Path-153-Copy" stroke="#000000" stroke-width="3" transform="translate(68.500000, 24.500000) scale(-1, 1) translate(-68.500000, -24.500000) "></path>
+        </g>
+    </g>
+</svg>
