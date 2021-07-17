@@ -66,13 +66,13 @@ export function GlyphSearch(
   });
 
   return <div class={classes.glyphSearch}>
-    <input list="glyph-search-suggestions" type='text' _state={query} placeholder='🔍 Search ...'/>
+    <span onclick={() => query.next('')}>
+      {query.pipe(map(q => !!q ? '❌' : '🔍'))}
+    </span>
+    <input list="glyph-search-suggestions" type='text' _state={query} placeholder='Search ...'/>
     <datalist id="glyph-search-suggestions">
       <List of={suggestions} each={suggestion => <option>{suggestion}</option>}/>
     </datalist>
-    <span onclick={() => query.next('')}>
-      <b class={query.pipe(map(q => !!q ? 'active' : 'hidden'))}>❌</b>
-    </span>
   </div>;
 }
 
