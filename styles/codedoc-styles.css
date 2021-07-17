@@ -28,14 +28,15 @@
   min-width: 320px;
   appearance: none;
   line-height: 2;
-  padding-top: 6px;
   padding-left: 40px;
 }
 .glyphSearch-0-0-3 span {
-  top: 16px;
+  top: 0;
+  bottom: 0;
   cursor: pointer;
-  display: inline-block;
+  display: inline-flex;
   position: absolute;
+  align-items: center;
   margin-left: 16px;
 }
 .heading-0-0-4 {
