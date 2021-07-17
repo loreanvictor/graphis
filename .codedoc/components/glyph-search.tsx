@@ -1,7 +1,7 @@
 import { BehaviorSubject, Subscription } from 'rxjs';
 import { debounceTime, map } from 'rxjs/operators';
 import { ThemedComponentThis } from '@connectv/jss-theme';
-import { RendererLike, List } from '@connectv/html';
+import { RendererLike, List, ref } from '@connectv/html';
 import { transport } from '@connectv/sdh/transport';
 import { CodedocTheme } from '@codedoc/core';
 import { GlyphStyle } from './style';
@@ -41,6 +41,7 @@ export function GlyphSearch(
   const classes = this.theme.classes(GlyphStyle);
   const query = new BehaviorSubject('');
   const suggestions = new BehaviorSubject([] as string[]);
+  const input = ref<HTMLInputElement>();
 
   const sub = new Subscription();
 
@@ -53,7 +54,6 @@ export function GlyphSearch(
           else {
             const tags = (el.getAttribute('data-tag') || '').split(' ');
             const match = tags.some(tag => tag.indexOf(query.toLowerCase()) !== -1);
-            console.log(tags + '  ' + query + ' --> ' + match);
             if (match) el.removeAttribute('hidden');
             else el.setAttribute('hidden', '');
           }
@@ -66,10 +66,10 @@ export function GlyphSearch(
   });
 
   return <div class={classes.glyphSearch}>
-    <span onclick={() => query.next('')}>
+    <span onclick={() => { query.next(''); input.$.focus(); }}>
       {query.pipe(map(q => !!q ? '❌' : '🔍'))}
     </span>
-    <input list="glyph-search-suggestions" type='text' _state={query} placeholder='Search ...'/>
+    <input _ref={input} list="glyph-search-suggestions" type='text' _state={query} placeholder='Search ...'/>
     <datalist id="glyph-search-suggestions">
       <List of={suggestions} each={suggestion => <option>{suggestion}</option>}/>
     </datalist>
