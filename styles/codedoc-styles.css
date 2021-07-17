@@ -19,29 +19,60 @@
   text-align: center;
 }
 .glyphSearch-0-0-3 input {
-  padding: 12px;
+  padding: 8px;
   font-size: 16px;
+  max-width: 95vw;
+  min-width: 320px;
+  appearance: none;
+  line-height: 2;
 }
-.heading-0-0-4 {
+.glyphSearch-0-0-3 span {
   cursor: pointer;
-  position: relative;
+  display: inline-block;
+  padding: 12px;
+  background: #f5f5f5;
+  margin-left: -44px;
 }
-.anchor-0-0-5 {
-  top: 0;
-  left: -32px;
-  bottom: 0;
-  display: flex;
+.glyphSearch-0-0-3 span b {
+  transition: opacity .15s;
+}
+.glyphSearch-0-0-3 span b.active {
+  opacity: 1;
+}
+.glyphSearch-0-0-3 span b.hidden {
   opacity: 0;
-  position: absolute;
-  transform: translateX(-8px);
-  transition: opacity .1s, transform .1s;
-  align-items: center;
-  padding-right: 8px;
 }
-.heading-0-0-4:hover .anchor-0-0-5 {
-  opacity: 0.5;
-  transform: none;
+body.dark .glyphSearch-0-0-3 span {
+  background: #212121;
 }
+@media (prefers-color-scheme: dark) {
+  body:not(.dark-mode-animate) .glyphSearch-0-0-3 span {
+    background: #212121;
+  }
+}
+  body.dark-mode-animate .glyphSearch-0-0-3 span {
+    transition: background .3s;
+  }
+  .heading-0-0-4 {
+    cursor: pointer;
+    position: relative;
+  }
+  .anchor-0-0-5 {
+    top: 0;
+    left: -32px;
+    bottom: 0;
+    display: flex;
+    opacity: 0;
+    position: absolute;
+    transform: translateX(-8px);
+    transition: opacity .1s, transform .1s;
+    align-items: center;
+    padding-right: 8px;
+  }
+  .heading-0-0-4:hover .anchor-0-0-5 {
+    opacity: 0.5;
+    transform: none;
+  }
 @media screen and (max-width: 1200px) {
   .anchor-0-0-5 {
     display: none;
