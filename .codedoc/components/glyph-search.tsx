@@ -1,5 +1,5 @@
 import { BehaviorSubject, Subscription } from 'rxjs';
-import { debounceTime } from 'rxjs/operators';
+import { debounceTime, map } from 'rxjs/operators';
 import { ThemedComponentThis } from '@connectv/jss-theme';
 import { RendererLike, List } from '@connectv/html';
 import { transport } from '@connectv/sdh/transport';
@@ -17,7 +17,7 @@ function getSuggestableTags() {
   });
 
   Object.keys(mapping)
-    .sort((a, b) => mapping[b].length - mapping[a].length)
+    .sort((a, b) => a === 'miscellaneous' ? 1 : b === 'miscellaneous' ? -1 : 0)
     .forEach(candidate => {
       if (mapping[candidate].length > 12 || !result.some(tag => {
         const intersection = mapping[tag].filter(glyph => mapping[candidate].includes(glyph));
@@ -70,6 +70,9 @@ export function GlyphSearch(
     <datalist id="glyph-search-suggestions">
       <List of={suggestions} each={suggestion => <option>{suggestion}</option>}/>
     </datalist>
+    <span onclick={() => query.next('')}>
+      <b class={query.pipe(map(q => !!q ? 'active' : 'hidden'))}>❌</b>
+    </span>
   </div>;
 }
 

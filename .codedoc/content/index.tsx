@@ -34,6 +34,10 @@ export function content(_content: HTMLElement, toc: HTMLElement, renderer: Rende
                 padding: 4px;
                 outline: none;
               }
+
+              input[type=search]::-webkit-search-cancel-button {
+                -webkit-appearance: input-search-cancel;
+              }
             `}</style>
           ]}
 

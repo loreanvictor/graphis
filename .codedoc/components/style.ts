@@ -29,8 +29,32 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
 
   glyphSearch: {
     '& input': {
-      padding: 12,
+      padding: 8,
+      lineHeight: 2,
       fontSize: 16,
+      appearance: 'none',
+      minWidth: 320,
+      maxWidth: '95vw',
+    },
+
+    '& span': {
+      display: 'inline-block',
+      marginLeft: -44,
+      padding: 12,
+      cursor: 'pointer',
+      '& b': { transition: 'opacity .15s', },
+      '& b.active': { opacity: 1, },
+      '& b.hidden': { opacity: 0, },
+      background: theme.light.background,
+      'body.dark &': {
+        background: theme.dark.background,
+      },
+      '@media (prefers-color-scheme: dark)': {
+        'body:not(.dark-mode-animate) &': {
+          background: theme.dark.background,
+        }
+      },
+      'body.dark-mode-animate &': { transition: 'background .3s' },
     }
   }
 }));
