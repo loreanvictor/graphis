@@ -31,7 +31,6 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
     position: 'relative',
     '& input': {
       padding: 8,
-      paddingTop: 6,
       paddingLeft: 40,
       lineHeight: 2,
       fontSize: 16,
@@ -41,9 +40,11 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
     },
 
     '& span': {
-      display: 'inline-block',
+      display: 'inline-flex',
       position: 'absolute',
-      top: 16,
+      top: 0,
+      bottom: 0,
+      alignItems: 'center',
       marginLeft: 16,
       cursor: 'pointer',
     }
