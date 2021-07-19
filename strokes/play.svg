@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>play</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="play" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M32.5,32.5 L32.5,107.201429 C32.5,108.858283 33.8431458,110.201429 35.5,110.201429 C36.0437318,110.201429 36.5772411,110.053655 37.0434873,109.773908 L108.190057,67.0859659 C109.610798,66.2335214 110.071493,64.3907406 109.219048,62.9699998 C108.963292,62.543739 108.605621,62.1877123 108.178186,61.9339229 L32.5,17 L32.5,17" id="Path-170" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

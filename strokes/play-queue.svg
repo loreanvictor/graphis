@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>play-queue</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="play-queue" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M24.5,28.5 L24.5,43.1957524 C24.5,43.7480371 24.9477153,44.1957524 25.5,44.1957524 C25.6874197,44.1957524 25.8710673,44.1430829 26.0299989,44.0437507 L41.7307113,34.2308054 C42.6673844,33.6453848 42.9521307,32.411484 42.36671,31.4748109 C42.1992384,31.2068563 41.9706598,30.9823959 41.6997049,30.819823 L24.5,20.5 L24.5,20.5" id="Path-186" stroke="#000000" stroke-width="3"></path>
+            <line x1="56.5" y1="32.5" x2="104.5" y2="32.5" id="Path-187" stroke="#000000" stroke-width="3"></line>
+            <line x1="24.5" y1="56.5" x2="104.5" y2="56.5" id="Path-189" stroke="#000000" stroke-width="3"></line>
+            <line x1="24.5" y1="80.5" x2="104.5" y2="80.5" id="Path-190" stroke="#000000" stroke-width="3"></line>
+            <line x1="24.5" y1="104.5" x2="104.5" y2="104.5" id="Path-191" stroke="#000000" stroke-width="3"></line>
+        </g>
+    </g>
+</svg>

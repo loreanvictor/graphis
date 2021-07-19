@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pause-circle</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pause-circle" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M64,118 C93.8233765,118 118,93.8233765 118,64 C118,34.1766235 93.8233765,10 64,10 C34.1766235,10 10,34.1766235 10,64 C10,78.9058861 16.0394532,92.4011824 25.8048286,102.172358" id="Path" stroke="#000000" stroke-width="3"></path>
+            <path d="M56.5,72.5 L56.5,35.5 C56.5,33.8431458 55.1568542,32.5 53.5,32.5 L47.5,32.5 C45.8431458,32.5 44.5,33.8431458 44.5,35.5 L44.5,93.5 C44.5,95.1568542 45.8431458,96.5 47.5,96.5 L53.5,96.5 C55.1568542,96.5 56.5,95.1568542 56.5,93.5 L56.5,88.5 L56.5,88.5" id="Path-192" stroke="#000000" stroke-width="3"></path>
+            <path d="M84.5,48.5 L84.5,93.5 C84.5,95.1568542 83.1568542,96.5 81.5,96.5 L75.5,96.5 C73.8431458,96.5 72.5,95.1568542 72.5,93.5 L72.5,35.5 C72.5,33.8431458 73.8431458,32.5 75.5,32.5 L84.5,32.5 L84.5,32.5" id="Path-193" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>
