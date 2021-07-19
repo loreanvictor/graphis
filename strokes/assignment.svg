@@ -1,19 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>speaker</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="speaker" transform="translate(1.000000, 1.000000)">
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>paperclip</title>
+    <g id="paperclip" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" opacity="0.50125558" stroke="#979797">
+            <g id="grid">
+                <rect id="Rectangle" opacity="0.25" x="16.5" y="16.5" width="96" height="96"></rect>
+                <circle id="Oval" opacity="0.75" cx="64.5" cy="64.5" r="48"></circle>
+                <circle id="Oval-Copy-2" opacity="0.25" cx="64.5" cy="64.5" r="32"></circle>
+                <circle id="Oval-Copy" opacity="0.25" cx="64.5" cy="64.5" r="58"></circle>
+                <line x1="0.5" y1="64.5" x2="128.5" y2="64.5" id="Line" stroke-linecap="square"></line>
+                <line x1="0.5" y1="48.5" x2="128.5" y2="48.5" id="Line-Copy" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="128.5" y1="56.5" x2="0.5" y2="56.5" id="Line-13" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="128.5" y1="40.5" x2="0.5" y2="40.5" id="Line-13-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="128.5" y1="24.5" x2="0.5" y2="24.5" id="Line-13-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="128.5" y1="72.5" x2="0.5" y2="72.5" id="Line-13-Copy" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="128.5" y1="88.5" x2="0.5" y2="88.5" id="Line-13-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="128.5" y1="104.5" x2="0.5" y2="104.5" id="Line-13-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="0.5" y1="32.5" x2="128.5" y2="32.5" id="Line-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="0.5" y1="80.5" x2="128.5" y2="80.5" id="Line-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="0.5" y1="96.5" x2="128.5" y2="96.5" id="Line-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="64.5" y1="0.5" x2="64.5" y2="128.5" id="Line-2" stroke-linecap="square"></line>
+                <line x1="80.5" y1="0.5" x2="80.5" y2="128.5" id="Line-2-Copy" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="48.5" y1="0.5" x2="48.5" y2="128.5" id="Line-2-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="32.5" y1="0.5" x2="32.5" y2="128.5" id="Line-2-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="96.5" y1="0.5" x2="96.5" y2="128.5" id="Line-2-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="16.5" y1="112.5" x2="112.5" y2="16.5" id="Line-3" opacity="0.75" stroke-linecap="square"></line>
+                <line x1="16.5" y1="16.5" x2="112.5" y2="112.5" id="Line-4" opacity="0.75" stroke-linecap="square"></line>
+                <line x1="48.5" y1="16.5" x2="112.5" y2="80.5" id="Line-5" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="80.5" y1="16.5" x2="112.5" y2="48.5" id="Line-6" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="16.5" y1="48.5" x2="80.5" y2="112.5" id="Line-7" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="16.5" y1="80.5" x2="48.5" y2="112.5" id="Line-8" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="48.5" y1="112.5" x2="112.5" y2="48.5" id="Line-9" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="80.5" y1="112.5" x2="112.5" y2="80.5" id="Line-10" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="16.5" y1="80.5" x2="80.5" y2="16.5" id="Line-11" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="16.5" y1="48.5" x2="48.5" y2="16.5" id="Line-12" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="56.5" y1="128.5" x2="56.5" y2="0.5" id="Line-14" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="72.5" y1="128.5" x2="72.5" y2="0.5" id="Line-14-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="88.5" y1="128.5" x2="88.5" y2="0.5" id="Line-14-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="104.5" y1="128.5" x2="104.5" y2="0.5" id="Line-14-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="40.5" y1="128.5" x2="40.5" y2="0.5" id="Line-14-Copy" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="24.5" y1="128.5" x2="24.5" y2="0.5" id="Line-14-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+            </g>
+        </g>
+        <g>
             <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
                 <g id="Rectangle">
                     <rect x="0" y="0" width="128" height="128"></rect>
                 </g>
             </g>
-            <path d="M104.5,24.5 L104.5,104.5 C104.5,108.918278 100.918278,112.5 96.5,112.5 L32.5,112.5 C28.081722,112.5 24.5,108.918278 24.5,104.5 L24.5,24.5 C24.5,20.081722 28.081722,16.5 32.5,16.5 L96.5,16.5 L96.5,16.5" id="Path-89" stroke="#000000" stroke-width="3"></path>
-            <path d="M64.5,24.5 C57.872583,24.5 52.5,29.872583 52.5,36.5 C52.5,43.127417 57.872583,48.5 64.5,48.5 C71.127417,48.5 76.5,43.127417 76.5,36.5" id="Path" stroke="#000000" stroke-width="3"></path>
-            <path d="M64.5,88.5 C68.918278,88.5 72.5,84.918278 72.5,80.5 C72.5,76.081722 68.918278,72.5 64.5,72.5 C60.081722,72.5 56.5,76.081722 56.5,80.5 C56.5,83.5127329 58.1653559,86.136501 60.6257227,87.5009596" id="Path" stroke="#000000" stroke-width="3"></path>
-            <path d="M64.5,64.5 C62.7744315,64.5 61.1126633,64.773162 59.5555789,65.2786026 C57.9414587,65.8025574 56.4398317,66.5761192 55.0962406,67.5537455 C55.0169753,67.6114207 54.93826,67.669806 54.8601041,67.7288923 C53.5837527,68.6938209 52.4565866,69.8456715 51.5193336,71.1437162 C50.5543876,72.4801142 49.7907433,73.9714733 49.2728463,75.5733477 C49.2164795,75.7476922 49.1630237,75.9233459 49.1125363,76.1002513 C48.7136021,77.4980982 48.5,78.9741044 48.5,80.5 C48.5,82.2061622 48.7670524,83.8499509 49.2616377,85.3918468 C49.3170471,85.5645887 49.3753124,85.7360517 49.4363778,85.9061802 C49.9583421,87.3603733 50.6848967,88.7170694 51.5813382,89.9415652 C52.5471894,91.2608713 53.710254,92.4267124 55.0271273,93.3956837 C55.1249981,93.4676982 55.2237185,93.5386254 55.3232707,93.6084473 C56.6188475,94.5171128 58.0552944,95.238589 59.5933376,95.733602 C61.1395177,96.2312339 62.788372,96.5 64.5,96.5 C66.2232158,96.5 67.8828051,96.2275824 69.4380515,95.7234635 C70.9645151,95.2286744 72.3904622,94.5106808 73.6773955,93.60798 C73.7592946,93.550533 73.8406307,93.492338 73.921394,93.4334049 C75.2659817,92.4522556 76.4517724,91.2665173 77.4329807,89.9219753 C78.3043593,88.727932 79.0143914,87.408646 79.5310095,85.9961849 C79.5964256,85.8173338 79.6587406,85.6369887 79.7178894,85.4552148 C80.225574,83.8950171 80.5,82.2295564 80.5,80.5 C80.5,78.9588287 80.2820998,77.4685508 79.8754269,76.0582936 C79.8204506,75.8676473 79.7620245,75.6784634 79.7002205,75.4908138 C79.1832736,73.9212578 78.4300053,72.4590471 77.4825251,71.146291 C76.540497,69.8410889 75.4064856,68.6836265 74.1218778,67.7152904 C72.7264066,66.6633857 71.1532239,65.8346595 69.455383,65.2821653" id="Path" stroke="#000000" stroke-width="3"></path>
-            <path d="M64.5,24.5 C57.872583,24.5 52.5,29.872583 52.5,36.5 C52.5,43.127417 57.872583,48.5 64.5,48.5 C71.127417,48.5 76.5,43.127417 76.5,36.5 C76.5,33.2289719 75.1912307,30.2636232 73.0687772,28.099039" id="Path" stroke="#000000" stroke-width="3"></path>
-            <path d="M80.6827883,98.2235641 C85.4865611,93.8349392 88.5,87.5193828 88.5,80.5 C88.5,73.3345402 85.3598335,66.9025056 80.3805662,62.5049617 M48.5242012,62.5895166 C43.600161,66.9847419 40.5,73.3803302 40.5,80.5 C40.5,87.7571409 43.7210366,94.2619685 48.8114616,98.6628344" id="Shape" stroke="#000000" stroke-width="3"></path>
+            <path d="M88,37 L42,83 C38.6862915,86.3137085 38.6862915,91.6862915 42,95 C45.2266845,98.2266845 50.4581736,98.2266845 53.6848581,95 C53.7366806,94.9481775 53.7878113,94.8956678 53.8382366,94.8424848 L102.147225,43.8915987 C107.649752,38.0881519 107.584749,28.9743674 102,23.25 C96.5449149,17.6585378 87.589919,17.5479823 81.9984568,23.0030674 C81.9567953,23.0437128 81.915385,23.084615 81.8742284,23.1257716 L31.0332964,73.9667036 C22.5736082,82.4263918 22.1217788,95.9963186 30,105 C37.2336839,113.267067 49.7995255,114.10479 58.0665928,106.871106 C58.398773,106.580448 58.7211861,106.278814 59.0332964,105.966704 L100,65 L100,65" id="Path-169" stroke="#000000" stroke-width="3"></path>
         </g>
     </g>
 </svg>
