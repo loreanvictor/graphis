@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>text-align-right</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="text-align-right" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M16.5,24.5 L104.5,24.5 C108.918278,24.5 112.5,28.081722 112.5,32.5 C112.5,36.918278 108.918278,40.5 104.5,40.5 L24.5,40.5 C20.081722,40.5 16.5,44.081722 16.5,48.5 C16.5,52.918278 20.081722,56.5 24.5,56.5 L64.5,56.5 L64.5,56.5" id="Path-203" stroke="#000000" stroke-width="3" transform="translate(64.500000, 40.500000) scale(-1, 1) translate(-64.500000, -40.500000) "></path>
+            <path d="M16.5,72.5 L104.5,72.5 C108.918278,72.5 112.5,76.081722 112.5,80.5 C112.5,84.918278 108.918278,88.5 104.5,88.5 L24.5,88.5 C20.081722,88.5 16.5,92.081722 16.5,96.5 C16.5,100.918278 20.081722,104.5 24.5,104.5 L56.5,104.5 C60.918278,104.5 64.5,108.081722 64.5,112.5 L64.5,112.5 L64.5,112.5" id="Path-204" stroke="#000000" stroke-width="3" transform="translate(64.500000, 92.500000) scale(-1, 1) translate(-64.500000, -92.500000) "></path>
+        </g>
+    </g>
+</svg>

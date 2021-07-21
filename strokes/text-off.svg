@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>text-off</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="text-off" transform="translate(1.000000, 1.000000)">
+    <g id="text-off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" opacity="0.50125558" stroke="#979797">
+            <g id="grid">
+                <rect id="Rectangle" opacity="0.25" x="16.5" y="16.5" width="96" height="96"></rect>
+                <circle id="Oval" opacity="0.75" cx="64.5" cy="64.5" r="48"></circle>
+                <circle id="Oval-Copy-2" opacity="0.25" cx="64.5" cy="64.5" r="32"></circle>
+                <circle id="Oval-Copy" opacity="0.25" cx="64.5" cy="64.5" r="58"></circle>
+                <line x1="0.5" y1="64.5" x2="128.5" y2="64.5" id="Line" stroke-linecap="square"></line>
+                <line x1="0.5" y1="48.5" x2="128.5" y2="48.5" id="Line-Copy" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="128.5" y1="56.5" x2="0.5" y2="56.5" id="Line-13" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="128.5" y1="40.5" x2="0.5" y2="40.5" id="Line-13-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="128.5" y1="24.5" x2="0.5" y2="24.5" id="Line-13-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="128.5" y1="72.5" x2="0.5" y2="72.5" id="Line-13-Copy" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="128.5" y1="88.5" x2="0.5" y2="88.5" id="Line-13-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="128.5" y1="104.5" x2="0.5" y2="104.5" id="Line-13-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="0.5" y1="32.5" x2="128.5" y2="32.5" id="Line-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="0.5" y1="80.5" x2="128.5" y2="80.5" id="Line-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="0.5" y1="96.5" x2="128.5" y2="96.5" id="Line-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="64.5" y1="0.5" x2="64.5" y2="128.5" id="Line-2" stroke-linecap="square"></line>
+                <line x1="80.5" y1="0.5" x2="80.5" y2="128.5" id="Line-2-Copy" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="48.5" y1="0.5" x2="48.5" y2="128.5" id="Line-2-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="32.5" y1="0.5" x2="32.5" y2="128.5" id="Line-2-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="96.5" y1="0.5" x2="96.5" y2="128.5" id="Line-2-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="16.5" y1="112.5" x2="112.5" y2="16.5" id="Line-3" opacity="0.75" stroke-linecap="square"></line>
+                <line x1="16.5" y1="16.5" x2="112.5" y2="112.5" id="Line-4" opacity="0.75" stroke-linecap="square"></line>
+                <line x1="48.5" y1="16.5" x2="112.5" y2="80.5" id="Line-5" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="80.5" y1="16.5" x2="112.5" y2="48.5" id="Line-6" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="16.5" y1="48.5" x2="80.5" y2="112.5" id="Line-7" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="16.5" y1="80.5" x2="48.5" y2="112.5" id="Line-8" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="48.5" y1="112.5" x2="112.5" y2="48.5" id="Line-9" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="80.5" y1="112.5" x2="112.5" y2="80.5" id="Line-10" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="16.5" y1="80.5" x2="80.5" y2="16.5" id="Line-11" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="16.5" y1="48.5" x2="48.5" y2="16.5" id="Line-12" opacity="0.25" stroke-linecap="square"></line>
+                <line x1="56.5" y1="128.5" x2="56.5" y2="0.5" id="Line-14" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="72.5" y1="128.5" x2="72.5" y2="0.5" id="Line-14-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="88.5" y1="128.5" x2="88.5" y2="0.5" id="Line-14-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="104.5" y1="128.5" x2="104.5" y2="0.5" id="Line-14-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="40.5" y1="128.5" x2="40.5" y2="0.5" id="Line-14-Copy" opacity="0.1" stroke-linecap="square"></line>
+                <line x1="24.5" y1="128.5" x2="24.5" y2="0.5" id="Line-14-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+            </g>
+        </g>
+        <g>
             <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
                 <g id="Rectangle">
                     <rect x="0" y="0" width="128" height="128"></rect>
                 </g>
             </g>
-            <path d="M16,32 L24,32 M40,32 L104,32 C108.418278,32 112,35.581722 112,40 C112,44.418278 108.418278,48 104,48 C80.4930596,48 64.4930596,48 56,48 M40,48 C36.4444444,48 31.1111111,48 24,48 C19.581722,48 16,51.581722 16,56 C16,60.418278 19.581722,64 24,64 C38.2222222,64 48.8888889,64 56,64 M72,64 C77.7584396,64 88.4251063,64 104,64 C108.418278,64 112,67.581722 112,72 C112,76.418278 108.418278,80 104,80 C96.4810729,80 91.1477396,80 88,80 M71.5,80 C60.9444444,80 45.1111111,80 24,80 C19.581722,80 16,83.581722 16,88 C16,92.418278 19.581722,96 24,96 L64,96 C72.836556,96 80,103.163444 80,112" id="Shape" stroke="#000000" stroke-width="3"></path>
             <line x1="16" y1="16" x2="112" y2="112" id="Path-4" stroke="#000000" stroke-width="3"></line>
+            <path d="M32.5,24.5 L104.5,24.5 C108.918278,24.5 112.5,28.081722 112.5,32.5 C112.5,36.918278 108.918278,40.5 104.5,40.5 L48.5,40.5 L48.5,40.5 M32.5,40.5 L24.5,40.5 C20.081722,40.5 16.5,44.081722 16.5,48.5 C16.5,52.918278 20.081722,56.5 24.5,56.5 L48.5,56.5 L48.5,56.5 M64.5,56.5 L104.5,56.5 C108.918278,56.5 112.5,60.081722 112.5,64.5 C112.5,68.918278 108.918278,72.5 104.5,72.5 L80.5,72.5 L80.5,72.5 M64.5,72.5 L24.5,72.5 C20.081722,72.5 16.5,76.081722 16.5,80.5 C16.5,84.918278 20.081722,88.5 24.5,88.5 L64.5,88.5 C73.336556,88.5 80.5,95.663444 80.5,104.5 L80.5,104.5 L80.5,104.5" id="Shape" stroke="#000000" stroke-width="3"></path>
         </g>
     </g>
 </svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>underline</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="underline" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M24.5,24.5 L48.5,24.5 L36.5,24.5 L36.5,76.5 C36.5,91.963973 49.036027,104.5 64.5,104.5 C79.963973,104.5 92.5,91.963973 92.5,76.5 L92.5,24.5 L92.5,24.5 L104.5,24.5 L80.5,24.5" id="Path-199" stroke="#000000" stroke-width="3"></path>
+            <line x1="32.5" y1="112.5" x2="96.5" y2="112.5" id="Path-200" stroke="#000000" stroke-width="3"></line>
+        </g>
+    </g>
+</svg>

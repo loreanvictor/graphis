@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  viewBox="0 0 116 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>strike-through</title>
+    <g id="strike-through" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M98.5,16 L98.5,21 L89,21 L89,70.5 C89,87.176238 75.6164256,100.726575 59.0043733,100.995914 L58.5,101 C41.823762,101 28.2734252,87.6164256 28.0040861,71.0043733 L28,70.5 L28,66.5 L33,66.5 L33,70.5 C33,84.5832611 44.4167389,96 58.5,96 C72.4424285,96 83.7713986,84.8104542 83.9965837,70.9216891 L84,70.5 L84,21 L74.5,21 L74.5,16 L98.5,16 Z M78.5,56 L78.5,61 L10.5,61 L10.5,56 L78.5,56 Z M106.5,56 L106.5,61 L95,61 L95,56 L106.5,56 Z M42.5,16 L42.5,21 L33,21 L33,51 L28,51 L28,21 L18.5,21 L18.5,16 L42.5,16 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

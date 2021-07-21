@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="116px" viewBox="0 0 117 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pilcrow</title>
+    <g id="pilcrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.000000)">
+        <path d="M91,16 L91,21 L77,21 L77,98.5 L72,98.5 L72,21 L46.5,21 C36.9448462,21 29.1783049,28.6579601 29.0030264,38.1712297 L29,38.5 C29,48.0551538 36.6579601,55.8216951 46.1712297,55.9969736 L46.5,56 L48,56 L48,27 L53,27 L53,98.5 L48,98.5 L48,61 L46.5,61 C34.1978572,61 24.2017071,51.1268714 24.0030144,38.8720786 L24,38.5 C24,26.1978572 33.8731286,16.2017071 46.1279214,16.0030144 L46.5,16 L91,16 Z" id="Path-214" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

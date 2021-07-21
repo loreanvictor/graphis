@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>clipboard</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="clipboard" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M67.8817097,27.1373245 C68.2732963,26.5190463 68.5,25.7859979 68.5,25 C68.5,22.790861 66.709139,21 64.5,21 C62.290861,21 60.5,22.790861 60.5,25" id="Path" stroke="#000000" stroke-width="3"></path>
+            <path d="M64.5,112.5 L31,112.5 C27.6862915,112.5 24.5,109.313708 24.5,106 L24.5,30.5 C24.5,27.1862915 27.6862915,24.5 31,24.5 C38.7469558,24.5 44.4136225,24.5 48,24.5 M80,24.5 C84,24.5 90,24.5 98,24.5 C101.313708,24.5 104.5,26.6862915 104.5,30 L104.5,104.5 C104.5,108.918278 100.918278,112.5 96.5,112.5 L96.5,112.5 L96.5,112.5" id="Shape" stroke="#000000" stroke-width="3"></path>
+            <path d="M52,16.5 L48.5,16.5 L48.5,24.5 C48.5,28.918278 52.081722,32.5 56.5,32.5 L72.5,32.5 C76.918278,32.5 80.5,28.918278 80.5,24.5 L80.5,16.5 L60.5,16.5 C60.5,20.7281202 60.5,23.3947868 60.5,24.5" id="Path" stroke="#000000" stroke-width="3" transform="translate(64.500000, 24.500000) scale(1, -1) translate(-64.500000, -24.500000) "></path>
+        </g>
+    </g>
+</svg>
