@@ -33,6 +33,12 @@
 .glyph-0-0-1[hidden] {
   display: none;
 }
+.glyphHolder-0-0-2 p {
+  display: none;
+}
+.glyphHolder-0-0-2.searching h3 {
+  display: none;
+}
 .glyphSearch-0-0-3 {
   display: flex;
   position: relative;
@@ -44,6 +50,7 @@
   margin: 0;
   font-size: 18px;
   min-width: 0;
+  font-weight: bold;
   margin-left: 4px;
 }
 .glyphSearch-0-0-3 input {
