@@ -63,26 +63,31 @@
   align-items: center;
   margin-left: 16px;
 }
-.heading-0-0-4 {
-  cursor: pointer;
-  position: relative;
+@media only screen and (max-width: 768px) {
+  .glyphSearch-0-0-3 button {
+    display: none;
+  }
 }
-.anchor-0-0-5 {
-  top: 0;
-  left: -32px;
-  bottom: 0;
-  display: flex;
-  opacity: 0;
-  position: absolute;
-  transform: translateX(-8px);
-  transition: opacity .1s, transform .1s;
-  align-items: center;
-  padding-right: 8px;
-}
-.heading-0-0-4:hover .anchor-0-0-5 {
-  opacity: 0.5;
-  transform: none;
-}
+  .heading-0-0-4 {
+    cursor: pointer;
+    position: relative;
+  }
+  .anchor-0-0-5 {
+    top: 0;
+    left: -32px;
+    bottom: 0;
+    display: flex;
+    opacity: 0;
+    position: absolute;
+    transform: translateX(-8px);
+    transition: opacity .1s, transform .1s;
+    align-items: center;
+    padding-right: 8px;
+  }
+  .heading-0-0-4:hover .anchor-0-0-5 {
+    opacity: 0.5;
+    transform: none;
+  }
 @media screen and (max-width: 1200px) {
   .anchor-0-0-5 {
     display: none;
