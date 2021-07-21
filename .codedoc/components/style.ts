@@ -43,6 +43,12 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
       minWidth: 0,
       margin: 0,
       marginLeft: 4,
+
+      '@media only screen and (max-width: 768px)' : {
+        '&': {
+          display: 'none'
+        }
+      }
     },
 
     '& input': {
