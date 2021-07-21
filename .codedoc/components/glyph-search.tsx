@@ -65,6 +65,9 @@ export function GlyphSearch(
     bind() {
       suggestions.next(getSuggestableTags());
       sub.add(query.pipe(debounceTime(200)).subscribe(query => {
+
+        holder.$.parentElement?.classList.toggle('searching', !!query);
+
         document.querySelectorAll('.copy-glyph').forEach(el => {
           if (!query) el.removeAttribute('hidden');
           else {
@@ -90,11 +93,11 @@ export function GlyphSearch(
       <List of={suggestions} each={suggestion => <option>{suggestion}</option>}/>
     </datalist>
     <Button 
-      label={bold.pipe(map(b => b ? '𝙱' : '𝔹')) as any}
+      label={bold.pipe(map(b => b ? '𝔹' : '𝙱')) as any}
       onclick={toggleWeight as any}>
     </Button>
     <Button
-      label={fontSize.pipe(map(s => s === 'small' ? '⚏' : s === 'medium' ? '⊞' : '☷')) as any}
+      label={fontSize.pipe(map(s => s === 'small' ? '☷' : s === 'medium' ? '⚏' : '⊞')) as any}
       onclick={toggleSize as any}>
     </Button>
   </div>;

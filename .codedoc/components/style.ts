@@ -29,6 +29,8 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
   },
 
   glyphHolder: {
+    '& p': { display: 'none' },
+    '&.searching h3': { display: 'none' },
   },
 
   glyphSearch: {
@@ -43,6 +45,7 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
       minWidth: 0,
       margin: 0,
       marginLeft: 4,
+      fontWeight: 'bold',
 
       '@media only screen and (max-width: 768px)' : {
         '&': {

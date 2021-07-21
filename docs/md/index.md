@@ -9,6 +9,8 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 
 > :GlyphHolder
 >
+> <br/>
+>
 > [✔](:Glyph (tag=done check accept miscellaneous))
 > [❌](:Glyph (tag=cancel close remove reject delete navigation clear reset miscellaneous))
 > [🚫](:Glyph (tag=error wrong oops down danger miscellaneous))
@@ -49,6 +51,9 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [💭](:Glyph (tag=comment opinion chat discussion message messaging communcation))
 > [💨](:Glyph (tag=comment opinion chat discussion message messaging communcation))
 > [📋](:Glyph (tag=assignment todo task communcation))
+>
+> ### Content & Layout
+>
 > [➕](:Glyph (tag=add plus new create content))
 > [🗑](:Glyph (tag=bin trash garbage remove delete content))
 > [🪄](:Glyph (tag=magic wand wizard autoheal autofix magical))
@@ -135,6 +140,9 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🍱](:Glyph (tag=layout misaligned mis-aligned content tiles))
 > [🎇](:Glyph (tag=slider slideview present layout content))
 > [🌅](:Glyph (tag=slider slideview present layout content))
+>
+> ### Connection & Multimedia
+>
 > [☁](:Glyph (tag=cloud online sync backup connection))
 > [🌑](:Glyph (tag=offline online cloud sync backup connection))
 > [📥](:Glyph (tag=download backup store cloud connection))
@@ -147,6 +155,12 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🎦](:Glyph (tag=camera video selfie picture webcam multimedia))
 > [🎧](:Glyph (tag=headphone sound music audio multimedia))
 > [◙](:Glyph (tag=speaker sound music audio multimedia))
+> [🎮](:Glyph (tag=game-controller controller joystick input device))
+> [⌨](:Glyph (tag=keyboard keypad input typing device))
+> [📇](:Glyph (tag=keyboard keypad input typing device))
+> [🖱](:Glyph (tag=mouse scroll input click device))
+> [☎](:Glyph (tag=numpad phone dialpad input device))
+> [⍠](:Glyph (tag=remote tv input device))
 > [📢](:Glyph (tag=megaphone speaker sound volume audio multimedia))
 > [🔇](:Glyph (tag=megaphone speaker sound volume mute audio multimedia))
 > [🔈](:Glyph (tag=megaphone speaker sound volume audio multimedia))
@@ -179,13 +193,6 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [😎](:Glyph (tag=emoji sticker sunglasses cool face content multimedia))
 > [🖼](:Glyph (tag=picture image photo gallery content multimedia))
 > [📎](:Glyph (tag=attachment paperclip paper-clip files content multimedia))
-> [🎮](:Glyph (tag=game-controller controller joystick input device))
-> [⌨](:Glyph (tag=keyboard keypad input typing device))
-> [📇](:Glyph (tag=keyboard keypad input typing device))
-> [🖱](:Glyph (tag=mouse scroll input click device))
-> [☎](:Glyph (tag=numpad phone dialpad input device))
-> [⍠](:Glyph (tag=remote tv input device))
-
 
 ---
 
