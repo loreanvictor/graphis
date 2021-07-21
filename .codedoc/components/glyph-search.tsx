@@ -5,6 +5,7 @@ import { RendererLike, List, ref } from '@connectv/html';
 import { transport } from '@connectv/sdh/transport';
 import { CodedocTheme } from '@codedoc/core';
 import { GlyphStyle } from './style';
+import { Button } from '@codedoc/core/components';
 
 
 function getSuggestableTags() {
@@ -43,7 +44,22 @@ export function GlyphSearch(
   const suggestions = new BehaviorSubject([] as string[]);
   const input = ref<HTMLInputElement>();
 
+  const holder = ref<HTMLElement>();
+  const bold = new BehaviorSubject(false);
+  const fontSize = new BehaviorSubject<'small' | 'medium' | 'large'>('medium');
+
   const sub = new Subscription();
+
+  const toggleWeight = () => {
+    bold.next(!bold.value);
+    holder.$.parentElement?.classList.toggle('bold', bold.value);
+  }
+
+  const toggleSize = () => {
+    holder.$.parentElement?.classList.remove(fontSize.value);
+    fontSize.next(fontSize.value === 'small' ? 'medium' : fontSize.value === 'medium' ? 'large' : 'small');
+    holder.$.parentElement?.classList.add(fontSize.value);
+  }
 
   this.track({
     bind() {
@@ -65,7 +81,7 @@ export function GlyphSearch(
     }
   });
 
-  return <div class={classes.glyphSearch}>
+  return <div class={classes.glyphSearch} _ref={holder}>
     <span onclick={() => { query.next(''); input.$.focus(); }}>
       {query.pipe(map(q => !!q ? '❌' : '🔍'))}
     </span>
@@ -73,6 +89,14 @@ export function GlyphSearch(
     <datalist id="glyph-search-suggestions">
       <List of={suggestions} each={suggestion => <option>{suggestion}</option>}/>
     </datalist>
+    <Button 
+      label={bold.pipe(map(b => b ? '𝙱' : '𝔹')) as any}
+      onclick={toggleWeight as any}>
+    </Button>
+    <Button
+      label={fontSize.pipe(map(s => s === 'small' ? '⚏' : s === 'medium' ? '⊞' : '☷')) as any}
+      onclick={toggleSize as any}>
+    </Button>
   </div>;
 }
 

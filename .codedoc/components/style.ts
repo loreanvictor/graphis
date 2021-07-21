@@ -5,14 +5,19 @@ import { CodedocTheme } from '@codedoc/core';
 export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
   glyph: {
     border: `2px solid #9e9e9e20`,
-    display: 'inline-block',
+    display: 'inline-flex',
+    alignItems: 'center',
+    justifyContent: 'center',
     borderRadius: 3,
     cursor: 'pointer',
-    padding: 24,
-    fontSize: 32,
-    marginRight: 4,
-    marginBottom: 8,
+    marginRight: 0,
+    marginBottom: 4,
     transition: 'border-color .15s',
+
+    '.bold &': { fontWeight: 'bold', },
+    '.small &': { fontSize: 18, width: 56, height: 56, },
+    '.medium &': { fontSize: 24, width: 88, height: 88, },
+    '.large &': { fontSize: 36, width: 120, height: 120, },
 
     '&:hover': {
       borderColor: theme.dark.primary,
@@ -24,19 +29,29 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
   },
 
   glyphHolder: {
-    textAlign: 'center',
   },
 
   glyphSearch: {
     position: 'relative',
+    display: 'flex',
+    paddingRight: 4,
+
+    '& button': {
+      fontSize: 18,
+      width: 52,
+      height: 52,
+      minWidth: 0,
+      margin: 0,
+      marginLeft: 4,
+    },
+
     '& input': {
       padding: 8,
       paddingLeft: 40,
       lineHeight: 2,
       fontSize: 16,
       appearance: 'none',
-      minWidth: 320,
-      maxWidth: '95vw',
+      flexGrow: 1,
     },
 
     '& span': {

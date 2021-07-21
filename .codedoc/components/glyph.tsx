@@ -22,7 +22,7 @@ export function GlyphHolder(
   content: any,
 ) {
   const classes = this.theme.classes(GlyphStyle);
-  return <div class={`${classes.glyphHolder}`}>
+  return <div class={`${classes.glyphHolder} medium`}>
     <GlyphSearch$/>
     {content}
   </div>;
