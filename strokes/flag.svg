@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>flag</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M32.5,113 L32.5,32.5 C35.5,29.8333333 40.8333333,28.5 48.5,28.5 C60,28.5 68.4404936,36.3243128 80.5,36.5 C88.539671,36.6171248 93.8730043,35.2837915 96.5,32.5 L96.5,72.5 C93.8333333,75.1666667 88.5,76.5 80.5,76.5 C68.5,76.5 60.5,68.5 48.5,68.5 C45.4789185,68.5 42.8381258,68.6901445 40.5776221,69.0704334" id="Path-229" stroke="#000000" stroke-width="3" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

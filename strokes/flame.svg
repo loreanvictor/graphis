@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>flame</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flame" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M44.5,80.5 C33,80.5 34.1291596,61.5855891 34.5,52.5 C14.5,74 31.5,112.50089 64.5,112.50089 C77.5,112.50089 99,102.5 99,80.5 C99,48.5 62,55 68.5,16.5 C51.8333333,28.1666667 45.1666667,44.1666667 48.5,64.5 C49.6046616,71.2384356 53.6046616,78.9051023 60.5,87.5 C70,78.5 58,66.5 64.5,56.5 C64.5,65 79.5,70 79.5,80.5 C79.5,82.6783037 79.105951,84.7909326 78.3683446,86.728488 C77.6296163,88.6689903 76.5462849,90.4338862 75.1690726,91.9132771 C72.5555209,94.7207344 68.8836136,96.5 64.5,96.5 C60.3179138,96.5 56.3579946,95.0543346 52.5,92.5" id="Path" stroke="#000000" stroke-width="3" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
