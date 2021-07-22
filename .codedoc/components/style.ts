@@ -34,9 +34,12 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
   },
 
   glyphSearch: {
-    position: 'relative',
+    position: 'sticky',
+    top: 16,
+    bottom: 0,
     display: 'flex',
     paddingRight: 4,
+    zIndex: 1,
 
     '& button': {
       fontSize: 18,
@@ -61,6 +64,14 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
       fontSize: 16,
       appearance: 'none',
       flexGrow: 1,
+      background: theme.light.background,
+      'body.dark &': { background: theme.dark.background },
+      '@media (prefers-color-scheme: dark)': {
+        'body:not(.dark-mode-animate) &': {
+          background: theme.dark.background,
+        }
+      },
+      'body.dark-mode-animate &': { transition: 'background .3s' },
     },
 
     '& span': {
