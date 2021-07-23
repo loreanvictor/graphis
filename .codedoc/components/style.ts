@@ -16,7 +16,7 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
 
     '.bold &': { fontWeight: 'bold', },
     '.small &': { fontSize: 18, width: 56, height: 56, },
-    '.medium &': { fontSize: 24, width: 88, height: 88, },
+    '.medium &': { fontSize: 28, width: 88, height: 88, },
     '.large &': { fontSize: 36, width: 120, height: 120, },
 
     '&:hover': {
@@ -39,7 +39,7 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
     bottom: 0,
     display: 'flex',
     paddingRight: 4,
-    zIndex: 1,
+    zIndex: 101,
 
     '& button': {
       fontSize: 18,

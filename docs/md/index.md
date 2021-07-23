@@ -15,10 +15,16 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [❌](:Glyph (tag=cancel close remove reject delete navigation clear reset miscellaneous))
 > [🚫](:Glyph (tag=error wrong oops down danger miscellaneous))
 > [⚠](:Glyph (tag=warning caution careful miscellaneous))
-> [🚀](:Glyph (tag=rocket launch space moon success miscellaneous))
+> [ℹ](:Glyph (tag=information hint education tip navigation miscellaneous))
+> [❓](:Glyph (tag=question help support assistance navigation miscellaneous))
+> [⚡](:Glyph (tag=bolt voltage thunder speed fast miscellaneous))
+> [🚀](:Glyph (tag=rocket launch space moon success fast speed miscellaneous))
 > [🏵](:Glyph (tag=badge approve honor prize award qualification qualify quality miscellaneous))
 > [🏶](:Glyph (tag=badge reject disapprove award quality qualification disqualify miscellaneous))
 > [🙅](:Glyph (tag=badge reject disapprove award quality qualification disqualify miscellaneous))
+> [🔦](:Glyph (tag=flashlight hint education tip miscellaneous))
+> [⏀](:Glyph (tag=flashlight hint education tip miscellaneous))
+> [🏠](:Glyph (tag=home root main navigation))
 > [⬅](:Glyph (tag=arrow left back navigation))
 > [➡](:Glyph (tag=arrow right forward navigation))
 > [⬇](:Glyph (tag=arrow down bottom navigation))
@@ -34,15 +40,26 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [⟲](:Glyph (tag=refresh arrow loop navigation))
 > [⥁](:Glyph (tag=refresh arrow loop navigation sync))
 > [🔄](:Glyph (tag=refresh arrow loop navigation sync))
+> [↺](:Glyph (tag=undo arrow loop navigation))
+> [↻](:Glyph (tag=redo arrow loop navigation))
 > [⋮](:Glyph (tag=dots more menu options navigation))
 > [⋯](:Glyph (tag=dots more menu options navigation))
 > [⩧](:Glyph (tag=hamburger menu navigation))
-> [⚙](:Glyph (tag=settings options configurations navigation))
+> [🔧](:Glyph (tag=wrench settings options configurations navigation))
+> [⚙](:Glyph (tag=gear settings options configurations navigation))
+>
+> ### Account & Personalization
+>
 > [👤](:Glyph (tag=person people authentication user access account profile))
 > [👥](:Glyph (tag=people persons group audience access permissions users accounts authentication))
 > [👴](:Glyph (tag=reader people person subscriber user account authentication))
+> [🐾](:Glyph (tag=paw animal cat pet vet account authentication profile miscellaneous))
 > [🔒](:Glyph (tag=lock login authentication authorization access))
 > [🔓](:Glyph (tag=lock unlock login logout authentication authorization access))
+> [🖕](:Glyph (tag=fingerprint finger-print login authentication authorization access))
+> [😏](:Glyph (tag=faceid face-id unlock login logout authentication authorization access))
+> [🔰](:Glyph (tag=shield privacy security protection authentication authorization account profile access))
+> [🛡](:Glyph (tag=shield privacy security protection authentication authorization account profile access))
 > [❤](:Glyph (tag=heart love like favorite personalization))
 > [🔖](:Glyph (tag=bookmark save personalization))
 > [🏳](:Glyph (tag=flag report personalization))
@@ -51,16 +68,25 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [⭐](:Glyph (tag=star favorite save personalization))
 > [👍](:Glyph (tag=like thumbs thumbs-up favorite approve agree personalization))
 > [👎](:Glyph (tag=dislike thumbs thumbs-down disapprove disagree personalization))
-> [🎴](:Glyph (tag=card key access profile authentication))
+>
+> ### Communication
+>
 > [✉](:Glyph (tag=email send letter envelope mail notification message communication))
 > [➤](:Glyph (tag=send message paper-plane chat messaging communcation))
 > [💬](:Glyph (tag=chat discussion message send announcement talk messaging communcation))
 > [🙊](:Glyph (tag=chat discussion message send talk messaging communcation))
 > [💭](:Glyph (tag=comment opinion chat discussion message messaging communcation))
 > [💨](:Glyph (tag=comment opinion chat discussion message messaging communcation))
+> [🔔](:Glyph (tag=bell notification personalization reminder communcation))
+> [🔕](:Glyph (tag=bell notification personalization reminder communcation))
+> [🎙](:Glyph (tag=microphone audio voice sound multimedia))
+> [🎤](:Glyph (tag=microphone audio voice sound multimedia))
+> [🎥](:Glyph (tag=camera video selfie picture webcam multimedia))
+> [🎦](:Glyph (tag=camera video selfie picture webcam multimedia))
 > [📋](:Glyph (tag=assignment todo task communcation))
+> [🎴](:Glyph (tag=card key access profile authentication))
 >
-> ### Content & Layout
+> ### Content Editting
 >
 > [➕](:Glyph (tag=add plus new create content))
 > [🗑](:Glyph (tag=bin trash garbage remove delete content))
@@ -112,6 +138,9 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🏷](:Glyph (tag=label tag offer sale content data))
 > [👁](:Glyph (tag=eye preview see xray vision))
 > [⊀](:Glyph (tag=eye preview see xray vision))
+>
+> ### Data & Search
+>
 > [🔍](:Glyph (tag=find select maginfying-glass search content navigation data))
 > [🙈](:Glyph (tag=find select magnifying-glass search content data))
 > [∇](:Glyph (tag=filter find sort data table query content))
@@ -127,6 +156,9 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [📈](:Glyph (tag=linechart line-chart graph statistics stats content data))
 > [🥧](:Glyph (tag=piechart pie-chart graph statistics stats content data))
 > [📚](:Glyph (tag=books library reading bookmarks content data))
+>
+> ### Layout
+>
 > [≣](:Glyph (tag=lines layout data content))
 > [⌗](:Glyph (tag=table layout data content))
 > [⊞](:Glyph (tag=grid layout content))
@@ -149,7 +181,7 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🎇](:Glyph (tag=slider slideview present layout content))
 > [🌅](:Glyph (tag=slider slideview present layout content))
 >
-> ### Connection & Multimedia
+> ### Connection & Devices
 >
 > [☁](:Glyph (tag=cloud online sync backup connection))
 > [🌑](:Glyph (tag=offline online cloud sync backup connection))
@@ -157,10 +189,6 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [📤](:Glyph (tag=upload backup store cloud sync connection))
 > [⥧](:Glyph (tag=swap arrow sync transfer connection))
 > [⥮](:Glyph (tag=swap arrow sync transfer connection))
-> [🎙](:Glyph (tag=microphone audio voice sound multimedia))
-> [🎤](:Glyph (tag=microphone audio voice sound multimedia))
-> [🎥](:Glyph (tag=camera video selfie picture webcam multimedia))
-> [🎦](:Glyph (tag=camera video selfie picture webcam multimedia))
 > [🎧](:Glyph (tag=headphone sound music audio multimedia))
 > [◙](:Glyph (tag=speaker sound music audio multimedia))
 > [🎮](:Glyph (tag=game-controller controller joystick input device))
@@ -169,6 +197,9 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🖱](:Glyph (tag=mouse scroll input click device))
 > [☎](:Glyph (tag=numpad phone dialpad input device))
 > [⍠](:Glyph (tag=remote tv input device))
+>
+> ### Multimedia
+>
 > [📢](:Glyph (tag=megaphone speaker sound volume audio multimedia))
 > [🔇](:Glyph (tag=megaphone speaker sound volume mute audio multimedia))
 > [🔈](:Glyph (tag=megaphone speaker sound volume audio multimedia))
