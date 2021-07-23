@@ -46,7 +46,7 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [❤](:Glyph (tag=heart love like favorite personalization))
 > [🔖](:Glyph (tag=bookmark save personalization))
 > [🏳](:Glyph (tag=flag report personalization))
-> [🔥](:Glyph (tag=fire hot trending personalization))
+> [🔥](:Glyph (tag=fire flames burning hot trending personalization))
 > [💡](:Glyph (tag=light bulb light-bulb idea creativity personalization))
 > [⭐](:Glyph (tag=star favorite save personalization))
 > [👍](:Glyph (tag=like thumbs thumbs-up favorite approve agree personalization))

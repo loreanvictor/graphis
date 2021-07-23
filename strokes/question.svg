@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>question</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="question" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M68.5,32.5 C68.5,34.709139 66.709139,36.5 64.5,36.5 C62.290861,36.5 60.5,34.709139 60.5,32.5 C60.5,30.290861 62.290861,28.5 64.5,28.5 L64.5,28.5 L64.5,28.5 L64.5,16.5 C37.990332,16.5 16.5,37.990332 16.5,64.5 C16.5,91.009668 37.990332,112.5 64.5,112.5 C91.009668,112.5 112.5,91.009668 112.5,64.5 C112.5,51.134736 107.037523,39.0453019 98.2233324,30.3424614" id="Path" stroke="#000000" stroke-width="3" transform="translate(64.500000, 64.500000) scale(-1, -1) translate(-64.500000, -64.500000) "></path>
+            <path d="M64.5,84.5 C64.2908516,74.460879 66.312598,68.6210893 70.5652392,66.9806308 C76.551689,64.6713609 80.5,58.9164094 80.5,52.5 C80.5,43.663444 73.336556,36.5 64.5,36.5 C55.663444,36.5 48.5,43.663444 48.5,52.5 L48.5,52.5 L48.5,52.5" id="Path-252" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

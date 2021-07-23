@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>info</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="info" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M72,41 C72,44.8659932 68.8659932,48 65,48 L64.25,48 C59.9697932,48 56.5,44.5302068 56.5,40.25 C56.5,35.9697932 59.9697932,32.5 64.25,32.5 L64.5,32.5 L64.5,32.5 L64.5,16.5 C37.990332,16.5 16.5,37.990332 16.5,64.5 C16.5,91.009668 37.990332,112.5 64.5,112.5 C91.009668,112.5 112.5,91.009668 112.5,64.5 C112.5,51.134736 107.037523,39.0453019 98.2233324,30.3424614" id="Path" stroke="#000000" stroke-width="3"></path>
+            <line x1="64.5" y1="64" x2="64.5" y2="96.5" id="Path-248" stroke="#000000" stroke-width="3"></line>
+        </g>
+    </g>
+</svg>
