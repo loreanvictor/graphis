@@ -15,20 +15,20 @@ import { postNavSearch } from '/home/runner/work/graphis/graphis/.codedoc/node_m
 import { copyLineLinks } from '/home/runner/work/graphis/graphis/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
 import { gatherFootnotes } from '/home/runner/work/graphis/graphis/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
 import { copyGlyphs } from '/home/runner/work/graphis/graphis/.codedoc/components/copy.tsx';copyGlyphs();
-import { GlyphSearch } from '/home/runner/work/graphis/graphis/.codedoc/components/glyph-search.tsx';
 import { ToCPrevNext } from '/home/runner/work/graphis/graphis/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { GithubSearch } from '/home/runner/work/graphis/graphis/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/home/runner/work/graphis/graphis/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/runner/work/graphis/graphis/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/graphis/graphis/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
+import { GlyphSearch } from '/home/runner/work/graphis/graphis/.codedoc/components/glyph-search.tsx';
 
 const components = {
-  'CZH59TFH18FDq2Wb/SLIHA==': GlyphSearch,
   'wgzAWjRtXUlSDa6Ipg9dMg==': ToCPrevNext,
   '2AxNNj0W73RRaoKR575DNg==': GithubSearch,
   '/qpElsyHFvALD5OWeglb4Q==': ToCToggle,
   'mnQDJ9TYzyYB+HB2ziYyiA==': DarkModeSwitch,
-  'smldJmlJ1Km/XA7v/BqfZg==': ConfigTransport
+  'smldJmlJ1Km/XA7v/BqfZg==': ConfigTransport,
+  'CZH59TFH18FDq2Wb/SLIHA==': GlyphSearch
 };
 
 const renderer = getRenderer();
