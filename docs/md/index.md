@@ -1,6 +1,6 @@
 <img src="/docs/assets/banner-rainbow.svg">
 
-graphis is a stylish and convenient-to-use icon font. Icons are mapped to emojis and special characters,
+graphis is a stylish and convenient-to-use icon font. Icons are mapped to emojis, math symbols and arrow characters,
 so you can just add the font and insert icons like any other text (e.g. 🗑, ☁, 🔍 or ⚙).
 
 To use graphis, simply [load (or install) the font](usage), then copy and paste from these icon (click to copy):

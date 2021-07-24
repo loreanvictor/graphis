@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1697px" height="311px" viewBox="0 0 1697 311" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>gridline-usage-midpoints</title>
+    <g id="gridline-usage-midpoints" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.000000, 0.000000)">
+        <g id="ex1" transform="translate(188.000000, 0.500000)">
+            <path d="M106.5,251.5 L106.5,154.5 C106.5,127.990332 127.990332,106.5 154.5,106.5 L309,106.5 L309,106.5" id="Path-6" stroke="#9E9E9E" stroke-width="42"></path>
+            <g id="grid" opacity="0.2" stroke="#9E9E9E" stroke-width="21">
+                <line x1="10.5" y1="0" x2="10.5" y2="309" id="Path-4"></line>
+                <line x1="298.5" y1="0" x2="298.5" y2="309" id="Path-4-Copy-3"></line>
+                <line x1="308.5" y1="10.5" x2="0" y2="10.5" id="Path-4-Copy-4"></line>
+                <line x1="308.5" y1="106.5" x2="0" y2="106.5" id="Path-4-Copy-5"></line>
+                <line x1="308.5" y1="202.5" x2="0" y2="202.5" id="Path-4-Copy-6"></line>
+                <line x1="308.5" y1="298.5" x2="0" y2="298.5" id="Path-4-Copy-7"></line>
+                <line x1="308.5" y1="0.5" x2="0" y2="309" id="Path-4-Copy-8"></line>
+                <line x1="106.5" y1="0" x2="106.5" y2="309" id="Path-4-Copy"></line>
+                <line x1="202.5" y1="0" x2="202.5" y2="309" id="Path-4-Copy-2"></line>
+            </g>
+            <line x1="106.5" y1="309" x2="106.5" y2="0" id="Path-10" stroke="#979797"></line>
+            <line x1="0" y1="106.5" x2="308.5" y2="106.5" id="Path-11" stroke="#979797"></line>
+            <line x1="0" y1="202.5" x2="308.5" y2="202.5" id="Path-11-Copy" stroke="#979797"></line>
+            <line x1="1" y1="298.5" x2="309.5" y2="298.5" id="Path-11-Copy-2" stroke="#979797"></line>
+            <line x1="0" y1="251.5" x2="308.5" y2="251.5" id="Path-11-Copy-3" stroke="#FF9F0A"></line>
+            <circle id="Oval" fill="#FF375F" cx="106.5" cy="251.5" r="5"></circle>
+            <circle id="Oval-Copy" fill="#FF375F" cx="106.5" cy="106.5" r="5"></circle>
+            <path d="M106.5,251.5 L106.5,155.5 C106.5,128.990332 127.990332,107.5 154.5,107.5 L309,107.5 L309,107.5" id="Path-8" stroke="#FF375F" stroke-width="2" stroke-dasharray="4,4"></path>
+        </g>
+        <g id="ex2" transform="translate(694.000000, 1.500000)">
+            <path d="M0,58.5 L203.5,58.5 C230.009668,58.5 251.5,79.990332 251.5,106.5 L251.5,202.5 C251.5,229.009668 230.009668,250.5 203.5,250.5 L0,250.5 L0,250.5" id="Path-6" stroke="#9E9E9E" stroke-width="42"></path>
+            <g id="grid" opacity="0.2" stroke="#9E9E9E" stroke-width="21">
+                <line x1="10.5" y1="0" x2="10.5" y2="309" id="Path-4"></line>
+                <line x1="298.5" y1="0" x2="298.5" y2="309" id="Path-4-Copy-3"></line>
+                <line x1="308.5" y1="10.5" x2="0" y2="10.5" id="Path-4-Copy-4"></line>
+                <line x1="308.5" y1="106.5" x2="0" y2="106.5" id="Path-4-Copy-5"></line>
+                <line x1="308.5" y1="202.5" x2="0" y2="202.5" id="Path-4-Copy-6"></line>
+                <line x1="308.5" y1="298.5" x2="0" y2="298.5" id="Path-4-Copy-7"></line>
+                <line x1="308.5" y1="0.5" x2="0" y2="309" id="Path-4-Copy-8"></line>
+                <line x1="106.5" y1="0" x2="106.5" y2="309" id="Path-4-Copy"></line>
+                <line x1="202.5" y1="0" x2="202.5" y2="309" id="Path-4-Copy-2"></line>
+            </g>
+            <line x1="202.5" y1="309" x2="202.5" y2="0" id="Path-10" stroke="#979797"></line>
+            <line x1="6.85007606e-14" y1="9.5" x2="308.5" y2="9.5" id="Path-10-Copy-3" stroke="#979797"></line>
+            <line x1="6.85007606e-14" y1="105.5" x2="308.5" y2="105.5" id="Path-10-Copy-4" stroke="#979797"></line>
+            <line x1="6.85007606e-14" y1="202.5" x2="308.5" y2="202.5" id="Path-10-Copy-5" stroke="#979797"></line>
+            <line x1="6.85007606e-14" y1="298.5" x2="308.5" y2="298.5" id="Path-10-Copy-6" stroke="#979797"></line>
+            <line x1="251.5" y1="309" x2="251.5" y2="0" id="Path-10-Copy-2" stroke="#FF9F0A"></line>
+            <line x1="5.68434189e-14" y1="250.5" x2="308.5" y2="250.5" id="Path-10-Copy-7" stroke="#FF9F0A"></line>
+            <line x1="5.68434189e-14" y1="58.5" x2="308.5" y2="58.5" id="Path-10-Copy-8" stroke="#FF9F0A"></line>
+            <line x1="298.5" y1="309" x2="298.5" y2="0" id="Path-10-Copy" stroke="#979797"></line>
+            <circle id="Oval" fill="#FF375F" cx="251.5" cy="58.5" r="5"></circle>
+            <circle id="Oval-Copy" fill="#FF375F" cx="251.5" cy="250.5" r="5"></circle>
+            <path d="M5.68434189e-14,58.5 L203.5,58.5 C230.009668,58.5 251.5,79.990332 251.5,106.5 L251.5,202.5 C251.5,229.009668 230.009668,250.5 203.5,250.5 L5.68434189e-14,250.5 L5.68434189e-14,250.5" id="Path-8" stroke="#FF375F" stroke-width="2" stroke-dasharray="4,4"></path>
+        </g>
+        <g id="ex2-copy" transform="translate(1199.000000, -0.500000)">
+            <path d="M309,0.5 L309.004612,29.7713302 L56.6288706,157.229549 L308.987128,287.847139 L308.850796,311.788268 L263.398488,311.543406 L37.3229105,194.529413 C29.4817285,190.470912 23.1189783,184.04452 19.1387155,176.163335 C8.7864424,155.665147 16.8255604,130.701017 37.0776525,120.057521 L37.6950842,119.739394 L273.940021,0.427772631 L309,0.5 Z" id="Path-6" fill="#9E9E9E" fill-rule="nonzero"></path>
+            <g id="grid" opacity="0.2" transform="translate(0.000000, 2.000000)" stroke="#9E9E9E" stroke-width="21">
+                <line x1="10.5" y1="0" x2="10.5" y2="309" id="Path-4"></line>
+                <line x1="298.5" y1="0" x2="298.5" y2="309" id="Path-4-Copy-3"></line>
+                <line x1="308.5" y1="10.5" x2="0" y2="10.5" id="Path-4-Copy-4"></line>
+                <line x1="308.5" y1="106.5" x2="0" y2="106.5" id="Path-4-Copy-5"></line>
+                <line x1="308.5" y1="202.5" x2="0" y2="202.5" id="Path-4-Copy-6"></line>
+                <line x1="308.5" y1="298.5" x2="0" y2="298.5" id="Path-4-Copy-7"></line>
+                <line x1="308.5" y1="0.5" x2="0" y2="309" id="Path-4-Copy-8"></line>
+                <line x1="106.5" y1="0" x2="106.5" y2="309" id="Path-4-Copy"></line>
+                <line x1="202.5" y1="0" x2="202.5" y2="309" id="Path-4-Copy-2"></line>
+            </g>
+            <line x1="0" y1="156" x2="307.5" y2="156.5" id="Path-10-Copy-2" stroke="#FF9F0A"></line>
+            <line x1="0" y1="108.5" x2="308.5" y2="108.5" id="Path-10-Copy" stroke="#979797"></line>
+            <line x1="0" y1="204.5" x2="308.5" y2="204.5" id="Path-10-Copy-9" stroke="#979797"></line>
+            <circle id="Oval-Copy" fill="#FF375F" cx="10.5" cy="156.5" r="5"></circle>
+            <path d="M309,6.5 L47.2339239,138.479211 C36.8777805,143.70065 32.7152802,156.328776 37.9367194,166.684919 C39.9284338,170.635263 43.1168539,173.85569 47.0471077,175.88676 L308.5,311 L308.5,311" id="Path-8" stroke="#FF375F" stroke-width="2" stroke-dasharray="4,4"></path>
+        </g>
+    </g>
+</svg>
