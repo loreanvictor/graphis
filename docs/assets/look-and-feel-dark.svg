@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1696px" height="256px" viewBox="0 0 1696 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>look-and-feel-dark</title>
+    <g id="look-and-feel-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.000000)">
+        <g id="marrker" transform="translate(16.000000, 0.000000)">
+            <g id="Group" opacity="0.35" stroke="#979797" stroke-width="1.98449612">
+                <g id="grid" opacity="0.50125558">
+                    <rect id="Rectangle" opacity="0.25" x="32.744186" y="32.744186" width="190.511628" height="190.511628"></rect>
+                    <circle id="Oval" opacity="0.75" cx="128" cy="128" r="95.255814"></circle>
+                    <circle id="Oval-Copy-2" opacity="0.25" cx="128" cy="128" r="63.503876"></circle>
+                    <circle id="Oval-Copy" opacity="0.25" cx="128" cy="128" r="115.100775"></circle>
+                    <line x1="0.992248062" y1="128" x2="255.007752" y2="128" id="Line" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="96.248062" x2="255.007752" y2="96.248062" id="Line-Copy" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="112.124031" x2="0.992248062" y2="112.124031" id="Line-13" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="80.372093" x2="0.992248062" y2="80.372093" id="Line-13-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="48.620155" x2="0.992248062" y2="48.620155" id="Line-13-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="143.875969" x2="0.992248062" y2="143.875969" id="Line-13-Copy" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="175.627907" x2="0.992248062" y2="175.627907" id="Line-13-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="207.379845" x2="0.992248062" y2="207.379845" id="Line-13-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="64.496124" x2="255.007752" y2="64.496124" id="Line-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="159.751938" x2="255.007752" y2="159.751938" id="Line-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="191.503876" x2="255.007752" y2="191.503876" id="Line-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="128" y1="0.992248062" x2="128" y2="255.007752" id="Line-2" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="0.992248062" x2="159.751938" y2="255.007752" id="Line-2-Copy" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="0.992248062" x2="96.248062" y2="255.007752" id="Line-2-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="64.496124" y1="0.992248062" x2="64.496124" y2="255.007752" id="Line-2-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="191.503876" y1="0.992248062" x2="191.503876" y2="255.007752" id="Line-2-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="223.255814" x2="223.255814" y2="32.744186" id="Line-3" opacity="0.75" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="32.744186" x2="223.255814" y2="223.255814" id="Line-4" opacity="0.75" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="32.744186" x2="223.255814" y2="159.751938" id="Line-5" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="32.744186" x2="223.255814" y2="96.248062" id="Line-6" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="96.248062" x2="159.751938" y2="223.255814" id="Line-7" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="159.751938" x2="96.248062" y2="223.255814" id="Line-8" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="223.255814" x2="223.255814" y2="96.248062" id="Line-9" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="223.255814" x2="223.255814" y2="159.751938" id="Line-10" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="159.751938" x2="159.751938" y2="32.744186" id="Line-11" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="96.248062" x2="96.248062" y2="32.744186" id="Line-12" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="112.124031" y1="255.007752" x2="112.124031" y2="0.992248062" id="Line-14" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="143.875969" y1="255.007752" x2="143.875969" y2="0.992248062" id="Line-14-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="175.627907" y1="255.007752" x2="175.627907" y2="0.992248062" id="Line-14-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="207.379845" y1="255.007752" x2="207.379845" y2="0.992248062" id="Line-14-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="80.372093" y1="255.007752" x2="80.372093" y2="0.992248062" id="Line-14-Copy" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="48.620155" y1="255.007752" x2="48.620155" y2="0.992248062" id="Line-14-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+                </g>
+            </g>
+            <path d="M222.263566,158.75969 L238.500032,158.75969 C239.604601,158.75969 240.500032,157.864259 240.500032,156.75969 C240.500032,156.38485 240.394693,156.017555 240.196028,155.699692 L224.02607,129.827758 C222.92964,128.07347 221.00682,127.007752 218.93808,127.007752 L212.387597,127.007752 C209.073888,127.007752 206.387597,129.694043 206.387597,133.007752 L206.387597,152.75969 C206.387597,156.073398 203.701305,158.75969 200.387597,158.75969 L190.511628,158.75969 C181.743572,158.75969 174.635659,165.867603 174.635659,174.635659 L174.635659,174.635659 L174.635659,174.635659 L17.9069767,174.635659 C14.5932682,174.635659 11.9069767,171.949367 11.9069767,168.635659 L11.9069767,117.131783 C11.9069767,113.818074 14.5932682,111.131783 17.9069767,111.131783 L174.635659,111.131783 L174.635659,111.131783 C174.635659,119.899839 181.743572,127.007752 190.511628,127.007752 L190.511628,127.007752 L190.511628,127.007752 L190.511628,141.891473" id="Path-5" stroke="#FFFFFF" stroke-width="5.95348837" transform="translate(127.007752, 142.883721) rotate(135.000000) translate(-127.007752, -142.883721) "></path>
+        </g>
+        <g id="paper-plane" transform="translate(1424.000000, 0.000000)">
+            <g id="Group" opacity="0.35" stroke="#979797" stroke-width="1.98449612">
+                <g id="grid" opacity="0.50125558">
+                    <rect id="Rectangle" opacity="0.25" x="32.744186" y="32.744186" width="190.511628" height="190.511628"></rect>
+                    <circle id="Oval" opacity="0.75" cx="128" cy="128" r="95.255814"></circle>
+                    <circle id="Oval-Copy-2" opacity="0.25" cx="128" cy="128" r="63.503876"></circle>
+                    <circle id="Oval-Copy" opacity="0.25" cx="128" cy="128" r="115.100775"></circle>
+                    <line x1="0.992248062" y1="128" x2="255.007752" y2="128" id="Line" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="96.248062" x2="255.007752" y2="96.248062" id="Line-Copy" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="112.124031" x2="0.992248062" y2="112.124031" id="Line-13" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="80.372093" x2="0.992248062" y2="80.372093" id="Line-13-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="48.620155" x2="0.992248062" y2="48.620155" id="Line-13-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="143.875969" x2="0.992248062" y2="143.875969" id="Line-13-Copy" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="175.627907" x2="0.992248062" y2="175.627907" id="Line-13-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="207.379845" x2="0.992248062" y2="207.379845" id="Line-13-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="64.496124" x2="255.007752" y2="64.496124" id="Line-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="159.751938" x2="255.007752" y2="159.751938" id="Line-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="191.503876" x2="255.007752" y2="191.503876" id="Line-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="128" y1="0.992248062" x2="128" y2="255.007752" id="Line-2" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="0.992248062" x2="159.751938" y2="255.007752" id="Line-2-Copy" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="0.992248062" x2="96.248062" y2="255.007752" id="Line-2-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="64.496124" y1="0.992248062" x2="64.496124" y2="255.007752" id="Line-2-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="191.503876" y1="0.992248062" x2="191.503876" y2="255.007752" id="Line-2-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="223.255814" x2="223.255814" y2="32.744186" id="Line-3" opacity="0.75" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="32.744186" x2="223.255814" y2="223.255814" id="Line-4" opacity="0.75" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="32.744186" x2="223.255814" y2="159.751938" id="Line-5" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="32.744186" x2="223.255814" y2="96.248062" id="Line-6" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="96.248062" x2="159.751938" y2="223.255814" id="Line-7" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="159.751938" x2="96.248062" y2="223.255814" id="Line-8" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="223.255814" x2="223.255814" y2="96.248062" id="Line-9" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="223.255814" x2="223.255814" y2="159.751938" id="Line-10" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="159.751938" x2="159.751938" y2="32.744186" id="Line-11" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="96.248062" x2="96.248062" y2="32.744186" id="Line-12" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="112.124031" y1="255.007752" x2="112.124031" y2="0.992248062" id="Line-14" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="143.875969" y1="255.007752" x2="143.875969" y2="0.992248062" id="Line-14-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="175.627907" y1="255.007752" x2="175.627907" y2="0.992248062" id="Line-14-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="207.379845" y1="255.007752" x2="207.379845" y2="0.992248062" id="Line-14-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="80.372093" y1="255.007752" x2="80.372093" y2="0.992248062" id="Line-14-Copy" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="48.620155" y1="255.007752" x2="48.620155" y2="0.992248062" id="Line-14-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+                </g>
+            </g>
+            <path d="M174.635659,127.007752 L53.9763893,112.756657 C50.7433953,112.374807 48.0712825,110.057687 47.2355307,106.911328 L32.7871922,52.5175826 C32.5036242,51.4500326 33.1391672,50.3547351 34.2067172,50.0711671 C34.6292364,49.9589354 35.0768915,49.9882349 35.4811775,50.1545817 L217.82453,125.181274 C218.846011,125.601571 219.333367,126.770363 218.91307,127.791844 C218.712335,128.279706 218.326977,128.6685 217.840916,128.873557 L35.5092098,205.794746 C34.491499,206.224093 33.3184272,205.747129 32.8890804,204.729419 C32.7167892,204.321025 32.6850464,203.866966 32.7988385,203.438572 L47.2015892,149.216452 C48.054185,146.00668 50.8148219,143.666953 54.12094,143.352085 L106.192891,138.392851 C108.993201,138.126155 111.131783,135.774222 111.131783,132.96124 C111.131783,130.221223 108.91056,128 106.170543,128 L48.620155,128 L48.620155,128" id="Path-36" stroke="#FFFFFF" stroke-width="5.95348837"></path>
+        </g>
+        <g id="magnifying-glass" transform="translate(368.000000, 0.000000)">
+            <g id="Group" opacity="0.35" stroke="#979797" stroke-width="1.98449612">
+                <g id="grid" opacity="0.50125558">
+                    <rect id="Rectangle" opacity="0.25" x="32.744186" y="32.744186" width="190.511628" height="190.511628"></rect>
+                    <circle id="Oval" opacity="0.75" cx="128" cy="128" r="95.255814"></circle>
+                    <circle id="Oval-Copy-2" opacity="0.25" cx="128" cy="128" r="63.503876"></circle>
+                    <circle id="Oval-Copy" opacity="0.25" cx="128" cy="128" r="115.100775"></circle>
+                    <line x1="0.992248062" y1="128" x2="255.007752" y2="128" id="Line" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="96.248062" x2="255.007752" y2="96.248062" id="Line-Copy" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="112.124031" x2="0.992248062" y2="112.124031" id="Line-13" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="80.372093" x2="0.992248062" y2="80.372093" id="Line-13-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="48.620155" x2="0.992248062" y2="48.620155" id="Line-13-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="143.875969" x2="0.992248062" y2="143.875969" id="Line-13-Copy" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="175.627907" x2="0.992248062" y2="175.627907" id="Line-13-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="207.379845" x2="0.992248062" y2="207.379845" id="Line-13-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="64.496124" x2="255.007752" y2="64.496124" id="Line-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="159.751938" x2="255.007752" y2="159.751938" id="Line-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="191.503876" x2="255.007752" y2="191.503876" id="Line-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="128" y1="0.992248062" x2="128" y2="255.007752" id="Line-2" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="0.992248062" x2="159.751938" y2="255.007752" id="Line-2-Copy" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="0.992248062" x2="96.248062" y2="255.007752" id="Line-2-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="64.496124" y1="0.992248062" x2="64.496124" y2="255.007752" id="Line-2-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="191.503876" y1="0.992248062" x2="191.503876" y2="255.007752" id="Line-2-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="223.255814" x2="223.255814" y2="32.744186" id="Line-3" opacity="0.75" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="32.744186" x2="223.255814" y2="223.255814" id="Line-4" opacity="0.75" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="32.744186" x2="223.255814" y2="159.751938" id="Line-5" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="32.744186" x2="223.255814" y2="96.248062" id="Line-6" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="96.248062" x2="159.751938" y2="223.255814" id="Line-7" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="159.751938" x2="96.248062" y2="223.255814" id="Line-8" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="223.255814" x2="223.255814" y2="96.248062" id="Line-9" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="223.255814" x2="223.255814" y2="159.751938" id="Line-10" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="159.751938" x2="159.751938" y2="32.744186" id="Line-11" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="96.248062" x2="96.248062" y2="32.744186" id="Line-12" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="112.124031" y1="255.007752" x2="112.124031" y2="0.992248062" id="Line-14" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="143.875969" y1="255.007752" x2="143.875969" y2="0.992248062" id="Line-14-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="175.627907" y1="255.007752" x2="175.627907" y2="0.992248062" id="Line-14-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="207.379845" y1="255.007752" x2="207.379845" y2="0.992248062" id="Line-14-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="80.372093" y1="255.007752" x2="80.372093" y2="0.992248062" id="Line-14-Copy" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="48.620155" y1="255.007752" x2="48.620155" y2="0.992248062" id="Line-14-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+                </g>
+            </g>
+            <path d="M175.627907,191.503876 L203.303702,219.179671 C205.575845,221.451814 209.241071,221.510915 211.585289,219.31321 L218.838655,212.513179 C221.237389,210.264367 221.358923,206.496786 219.110111,204.098053 C219.087222,204.073638 219.064128,204.049417 219.040831,204.025392 L196.181674,180.451886 C193.191544,177.368315 189.079573,175.627907 184.78431,175.627907 L175.627907,175.627907 L175.627907,175.627907 L155.034229,154.369741 C167.767916,141.468504 175.627907,123.745175 175.627907,104.186047 C175.627907,64.7297965 143.642297,32.744186 104.186047,32.744186 C64.7297965,32.744186 32.744186,64.7297965 32.744186,104.186047 C32.744186,143.642297 64.7297965,175.627907 104.186047,175.627907 C112.630908,175.627907 120.733544,174.162669 128.253597,171.472554" id="Path" stroke="#FFFFFF" stroke-width="5.95348837"></path>
+        </g>
+        <g id="bell" transform="translate(1072.000000, 0.000000)">
+            <g id="Group" opacity="0.35" stroke="#979797" stroke-width="1.98449612">
+                <g id="grid" opacity="0.50125558">
+                    <rect id="Rectangle" opacity="0.25" x="32.744186" y="32.744186" width="190.511628" height="190.511628"></rect>
+                    <circle id="Oval" opacity="0.75" cx="128" cy="128" r="95.255814"></circle>
+                    <circle id="Oval-Copy-2" opacity="0.25" cx="128" cy="128" r="63.503876"></circle>
+                    <circle id="Oval-Copy" opacity="0.25" cx="128" cy="128" r="115.100775"></circle>
+                    <line x1="0.992248062" y1="128" x2="255.007752" y2="128" id="Line" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="96.248062" x2="255.007752" y2="96.248062" id="Line-Copy" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="112.124031" x2="0.992248062" y2="112.124031" id="Line-13" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="80.372093" x2="0.992248062" y2="80.372093" id="Line-13-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="48.620155" x2="0.992248062" y2="48.620155" id="Line-13-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="143.875969" x2="0.992248062" y2="143.875969" id="Line-13-Copy" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="175.627907" x2="0.992248062" y2="175.627907" id="Line-13-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="207.379845" x2="0.992248062" y2="207.379845" id="Line-13-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="64.496124" x2="255.007752" y2="64.496124" id="Line-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="159.751938" x2="255.007752" y2="159.751938" id="Line-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="191.503876" x2="255.007752" y2="191.503876" id="Line-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="128" y1="0.992248062" x2="128" y2="255.007752" id="Line-2" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="0.992248062" x2="159.751938" y2="255.007752" id="Line-2-Copy" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="0.992248062" x2="96.248062" y2="255.007752" id="Line-2-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="64.496124" y1="0.992248062" x2="64.496124" y2="255.007752" id="Line-2-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="191.503876" y1="0.992248062" x2="191.503876" y2="255.007752" id="Line-2-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="223.255814" x2="223.255814" y2="32.744186" id="Line-3" opacity="0.75" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="32.744186" x2="223.255814" y2="223.255814" id="Line-4" opacity="0.75" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="32.744186" x2="223.255814" y2="159.751938" id="Line-5" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="32.744186" x2="223.255814" y2="96.248062" id="Line-6" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="96.248062" x2="159.751938" y2="223.255814" id="Line-7" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="159.751938" x2="96.248062" y2="223.255814" id="Line-8" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="223.255814" x2="223.255814" y2="96.248062" id="Line-9" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="223.255814" x2="223.255814" y2="159.751938" id="Line-10" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="159.751938" x2="159.751938" y2="32.744186" id="Line-11" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="96.248062" x2="96.248062" y2="32.744186" id="Line-12" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="112.124031" y1="255.007752" x2="112.124031" y2="0.992248062" id="Line-14" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="143.875969" y1="255.007752" x2="143.875969" y2="0.992248062" id="Line-14-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="175.627907" y1="255.007752" x2="175.627907" y2="0.992248062" id="Line-14-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="207.379845" y1="255.007752" x2="207.379845" y2="0.992248062" id="Line-14-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="80.372093" y1="255.007752" x2="80.372093" y2="0.992248062" id="Line-14-Copy" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="48.620155" y1="255.007752" x2="48.620155" y2="0.992248062" id="Line-14-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+                </g>
+            </g>
+            <path d="M96.2910898,64.0367117 C77.2860118,75.0106936 64.496124,95.5466113 64.496124,119.069767 L64.496124,167.689922 C55.7280685,167.689922 48.620155,174.797836 48.620155,183.565891 L48.620155,199.44186 L48.620155,199.44186 L128,199.44186 L104.186047,199.44186 C106.170543,215.317829 114.108527,223.255814 128,223.255814 C141.891473,223.255814 149.829457,215.317829 151.813953,199.44186 L207.379845,199.44186 L207.379845,183.565891 C207.379845,174.797836 200.271932,167.689922 191.503876,167.689922 L191.503876,167.689922 L191.503876,167.689922 L191.503876,119.069767 C191.503876,83.9975452 163.072222,55.5658915 128,55.5658915 L112.124031,55.5658915 L112.124031,55.5658915 L112.124031,48.620155 C112.124031,39.8520995 119.231944,32.744186 128,32.744186 C136.768056,32.744186 143.875969,39.8520995 143.875969,48.620155 L143.875969,48.620155 L143.875969,48.620155" id="Path-233" stroke="#FFFFFF" stroke-width="5.95348837"></path>
+        </g>
+        <g id="note" transform="translate(720.000000, 0.000000)">
+            <g id="Group" opacity="0.35" stroke="#979797" stroke-width="1.98449612">
+                <g id="grid" opacity="0.50125558">
+                    <rect id="Rectangle" opacity="0.25" x="32.744186" y="32.744186" width="190.511628" height="190.511628"></rect>
+                    <circle id="Oval" opacity="0.75" cx="128" cy="128" r="95.255814"></circle>
+                    <circle id="Oval-Copy-2" opacity="0.25" cx="128" cy="128" r="63.503876"></circle>
+                    <circle id="Oval-Copy" opacity="0.25" cx="128" cy="128" r="115.100775"></circle>
+                    <line x1="0.992248062" y1="128" x2="255.007752" y2="128" id="Line" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="96.248062" x2="255.007752" y2="96.248062" id="Line-Copy" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="112.124031" x2="0.992248062" y2="112.124031" id="Line-13" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="80.372093" x2="0.992248062" y2="80.372093" id="Line-13-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="48.620155" x2="0.992248062" y2="48.620155" id="Line-13-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="143.875969" x2="0.992248062" y2="143.875969" id="Line-13-Copy" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="175.627907" x2="0.992248062" y2="175.627907" id="Line-13-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="255.007752" y1="207.379845" x2="0.992248062" y2="207.379845" id="Line-13-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="64.496124" x2="255.007752" y2="64.496124" id="Line-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="159.751938" x2="255.007752" y2="159.751938" id="Line-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="0.992248062" y1="191.503876" x2="255.007752" y2="191.503876" id="Line-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="128" y1="0.992248062" x2="128" y2="255.007752" id="Line-2" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="0.992248062" x2="159.751938" y2="255.007752" id="Line-2-Copy" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="0.992248062" x2="96.248062" y2="255.007752" id="Line-2-Copy-3" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="64.496124" y1="0.992248062" x2="64.496124" y2="255.007752" id="Line-2-Copy-4" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="191.503876" y1="0.992248062" x2="191.503876" y2="255.007752" id="Line-2-Copy-2" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="223.255814" x2="223.255814" y2="32.744186" id="Line-3" opacity="0.75" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="32.744186" x2="223.255814" y2="223.255814" id="Line-4" opacity="0.75" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="32.744186" x2="223.255814" y2="159.751938" id="Line-5" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="32.744186" x2="223.255814" y2="96.248062" id="Line-6" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="96.248062" x2="159.751938" y2="223.255814" id="Line-7" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="159.751938" x2="96.248062" y2="223.255814" id="Line-8" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="96.248062" y1="223.255814" x2="223.255814" y2="96.248062" id="Line-9" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="159.751938" y1="223.255814" x2="223.255814" y2="159.751938" id="Line-10" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="159.751938" x2="159.751938" y2="32.744186" id="Line-11" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="32.744186" y1="96.248062" x2="96.248062" y2="32.744186" id="Line-12" opacity="0.25" stroke-linecap="square"></line>
+                    <line x1="112.124031" y1="255.007752" x2="112.124031" y2="0.992248062" id="Line-14" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="143.875969" y1="255.007752" x2="143.875969" y2="0.992248062" id="Line-14-Copy-3" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="175.627907" y1="255.007752" x2="175.627907" y2="0.992248062" id="Line-14-Copy-4" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="207.379845" y1="255.007752" x2="207.379845" y2="0.992248062" id="Line-14-Copy-5" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="80.372093" y1="255.007752" x2="80.372093" y2="0.992248062" id="Line-14-Copy" opacity="0.1" stroke-linecap="square"></line>
+                    <line x1="48.620155" y1="255.007752" x2="48.620155" y2="0.992248062" id="Line-14-Copy-2" opacity="0.1" stroke-linecap="square"></line>
+                </g>
+            </g>
+            <path d="M111.608818,208.310397 C113.09719,205.732461 114.108527,202.356025 114.108527,199.44186 C114.108527,186.289777 99.8927003,175.627907 82.3565891,175.627907 C64.820478,175.627907 50.6046512,186.289777 50.6046512,199.44186 C50.6046512,212.593944 64.820478,223.255814 82.3565891,223.255814 C86.8124748,223.255814 91.0539842,222.567423 94.9023652,221.324706" id="Path" stroke="#FFFFFF" stroke-width="5.95348837" transform="translate(82.356589, 199.441860) rotate(-30.000000) translate(-82.356589, -199.441860) "></path>
+            <path d="M202.305608,137.219509 C196.482437,131.896717 187.643285,128.500896 177.746618,128.500896 C160.210507,128.500896 145.99468,139.162766 145.99468,152.31485 C145.99468,165.466933 160.210507,176.128803 177.746618,176.128803 C191.261606,176.128803 202.911934,169.249006 207.494971,160.324074" id="Path" stroke="#FFFFFF" stroke-width="5.95348837" transform="translate(176.744825, 152.314850) rotate(-30.000000) translate(-176.744825, -152.314850) "></path>
+            <path d="M112.124031,192.496124 L112.124031,73.0781873 C112.124031,67.9530624 115.403571,63.4029441 120.265691,61.7822373 L202.155747,34.485552 C204.235274,33.7923763 206.482994,34.9162361 207.176169,36.9957631 C207.311071,37.4004672 207.379845,37.824273 207.379845,38.2508686 L207.379845,144.868217 L207.379845,144.868217" id="Path-156" stroke="#FFFFFF" stroke-width="5.95348837"></path>
+            <line x1="143.736516" y1="85.710567" x2="207.379845" y2="64.496124" id="Path-157" stroke="#FFFFFF" stroke-width="5.95348837"></line>
+        </g>
+    </g>
+</svg>
