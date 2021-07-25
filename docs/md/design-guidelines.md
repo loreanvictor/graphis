@@ -15,11 +15,18 @@ In order to achieve this feel:
 - Icons are combination of thin strokes.
 - Icons have no closed paths.
 - Icons have the least number of strokes possible.
-- Corners are generally smooth (as they would in natural pen movement).
+- Corners are generally not super sharp.
 
 <br>
 
-![look and feel](/docs/assets/look-and-feel.svg)
+> :DarkLight
+> > :InDark
+> >
+> > ![look and feel](/docs/assets/look-and-feel-dark.svg)
+>
+> > :InLight
+> >
+> > ![look and feel](/docs/assets/look-and-feel-light.svg)
 
 <br>
 
@@ -42,12 +49,12 @@ readability and familiarity.
 ## Grid & Keylines
 
 Each icon is designed using a 128❌128px grid with established keylines, towards which the strokes
-typically aligned. You can download this grid [here](https://github.com/loreanvictor/graphis/raw/docs/assets/grid.svg), alternatively, you can
+typically are aligned. You can download this grid [here](https://github.com/loreanvictor/graphis/raw/main/docs/assets/grid.svg), alternatively, you can
 find it as a symbol in the [standard sketch file](https://github.com/loreanvictor/graphis/raw/main/design/graphis.sketch) used for designing the icon font.
 
 > :Buttons
 >
-> > :Button label=📥 Grid & Keylines, url=https://github.com/loreanvictor/graphis/raw/docs/assets/grid.svg
+> > :Button label=📥 Grid & Keylines, url=https://github.com/loreanvictor/graphis/raw/main/docs/assets/grid.svg
 >
 > > :Button label=📥 Sketch File, url=https://github.com/loreanvictor/graphis/raw/main/design/graphis.sketch
 
@@ -59,25 +66,38 @@ find it as a symbol in the [standard sketch file](https://github.com/loreanvicto
 
 <br><br>
 
-Key points of strokes should be placed on the center point of crossing of grid lines. Strokes themselves
-should be aligned on grid lines or key lines whenever possible.
-If a stroke were to have the same width as the grid line, it would completely cover the overlapping
-section of the grid line. When a stroke is cut, the end point of the path should be placed
-at the center point of the crossing of grid lines, not at the edge.
+Key points of strokes should be centered on intersection points of grid lines and keylines, including terminal points.
+Strokes should follow (or be parallel to) grid lines or key lines whenever possible.
 
 <br>
 
-![how to use grid lines](/docs/assets/gridline-usage.svg)
+> :DarkLight
+> > :InLight
+> >
+> > ![how to use grid lines](/docs/assets/gridline-usage-light.svg)
+>
+> > :InDark
+> >
+> > ![how to use grid lines](/docs/assets/gridline-usage-dark.svg)
 
 <br>
 
-When need be, key points of a stroke can also be placed at the middle point between
-two adjacent key lines. The distance between center points of two adjacent key lines
-are 8px, so mid points will be 4px horizontal or vertical from center point of a key line.
+When need be, key points of a stroke can also be placed on midpoints between
+two adjacent key lines. The distance between two adjacent grid lines
+is 8px, so mid points will be 4px from center point of a grid line.
 
 <br>
 
-![grid lines mid points](/docs/assets/gridline-usage-midpoints.svg)
+> :DarkLight
+> > :InLight
+> >
+> > ![grid lines mid points](/docs/assets/gridline-usage-midpoints-light.svg)
+>
+> > :InDark
+> >
+> > ![grid lines mid points](/docs/assets/gridline-usage-midpoints-dark.svg)
+
+
 
 <br>
 
@@ -92,7 +112,7 @@ within this frame, considering various potential stroke widths.
 
 <br>
 
-- For circular icons, the boundary area is the outer-most radial key line of the grid (circle of 116px radius centered on the grid), which, assuming a maximum stroke width of 8px, means stroke key points should maximally be placed on a circle of 108px radius centered on the grid.
+- For circular icons, the boundary area is the outer-most radial key line of the grid (circle of 58px radius centered on the grid), which, assuming a maximum stroke width of 8px, means stroke key points should not be placed farther than 54px radially from grid center.
 
 <br>
 
@@ -105,12 +125,14 @@ stroke key points should maximally be placed on the 96❌96px square grid line.
 
 <br>
 
-Icons should fill up the space as much as possible, unless their general shape or tone is to be different. Since
-icons might appear alongside alphabetical characters, it is recommended to ensure they visually touch the baseline,
-which is the bottom most maximal grid line of square icons. It is also recommended that icons be placed symmetrically
+Icons should generally fill up the space as much as possible.
+Icons might appear alongside alphabetical characters, so they should try to touch the baseline,
+which is the bottom most horizontal grid line. It is also recommended that icons be placed symmetrically
 within the grid, so that they appear in a balanced manner.
 
-Here are some recommended boundaries for various icon styles:
+Here are some recommended boundaries and maximal grid / key lines for various icon styles:
+
+<br>
 
 ![variational boundaries](/docs/assets/boundaries-variations.svg)
 
