@@ -108,6 +108,11 @@
       "hash": "smldJmlJ1Km/XA7v/BqfZg=="
     },
     {
+      "name": "GlyphHeader",
+      "filename": "/home/runner/work/graphis/graphis/.codedoc/components/glyph-header.tsx",
+      "hash": "TbWKjkP77ruV2QERle0n8g=="
+    },
+    {
       "name": "GlyphSearch",
       "filename": "/home/runner/work/graphis/graphis/.codedoc/components/glyph-search.tsx",
       "hash": "CZH59TFH18FDq2Wb/SLIHA=="

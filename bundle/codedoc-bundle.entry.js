@@ -20,6 +20,7 @@ import { GithubSearch } from '/home/runner/work/graphis/graphis/.codedoc/node_mo
 import { ToCToggle } from '/home/runner/work/graphis/graphis/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/runner/work/graphis/graphis/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/graphis/graphis/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
+import { GlyphHeader } from '/home/runner/work/graphis/graphis/.codedoc/components/glyph-header.tsx';
 import { GlyphSearch } from '/home/runner/work/graphis/graphis/.codedoc/components/glyph-search.tsx';
 
 const components = {
@@ -28,6 +29,7 @@ const components = {
   '/qpElsyHFvALD5OWeglb4Q==': ToCToggle,
   'mnQDJ9TYzyYB+HB2ziYyiA==': DarkModeSwitch,
   'smldJmlJ1Km/XA7v/BqfZg==': ConfigTransport,
+  'TbWKjkP77ruV2QERle0n8g==': GlyphHeader,
   'CZH59TFH18FDq2Wb/SLIHA==': GlyphSearch
 };
 
