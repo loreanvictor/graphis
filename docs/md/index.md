@@ -1,4 +1,14 @@
-<img src="/docs/assets/banner-rainbow.svg">
+<!-- <img src="/docs/assets/banner-rainbow.svg"> -->
+>:DarkLight
+> > :InLight
+> > 
+> > <img src="/docs/assets/banner-light.svg" style="max-width: min(100%, 360px); margin: 0 auto; display: block"/>
+>
+> > :InDark
+> >
+> > <img src="/docs/assets/banner-dark.svg" style="max-width: min(100%, 360px); margin: 0 auto; display: block"/>
+
+> :GlyphHeader
 
 graphis is a stylish and convenient-to-use icon font. Icons are mapped to emojis, math symbols and arrow characters,
 so you can just add the font and insert icons like any other text (e.g. 🗑, ☁, 🔍 or ⚙).

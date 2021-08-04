@@ -7,6 +7,7 @@ import { configuration,
 import { Glyph, GlyphHolder } from './components/glyph';
 import { copyGlyphs$ } from './components/copy';
 import { theme } from './theme';
+import { GlyphHeader$ } from './components/glyph-header';
 
 
 export const config = /*#__PURE__*/configuration({
@@ -27,6 +28,7 @@ export const config = /*#__PURE__*/configuration({
     customComponents: {
       ...DefaultMarkdownCustomComponents,
       GlyphHolder,
+      GlyphHeader: GlyphHeader$,
     },
     customInlineComponents: {
       ...DefaultMarkdownCustomInlineComponents,

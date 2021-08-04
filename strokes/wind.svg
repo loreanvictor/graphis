@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wind</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wind" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M16.5,64.5 L100.5,64.5 C107.127417,64.5 112.5,59.127417 112.5,52.5 C112.5,45.872583 107.127417,40.5 100.5,40.5 C93.872583,40.5 88.5,45.872583 88.5,52.5 L88.5,52.5 L88.5,52.5" id="Path-277" stroke="#000000" stroke-width="3"></path>
+            <path d="M16.5,76.5 L80.5,76.5 C84.918278,76.5 88.5,80.081722 88.5,84.5 C88.5,88.918278 84.918278,92.5 80.5,92.5 C76.081722,92.5 72.5,88.918278 72.5,84.5 L72.5,84.5 L72.5,84.5" id="Path-278" stroke="#000000" stroke-width="3"></path>
+            <path d="M16.5,52.5 L64.5,52.5 C68.918278,52.5 72.5,48.918278 72.5,44.5 C72.5,40.081722 68.918278,36.5 64.5,36.5 C60.081722,36.5 56.5,40.081722 56.5,44.5 L56.5,44.5 L56.5,44.5" id="Path-279" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

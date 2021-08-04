@@ -83,5 +83,30 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
       marginLeft: 16,
       cursor: 'pointer',
     }
+  },
+
+  header: {
+    textAlign: 'center',
+    width: 'calc(5 * min(5vw, 3.5rem) + 5 * 2 * 20px + 8px)',
+    margin: '0 auto',
+    marginTop: 36,
+    marginBottom: 24,
+
+    '& span': {
+      display: 'inline-block',
+      padding: 20,
+      fontSize: 'min(5vw, 3.5rem)',
+
+      '&:nth-of-type(1)': { color: '#AA2EE6' },
+      '&:nth-of-type(2)': { color: '#FF79CD' },
+      '&:nth-of-type(3)': { color: '#FA9905' },
+      '&:nth-of-type(4)': { color: '#1CC5DC' },
+      '&:nth-of-type(5)': { color: '#9EDE73' },
+      '&:nth-of-type(6)': { color: '#7868E6' },
+      '&:nth-of-type(7)': { color: '#F14668' },
+      '&:nth-of-type(8)': { color: '#FFD369' },
+      '&:nth-of-type(9)': { color: '#6930C3' },
+      '&:nth-of-type(10)': { color: '#00AF91' },
+    }
   }
 }));
