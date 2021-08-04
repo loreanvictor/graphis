@@ -27,14 +27,8 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [⚠](:Glyph (tag=warning caution careful miscellaneous))
 > [ℹ](:Glyph (tag=information hint education tip navigation miscellaneous))
 > [❓](:Glyph (tag=question help support assistance navigation miscellaneous))
-> [⚡](:Glyph (tag=bolt voltage thunder speed fast miscellaneous))
-> [🚀](:Glyph (tag=rocket launch space moon success fast speed miscellaneous))
-> [🏵](:Glyph (tag=badge approve honor prize award qualification qualify quality miscellaneous))
-> [🏶](:Glyph (tag=badge reject disapprove award quality qualification disqualify miscellaneous))
-> [🙅](:Glyph (tag=badge reject disapprove award quality qualification disqualify miscellaneous))
-> [🔦](:Glyph (tag=flashlight hint education tip miscellaneous))
-> [⏀](:Glyph (tag=flashlight hint education tip miscellaneous))
 > [🏠](:Glyph (tag=home root main navigation))
+> [🚀](:Glyph (tag=rocket launch space moon success fast speed miscellaneous))
 > [⬅](:Glyph (tag=arrow left back navigation))
 > [➡](:Glyph (tag=arrow right forward navigation))
 > [⬇](:Glyph (tag=arrow down bottom navigation))
@@ -47,11 +41,11 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [»](:Glyph (tag=chevron right navigation next))
 > [⩔](:Glyph (tag=chevron down bottom navigation))
 > [⩓](:Glyph (tag=chevron up top navigation))
+> [↺](:Glyph (tag=undo arrow loop navigation))
+> [↻](:Glyph (tag=redo arrow loop navigation))
 > [⟲](:Glyph (tag=refresh arrow loop navigation))
 > [⥁](:Glyph (tag=refresh arrow loop navigation sync))
 > [🔄](:Glyph (tag=refresh arrow loop navigation sync))
-> [↺](:Glyph (tag=undo arrow loop navigation))
-> [↻](:Glyph (tag=redo arrow loop navigation))
 > [⋮](:Glyph (tag=dots more menu options navigation))
 > [⋯](:Glyph (tag=dots more menu options navigation))
 > [⩧](:Glyph (tag=hamburger menu navigation))
@@ -89,12 +83,19 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [💨](:Glyph (tag=comment opinion chat discussion message messaging communcation))
 > [🔔](:Glyph (tag=bell notification personalization reminder communcation))
 > [🔕](:Glyph (tag=bell notification personalization reminder communcation))
-> [🎙](:Glyph (tag=microphone audio voice sound multimedia))
-> [🎤](:Glyph (tag=microphone audio voice sound multimedia))
-> [🎥](:Glyph (tag=camera video selfie picture webcam multimedia))
-> [🎦](:Glyph (tag=camera video selfie picture webcam multimedia))
-> [📋](:Glyph (tag=assignment todo task communcation))
-> [🎴](:Glyph (tag=card key access profile authentication))
+> [🎙](:Glyph (tag=microphone audio voice sound communication multimedia))
+> [🎤](:Glyph (tag=microphone audio voice sound communication multimedia))
+> [🎥](:Glyph (tag=camera video selfie picture webcam communication multimedia))
+> [🎦](:Glyph (tag=camera video selfie picture webcam communication multimedia))
+> [📞](:Glyph (tag=telephone audio call answer communication))
+> [📵](:Glyph (tag=telephone audio call reject decline communication))
+> [📋](:Glyph (tag=assignment todo task communication))
+> [📅](:Glyph (tag=calendar date time schedule meeting communication))
+> [🕗](:Glyph (tag=clock date time minute hour meeting schedule communication))
+> [🏵](:Glyph (tag=badge approve honor prize award qualification qualify quality communication))
+> [🏶](:Glyph (tag=badge reject disapprove award quality qualification disqualify communication))
+> [🙅](:Glyph (tag=badge reject disapprove award quality qualification disqualify communication))
+> [🎴](:Glyph (tag=card key access profile authentication communication))
 >
 > ### Content Editting
 >
@@ -193,7 +194,7 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 >
 > ### Connection & Devices
 >
-> [☁](:Glyph (tag=cloud online sync backup connection))
+> [☁](:Glyph (tag=cloud online sync backup weather rain connection))
 > [🌑](:Glyph (tag=offline online cloud sync backup connection))
 > [📥](:Glyph (tag=download backup store cloud connection))
 > [📤](:Glyph (tag=upload backup store cloud sync connection))
@@ -205,8 +206,19 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [⌨](:Glyph (tag=keyboard keypad input typing device))
 > [📇](:Glyph (tag=keyboard keypad input typing device))
 > [🖱](:Glyph (tag=mouse scroll input click device))
-> [☎](:Glyph (tag=numpad phone dialpad input device))
+> [☎](:Glyph (tag=numpad phone dialpad input device communication))
 > [⍠](:Glyph (tag=remote tv input device))
+> [▼](:Glyph (tag=wifi internet connection online device))
+> [▽](:Glyph (tag=wifi internet connection offline device))
+> [⦀](:Glyph (tag=barcode bar-code connection scan device))
+> [▣](:Glyph (tag=qrcode qr-code connection scan device))
+> [𝚩](:Glyph (tag=bluetooth blue-tooth connection pairing device multimedia))
+> [𝛃](:Glyph (tag=bluetooth blue-tooth connection pairing device multimedia))
+> [𝛽](:Glyph (tag=bluetooth blue-tooth connection pairing device multimedia))
+> [📳](:Glyph (tag=beam payment nfc connection pairing device))
+> [🔦](:Glyph (tag=flashlight hint education tip device))
+> [⏀](:Glyph (tag=flashlight hint education tip device))
+> [🖨](:Glyph (tag=printer scanner device))
 >
 > ### Multimedia
 >
@@ -242,6 +254,22 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [😎](:Glyph (tag=emoji sticker sunglasses cool face content multimedia))
 > [🖼](:Glyph (tag=picture image photo gallery content multimedia))
 > [📎](:Glyph (tag=attachment paperclip paper-clip files content multimedia))
+>
+> ### Travel & Out Doors
+>
+> [📍](:Glyph (tag=location map pin point address direction travel outdoors))
+> [🗺](:Glyph (tag=map address direction travel outdoors))
+> [🧭](:Glyph (tag=compass direction north south east west map travel outdoors))
+> [☀](:Glyph (tag=sun hot dry light-mode day weather outdoors))
+> [🌙](:Glyph (tag=moon dark-mode night weather outdoors))
+> [⚡](:Glyph (tag=bolt voltage thunder speed fast weather outdoors))
+> [☂](:Glyph (tag=umbrella safety guarantee rain insurance weather outdoors))
+> [⛅](:Glyph (tag=cloudy weather sun outdoors))
+> [💧](:Glyph (tag=water rain droplet weather moisture outdoors))
+> [❄](:Glyph (tag=snowflake cold freeze ice weather outdoors))
+> [🌬](:Glyph (tag=wind breeze speed storm weather outdoors))
+> [🌡](:Glyph (tag=thermometer temperature hot cold weather outdoors))
+>
 
 ---
 
