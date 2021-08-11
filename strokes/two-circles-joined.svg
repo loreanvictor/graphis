@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>two-circles-joined</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="two-circles-joined" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M65.3703731,96.310477 C76.7506866,90.262476 84.5,78.2862126 84.5,64.5 C84.5,44.617749 68.382251,28.5 48.5,28.5 C28.617749,28.5 12.5,44.617749 12.5,64.5 C12.5,84.382251 28.617749,100.5 48.5,100.5 C51.3177853,100.5 54.0599584,100.176265 56.6913543,99.5639611" id="Path" stroke="#000000" stroke-width="3"></path>
+            <path d="M56.2512361,36.8914542 C49.0307901,43.4753239 44.5,52.9585506 44.5,63.5 C44.5,83.382251 60.617749,99.5 80.5,99.5 C100.382251,99.5 116.5,83.382251 116.5,63.5 C116.5,43.617749 100.382251,27.5 80.5,27.5 C77.8700978,27.5 75.3060608,27.7820022 72.8364782,28.3174173" id="Path" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>
