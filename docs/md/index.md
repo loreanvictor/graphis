@@ -29,10 +29,14 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [❓](:Glyph (tag=question help support assistance navigation miscellaneous))
 > [🏠](:Glyph (tag=home root main navigation))
 > [🚀](:Glyph (tag=rocket launch space moon success fast speed miscellaneous))
+> [☝](:Glyph (tag=hand point touch up notice important navigation))
 > [⬅](:Glyph (tag=arrow left back navigation))
 > [➡](:Glyph (tag=arrow right forward navigation))
 > [⬇](:Glyph (tag=arrow down bottom navigation))
 > [⬆](:Glyph (tag=arrow up top navigation))
+> [↔](:Glyph (tag=arrow left right resize horizontal navigation))
+> [↕](:Glyph (tag=arrow top down up bottom resize vertical navigation))
+> [✛](:Glyph (tag=arrow top down up left right bottom resize move horizontal vertical navigation))
 > [<](:Glyph (tag=chevron left navigation previous))
 > [>](:Glyph (tag=chevron right navigation next))
 > [⋁](:Glyph (tag=chevron down bottom navigation))
@@ -51,6 +55,10 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [⩧](:Glyph (tag=hamburger menu navigation))
 > [🔧](:Glyph (tag=wrench settings options configurations navigation))
 > [⚙](:Glyph (tag=gear settings options configurations navigation))
+> [🎛](:Glyph (tag=knob settings options configurations properties tune meter gauge navigation))
+> [🎚](:Glyph (tag=sliders settings options configurations properties tune navigation))
+> [🚰](:Glyph (tag=valve water settings navigation))
+> [⦶](:Glyph (tag=power on off start device turn-off turn-on miscellaneous))
 >
 > ### Account & Personalization
 >
@@ -72,6 +80,7 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [⭐](:Glyph (tag=star favorite save personalization))
 > [👍](:Glyph (tag=like thumbs thumbs-up favorite approve agree personalization))
 > [👎](:Glyph (tag=dislike thumbs thumbs-down disapprove disagree personalization))
+> [⚖](:Glyph (tag=scale judge rules terms conditions))
 >
 > ### Communication
 >
@@ -89,20 +98,36 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🎦](:Glyph (tag=camera video selfie picture webcam communication multimedia))
 > [📞](:Glyph (tag=telephone audio call answer communication))
 > [📵](:Glyph (tag=telephone audio call reject decline communication))
+> [🎴](:Glyph (tag=card key access profile authentication communication))
 > [📋](:Glyph (tag=assignment todo task communication))
 > [📅](:Glyph (tag=calendar date time schedule meeting communication))
 > [🕗](:Glyph (tag=clock date time minute hour meeting schedule communication))
+> [🤚](:Glyph (tag=hand raise-hand palm high-five communication))
 > [🏵](:Glyph (tag=badge approve honor prize award qualification qualify quality communication))
 > [🏶](:Glyph (tag=badge reject disapprove award quality qualification disqualify communication))
 > [🙅](:Glyph (tag=badge reject disapprove award quality qualification disqualify communication))
-> [🎴](:Glyph (tag=card key access profile authentication communication))
+> [↥](:Glyph (tag=share send attach forward communication))
 >
-> ### Content Editting
+> ### Content
 >
+> [📃](:Glyph (tag=content file document))
+> [📁](:Glyph (tag=content file folder tag archive))
 > [➕](:Glyph (tag=add plus new create content))
 > [🗑](:Glyph (tag=bin trash garbage remove delete content))
 > [🪄](:Glyph (tag=magic wand wizard autoheal autofix magical))
+> [✨](:Glyph (tag=magic sparkles wizard autoheal autofix magical))
 > [✏](:Glyph (tag=pencil edit write scribble draw))
+> [📑](:Glyph (tag=copy duplicate content text))
+> [✂](:Glyph (tag=scissors cut content text))
+> [🖇](:Glyph (tag=copy cut paste content text))
+> [🏷](:Glyph (tag=label tag offer sale content data))
+> [⎊](:Glyph (tag=label tag group category data type))
+> [👁](:Glyph (tag=eye preview see xray vision))
+> [⊀](:Glyph (tag=eye preview see xray vision))
+> [🌠](:Glyph (tag=present preview slideshow))
+>
+> ### Text Editting
+>
 > [𝔹](:Glyph (tag=bold text))
 > [𝙱](:Glyph (tag=bold text))
 > [𝘐](:Glyph (tag=italic text))
@@ -143,12 +168,22 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [⩴](:Glyph (tag=layout format content list items numbered bullets text))
 > [↠](:Glyph (tag=text indent layout format))
 > [↞](:Glyph (tag=text indent layout format))
-> [📑](:Glyph (tag=copy duplicate content text))
-> [✂](:Glyph (tag=scissors cut content text))
-> [🖇](:Glyph (tag=copy cut paste content text))
-> [🏷](:Glyph (tag=label tag offer sale content data))
-> [👁](:Glyph (tag=eye preview see xray vision))
-> [⊀](:Glyph (tag=eye preview see xray vision))
+>
+> ### Image Manipulation
+>
+> [🖌](:Glyph (tag=content image brush paint))
+> [┗](:Glyph (tag=content image crop frame size))
+> [📏](:Glyph (tag=content image ruler size measure))
+> [📐](:Glyph (tag=content image ruler size measure))
+> [◐](:Glyph (tag=content image tone contrast circle))
+> [⎶](:Glyph (tag=content image mirror flip symmetry))
+> [⧉](:Glyph (tag=content image mask squares layers))
+> [⌮](:Glyph (tag=content image color-picker eye-dropper))
+> [⊙](:Glyph (tag=content image blur fuzz grain))
+> [⊚](:Glyph (tag=content image blur fuzz grain))
+> [∩](:Glyph (tag=content image intersect union circles))
+> [⧝](:Glyph (tag=content image intersect union circles))
+> [🩹](:Glyph (tag=content image fix heal improve))
 >
 > ### Data & Search
 >
@@ -208,17 +243,20 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🖱](:Glyph (tag=mouse scroll input click device))
 > [☎](:Glyph (tag=numpad phone dialpad input device communication))
 > [⍠](:Glyph (tag=remote tv input device))
-> [▼](:Glyph (tag=wifi internet connection online device))
-> [▽](:Glyph (tag=wifi internet connection offline device))
+> [📷](:Glyph (tag=camera photo input device))
+> [🤳](:Glyph (tag=camera-rotate camera-flip selfie photo input device))
 > [⦀](:Glyph (tag=barcode bar-code connection scan device))
 > [▣](:Glyph (tag=qrcode qr-code connection scan device))
+> [⥐](:Glyph (tag=qrcode qr-code barcode bar-code connection scan device))
+> [▼](:Glyph (tag=wifi internet connection online device))
+> [▽](:Glyph (tag=wifi internet connection offline device))
 > [𝚩](:Glyph (tag=bluetooth blue-tooth connection pairing device multimedia))
 > [𝛃](:Glyph (tag=bluetooth blue-tooth connection pairing device multimedia))
 > [𝛽](:Glyph (tag=bluetooth blue-tooth connection pairing device multimedia))
 > [📳](:Glyph (tag=beam payment nfc connection pairing device))
+> [🖨](:Glyph (tag=printer scanner device))
 > [🔦](:Glyph (tag=flashlight hint education tip device))
 > [⏀](:Glyph (tag=flashlight hint education tip device))
-> [🖨](:Glyph (tag=printer scanner device))
 >
 > ### Multimedia
 >
