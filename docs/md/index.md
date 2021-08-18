@@ -57,7 +57,12 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [⚙](:Glyph (tag=gear settings options configurations navigation))
 > [🎛](:Glyph (tag=knob settings options configurations properties tune meter gauge navigation))
 > [🎚](:Glyph (tag=sliders settings options configurations properties tune navigation))
-> [🚰](:Glyph (tag=valve water settings navigation))
+> [🚰](:Glyph (tag=valve water settings tap navigation))
+> [🎲](:Glyph (tag=dice game-die random chance miscellaneous))
+> [♘](:Glyph (tag=chess board-game piece knight miscellaneous))
+> [♖](:Glyph (tag=chess board-game piece rook miscellaneous))
+> [📦](:Glyph (tag=package box order delivery packing miscellaneous))
+> [🤖](:Glyph (tag=robot automation miscellaneous))
 > [⦶](:Glyph (tag=power on off start device turn-off turn-on miscellaneous))
 >
 > ### Account & Personalization
@@ -81,6 +86,7 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [👍](:Glyph (tag=like thumbs thumbs-up favorite approve agree personalization))
 > [👎](:Glyph (tag=dislike thumbs thumbs-down disapprove disagree personalization))
 > [⚖](:Glyph (tag=scale judge rules terms conditions))
+> [💼](:Glyph (tag=briefcase professional work agreement terms conditions))
 >
 > ### Communication
 >
@@ -107,6 +113,7 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🏶](:Glyph (tag=badge reject disapprove award quality qualification disqualify communication))
 > [🙅](:Glyph (tag=badge reject disapprove award quality qualification disqualify communication))
 > [↥](:Glyph (tag=share send attach forward communication))
+> [🗳](:Glyph (tag=vote ballot democracy election communication))
 >
 > ### Content
 >
@@ -305,6 +312,7 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [⛅](:Glyph (tag=cloudy weather sun outdoors))
 > [💧](:Glyph (tag=water rain droplet weather moisture outdoors))
 > [❄](:Glyph (tag=snowflake cold freeze ice weather outdoors))
+> [🧊](:Glyph (tag=cube ice miscellaneous outdoors))
 > [🌬](:Glyph (tag=wind breeze speed storm weather outdoors))
 > [🌡](:Glyph (tag=thermometer temperature hot cold weather outdoors))
 >
