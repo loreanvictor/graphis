@@ -28,8 +28,8 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [ℹ](:Glyph (tag=information hint education tip navigation miscellaneous))
 > [❓](:Glyph (tag=question help support assistance navigation miscellaneous))
 > [🏠](:Glyph (tag=home root main navigation))
-> [🚀](:Glyph (tag=rocket launch space moon success fast speed miscellaneous))
-> [☝](:Glyph (tag=hand point touch up notice important navigation))
+> [⩧](:Glyph (tag=hamburger menu navigation))
+> [⦶](:Glyph (tag=power on off start device turn-off turn-on miscellaneous))
 > [⬅](:Glyph (tag=arrow left back navigation))
 > [➡](:Glyph (tag=arrow right forward navigation))
 > [⬇](:Glyph (tag=arrow down bottom navigation))
@@ -52,7 +52,6 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🔄](:Glyph (tag=refresh arrow loop navigation sync))
 > [⋮](:Glyph (tag=dots more menu options navigation))
 > [⋯](:Glyph (tag=dots more menu options navigation))
-> [⩧](:Glyph (tag=hamburger menu navigation))
 > [🔧](:Glyph (tag=wrench settings options configurations navigation))
 > [⚙](:Glyph (tag=gear settings options configurations navigation))
 > [🎛](:Glyph (tag=knob settings options configurations properties tune meter gauge navigation))
@@ -62,22 +61,34 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [♘](:Glyph (tag=chess board-game piece knight miscellaneous))
 > [♖](:Glyph (tag=chess board-game piece rook miscellaneous))
 > [📦](:Glyph (tag=package box order delivery packing miscellaneous))
+> [🚀](:Glyph (tag=rocket launch space moon success fast speed miscellaneous))
 > [🤖](:Glyph (tag=robot automation miscellaneous))
-> [⦶](:Glyph (tag=power on off start device turn-off turn-on miscellaneous))
+> [🤡](:Glyph (tag=clown fun sarcasm irony miscellaneous))
+> [☝](:Glyph (tag=hand point touch up notice important navigation))
 >
-> ### Account & Personalization
+> ### Account
 >
 > [👤](:Glyph (tag=person people authentication user access account profile))
 > [👥](:Glyph (tag=people persons group audience access permissions users accounts authentication))
 > [👴](:Glyph (tag=reader people person subscriber user account authentication))
-> [🐾](:Glyph (tag=paw animal cat pet vet account authentication profile miscellaneous))
+> [👨](:Glyph (tag=worker formal fashion professional suit office people person user account authentication))
+> [🤵](:Glyph (tag=boss fashion scientist vip bowtie bow-tie tuxedo formal people person user account authentication))
+> [🗣](:Glyph (tag=support gamer people headphones person user account authentication))
+> [👩](:Glyph (tag=woman hair gender female sex people person user account authentication))
+> [👺](:Glyph (tag=man mustache facial hair gender sex male people person user account authentication))
+> [🤠](:Glyph (tag=hat cowboy fashion formal party vacation people person user account authentication))
+> [🧢](:Glyph (tag=hat caps sports fashion casual vacation worker delivery people person user account authentication))
 > [🔒](:Glyph (tag=lock login authentication authorization access))
 > [🔓](:Glyph (tag=lock unlock login logout authentication authorization access))
 > [🖕](:Glyph (tag=fingerprint finger-print login authentication authorization access))
 > [😏](:Glyph (tag=faceid face-id unlock login logout authentication authorization access))
 > [🔰](:Glyph (tag=shield privacy security protection authentication authorization account profile access))
 > [🛡](:Glyph (tag=shield privacy security protection authentication authorization account profile access))
+>
+> ### Personalization
+>
 > [❤](:Glyph (tag=heart love like favorite personalization))
+> [🐾](:Glyph (tag=paw animal cat pet vet account authentication profile miscellaneous))
 > [🔖](:Glyph (tag=bookmark save personalization))
 > [🏳](:Glyph (tag=flag report personalization))
 > [🔥](:Glyph (tag=fire flames burning hot trending personalization))
@@ -234,7 +245,7 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🎇](:Glyph (tag=slider slideview present layout content))
 > [🌅](:Glyph (tag=slider slideview present layout content))
 >
-> ### Connection & Devices
+> ### Connectivity
 >
 > [☁](:Glyph (tag=cloud online sync backup weather rain connection))
 > [🌑](:Glyph (tag=offline online cloud sync backup connection))
@@ -242,6 +253,18 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [📤](:Glyph (tag=upload backup store cloud sync connection))
 > [⥧](:Glyph (tag=swap arrow sync transfer connection))
 > [⥮](:Glyph (tag=swap arrow sync transfer connection))
+> [▼](:Glyph (tag=wifi internet connection online device))
+> [▽](:Glyph (tag=wifi internet connection offline device))
+> [⥐](:Glyph (tag=qrcode qr-code barcode bar-code connection scan device))
+> [⦀](:Glyph (tag=barcode bar-code connection scan device))
+> [▣](:Glyph (tag=qrcode qr-code connection scan device))
+> [𝚩](:Glyph (tag=bluetooth blue-tooth connection pairing device multimedia))
+> [𝛃](:Glyph (tag=bluetooth blue-tooth connection pairing device multimedia))
+> [𝛽](:Glyph (tag=bluetooth blue-tooth connection pairing device multimedia))
+> [📳](:Glyph (tag=beam payment nfc connection pairing device))
+>
+> ### Devices & Input
+>
 > [🎧](:Glyph (tag=headphone sound music audio multimedia))
 > [◙](:Glyph (tag=speaker sound music audio multimedia))
 > [🎮](:Glyph (tag=game-controller controller joystick input device))
@@ -252,15 +275,6 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [⍠](:Glyph (tag=remote tv input device))
 > [📷](:Glyph (tag=camera photo input device))
 > [🤳](:Glyph (tag=camera-rotate camera-flip selfie photo input device))
-> [⦀](:Glyph (tag=barcode bar-code connection scan device))
-> [▣](:Glyph (tag=qrcode qr-code connection scan device))
-> [⥐](:Glyph (tag=qrcode qr-code barcode bar-code connection scan device))
-> [▼](:Glyph (tag=wifi internet connection online device))
-> [▽](:Glyph (tag=wifi internet connection offline device))
-> [𝚩](:Glyph (tag=bluetooth blue-tooth connection pairing device multimedia))
-> [𝛃](:Glyph (tag=bluetooth blue-tooth connection pairing device multimedia))
-> [𝛽](:Glyph (tag=bluetooth blue-tooth connection pairing device multimedia))
-> [📳](:Glyph (tag=beam payment nfc connection pairing device))
 > [🖨](:Glyph (tag=printer scanner device))
 > [🔦](:Glyph (tag=flashlight hint education tip device))
 > [⏀](:Glyph (tag=flashlight hint education tip device))
