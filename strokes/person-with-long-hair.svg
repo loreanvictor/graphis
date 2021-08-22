@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>person-with-long-hair</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="person-with-long-hair" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M104.5,112.5 L104.5,108.5 C104.5,97.454305 95.545695,88.5 84.5,88.5 L64.5,88.5 L64.5,88.5 C77.4786916,88.5 88.5,75.2401154 88.5,59.5 C88.5,55.4173235 87.7585066,51.6024296 86.4336911,48.1910782 L80.3606192,48.1381719 C71.5787797,48.0616677 64.5,40.9209517 64.5,32.138779 L64.5,32 L64.5,32 C51.5213084,32 40.5,43.7598846 40.5,59.5 C40.5,70.9703905 45.5874074,80.8581106 53.6414837,85.3784351" id="Path" stroke="#000000" stroke-width="3"></path>
+            <path d="M105,88.5 L104.775849,56.2222289 C104.623193,34.2397684 86.7598039,16.5 64.7768133,16.5 L64.5,16.5 C42.40861,16.5 24.5,34.40861 24.5,56.5 L24.5,112.5 L24.5,112.5 L24.5,109 L24.5,105 C24.5,95.8873016 31.8873016,88.5 41,88.5 L41,88.5 L41,88.5" id="Path-47" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>
