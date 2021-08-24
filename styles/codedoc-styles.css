@@ -726,7 +726,7 @@ body.dark code {
   }
 }
   .header-0-0-15 {
-    width: calc(5 * min(5vw, 3.5rem) + 5 * 2 * 20px + 8px);
+    width: calc(5 * min(10vw, 3.5rem) + 5 * 2 * min(2.5vw, 20px) + 8px);
     margin: 0 auto;
     margin-top: 36px;
     text-align: center;
@@ -734,8 +734,8 @@ body.dark code {
   }
   .header-0-0-15 span {
     display: inline-block;
-    padding: 20px;
-    font-size: min(5vw, 3.5rem);
+    padding: min(2.5vw, 20px);
+    font-size: min(10vw, 3.5rem);
   }
   .header-0-0-15 span:nth-of-type(1) {
     color: #AA2EE6;
