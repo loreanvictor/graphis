@@ -87,15 +87,15 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
 
   header: {
     textAlign: 'center',
-    width: 'calc(5 * min(5vw, 3.5rem) + 5 * 2 * 20px + 8px)',
+    width: 'calc(5 * min(10vw, 3.5rem) + 5 * 2 * min(2.5vw, 20px) + 8px)',
     margin: '0 auto',
     marginTop: 36,
     marginBottom: 24,
 
     '& span': {
       display: 'inline-block',
-      padding: 20,
-      fontSize: 'min(5vw, 3.5rem)',
+      padding: 'min(2.5vw, 20px)',
+      fontSize: 'min(10vw, 3.5rem)',
 
       '&:nth-of-type(1)': { color: '#AA2EE6' },
       '&:nth-of-type(2)': { color: '#FF79CD' },
