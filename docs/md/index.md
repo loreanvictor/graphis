@@ -329,6 +329,22 @@ To use graphis, simply [load (or install) the font](usage), then copy and paste 
 > [🧊](:Glyph (tag=cube ice miscellaneous outdoors))
 > [🌬](:Glyph (tag=wind breeze speed storm weather outdoors))
 > [🌡](:Glyph (tag=thermometer temperature hot cold weather outdoors))
+> [✈](:Glyph (tag=plane airplane flight travel transportation))
+> [🚆](:Glyph (tag=train transportation subway underground metro travel))
+> [🚅](:Glyph (tag=train transportation subway underground metro travel))
+> [🚲](:Glyph (tag=bicycle transportation cycling bike))
+> [🛴](:Glyph (tag=e-scooter transportation electric-scooter))
+> [🚍](:Glyph (tag=bus transportation public-transport travel))
+> [🚌](:Glyph (tag=bus transportation public-transport travel))
+> [🚖](:Glyph (tag=taxi cab transportation public-transport))
+> [⛵](:Glyph (tag=sailboat transportation water travel))
+> [🏍](:Glyph (tag=motorcycle transportation bike))
+> [🚘](:Glyph (tag=car transportation travel automobile))
+> [🚗](:Glyph (tag=car transportation travel automobile))
+> [🚢](:Glyph (tag=ship transportation travel cruise sea water ocean))
+> [🛳](:Glyph (tag=ship transportation travel cruise sea water ocean))
+> [🚛](:Glyph (tag=truck transportation delivery cargo))
+> [🚚](:Glyph (tag=truck transportation delivery cargo))
 >
 
 ---
