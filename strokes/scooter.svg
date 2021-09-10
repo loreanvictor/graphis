@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>scooter</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="scooter" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M72.5,32.5 L81.9415688,32.5 C85.7550169,32.5 89.0383355,35.1916773 89.7862142,38.9310709 L96.5,72.5 L96.5,72.5 C87.663444,72.5 80.5,79.663444 80.5,88.5 L80.5,88.5 L80.5,88.5 L40.5,88.5 C40.5,84.081722 36.918278,80.5 32.5,80.5 C28.081722,80.5 24.5,84.081722 24.5,88.5 C24.5,92.918278 28.081722,96.5 32.5,96.5 L32.5,96.5 L32.5,96.5" id="Path-365" stroke="#000000" stroke-width="3"></path>
+            <path d="M88.5,88.5 C88.5,84.081722 92.081722,80.5 96.5,80.5 C100.918278,80.5 104.5,84.081722 104.5,88.5 C104.5,92.918278 100.918278,96.5 96.5,96.5 L96.5,96.5 L96.5,96.5" id="Path-366" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

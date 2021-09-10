@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="161px" height="130px" viewBox="0 0 161 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>train-side-view</title>
+    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="train-side-view" transform="translate(1.000000, 1.000000)">
+            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="128" height="128"></rect>
+                </g>
+            </g>
+            <path d="M10.5,84.5 L104.787804,84.5 C112.446013,84.5 118.654219,78.2917946 118.654219,70.6335851 C118.654219,65.5887796 115.914377,60.9419956 111.5,58.5 L71.7288,36.4989106 C66.9873274,33.8759683 61.6574507,32.5 56.2388357,32.5 L10.5,32.5 L10.5,32.5" id="Path-354" stroke="#000000" stroke-width="3"></path>
+            <line x1="118.5" y1="96.5" x2="10.5" y2="96.5" id="Path-357" stroke="#000000" stroke-width="3"></line>
+            <path d="M40.5,64.5 L86.3587268,64.5 C88.0155811,64.5 89.3587268,63.1568542 89.3587268,61.5 C89.3587268,60.3861621 88.7416216,59.3640114 87.7559661,58.8452453 L67.4969721,48.1826169 C62.9014289,45.76391 57.7862702,44.5 52.5930862,44.5 L43.5,44.5 C41.8431458,44.5 40.5,45.8431458 40.5,47.5 L40.5,56.5 L40.5,56.5" id="Path-358" stroke="#000000" stroke-width="3"></path>
+            <path d="M10.5,64.5 L21.5,64.5 C23.1568542,64.5 24.5,63.1568542 24.5,61.5 L24.5,47.5 C24.5,45.8431458 23.1568542,44.5 21.5,44.5 L10.5,44.5 L10.5,44.5" id="Path-359" stroke="#000000" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>
