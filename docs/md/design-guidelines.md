@@ -136,4 +136,12 @@ Here are some recommended boundaries and maximal grid / key lines for various ic
 
 ![variational boundaries](/docs/assets/boundaries-variations.svg)
 
+<br>
+
+---
+
+<br>
+
+## Stroke Widths & Spacing
+
 > :ToCPrevNext
