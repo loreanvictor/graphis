@@ -1,0 +1,15 @@
+name: Graphis Test
+meta:
+  copyright: MIT License, Copyright 2022 Eugene Ghanizadeh Khoub
+  description: A test for the Graphis library
+  url: https://loreanvictor.github.io/graphis/
+metrics:
+  height: 1160
+  descent: 70
+variations:
+  - src: regular
+    weight: Regular
+  - src: regular
+    weight: Bold
+    style: Bold
+    name: Bold

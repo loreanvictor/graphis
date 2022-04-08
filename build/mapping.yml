@@ -1,0 +1,6 @@
+- name: airplane
+  unicode: ✈
+- name: star
+  unicode: ⭐
+- name: arrow-up
+  unicode: ⬆
