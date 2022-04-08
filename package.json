@@ -6,10 +6,12 @@
   "files": [
     "font",
     "helpers",
-    "light",
     "regular"
   ],
   "scripts": {
+    "build:svg": "node ./build/scripts/build-svg.js",
+    "build:ttf": "node ./build/scripts/build-ttf.js",
+    "build": "npm run build:svg && npm run build:ttf",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,5 +27,12 @@
   "bugs": {
     "url": "https://github.com/loreanvictor/graphis/issues"
   },
-  "homepage": "https://github.com/loreanvictor/graphis#readme"
+  "homepage": "https://github.com/loreanvictor/graphis#readme",
+  "devDependencies": {
+    "param-case": "^3.0.4",
+    "semver": "^7.3.6",
+    "svg2ttf": "^6.0.3",
+    "svgicons2svgfont": "^10.0.6",
+    "yaml": "^2.0.0"
+  }
 }
