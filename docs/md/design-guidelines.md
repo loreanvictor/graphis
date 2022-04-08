@@ -35,7 +35,7 @@ In order to achieve this feel:
 Visual clarity and readability of icons are always more important than aesthetics.
 If visual noise of a continuous stroke clutters the icon on smaller sizes, use
 multiple strokes. For example, the quote icon <b>∂</b> is broken into two strokes,
-the light bulb icon <b>💡</b> into three and the GIF icon <b>🕺</b> into six, for increased
+the light bulb icon <b>💡</b> into three and the GIF icon <b>🕺</b> into four, for increased
 readability and familiarity.
 
 <br>
