@@ -13,7 +13,8 @@
     "build:ttf": "node ./build/scripts/build-ttf.js",
     "build:woff2": "node ./build/scripts/build-woff2.js",
     "build:css": "node ./build/scripts/build-css.js",
-    "build": "npm run build:svg && npm run build:ttf && npm run build:woff2 && npm run build:css",
+    "build:zip": "node ./build/scripts/build-zip.js",
+    "build": "npm run build:svg && npm run build:ttf && npm run build:woff2 && npm run build:css && npm run build:zip",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -31,6 +32,7 @@
   },
   "homepage": "https://github.com/loreanvictor/graphis#readme",
   "devDependencies": {
+    "archiver": "^5.3.0",
     "chalk": "^5.0.1",
     "param-case": "^3.0.4",
     "semver": "^7.3.6",
