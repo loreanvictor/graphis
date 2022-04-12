@@ -9,13 +9,13 @@
     "regular"
   ],
   "scripts": {
-    "build:svg": "node ./build/scripts/build-svg.js",
-    "build:ttf": "node ./build/scripts/build-ttf.js",
-    "build:woff2": "node ./build/scripts/build-woff2.js",
-    "build:css": "node ./build/scripts/build-css.js",
-    "build:zip": "node ./build/scripts/build-zip.js",
-    "build": "npm run build:svg && npm run build:ttf && npm run build:woff2 && npm run build:css && npm run build:zip",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:svg": "node ./build/scripts/build-svg.mjs",
+    "build:ttf": "node ./build/scripts/build-ttf.mjs",
+    "build:woff2": "node ./build/scripts/build-woff2.mjs",
+    "build:css": "node ./build/scripts/build-css.mjs",
+    "build:zip": "node ./build/scripts/build-zip.mjs",
+    "build": "node ./build/scripts/build.mjs",
+    "test": "node ./build/scripts/validate.mjs"
   },
   "repository": {
     "type": "git",

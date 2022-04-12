@@ -4,3 +4,7 @@
   unicode: ⭐
 - name: arrow-up
   unicode: ⬆
+- name: text
+  unicode: ≡
+- name: x-mark
+  unicode: ❌

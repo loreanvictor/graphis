@@ -12,7 +12,7 @@ variations:
   - src: regular
     weight: Regular
 
-  - src: regular
-    weight: Bold
-    style: Bold
-    name: Bold
+  # - src: regular
+  #   weight: Bold
+  #   style: Bold
+  #   name: Bold
