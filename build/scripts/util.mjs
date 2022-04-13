@@ -24,7 +24,16 @@ export const $ = {
 }
 
 
-export async function loading(text, fn) {
+
+export function rewrite(whatevs) {
+  console.log(DEL_LINE + PREV_LINE + DEL_LINE + whatevs)
+}
+
+
+
+const timeout = ms => new Promise(resolve => setTimeout(resolve, ms))
+
+export async function loading(text, fn, opts = { timeout: 500, rewrite: true }) {
   const frames = [
     '   ', '>  ', '>> ', '>>>', '>>>', ' >>', '  >', '   ',
   ]
@@ -39,17 +48,15 @@ export async function loading(text, fn) {
   }, 100)
 
   try {
-    const res = await fn()
+    const res = await Promise.all([fn(), timeout((opts && opts.timeout) || 0)])
     clearInterval(timer)
+    if (opts && opts.rewrite) {
+      rewrite(PREV_LINE)
+    }
 
-    return res
+    return res[0]
   } catch(err) {
     clearInterval(timer)
     throw err
   }
-}
-
-
-export function rewrite(whatevs) {
-  console.log(DEL_LINE + PREV_LINE + DEL_LINE + whatevs)
 }

@@ -14,6 +14,7 @@ const pkg = JSON.parse(readFileSync(join(root, 'package.json'), 'utf8'))
 
 export default {
   ...config,
+  mapping,
   dest: join(destroot, paramCase(config.name)),
   destroot,
   meta: {
