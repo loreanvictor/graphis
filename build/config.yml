@@ -1,7 +1,7 @@
-name: Graphis Test
+name: graphis
 meta:
   copyright: MIT License, Copyright 2022 Eugene Ghanizadeh Khoub
-  description: A test for the Graphis library
+  description: A convenient and stylish icon font
   url: https://loreanvictor.github.io/graphis/
 
 metrics:
