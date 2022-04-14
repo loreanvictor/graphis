@@ -1,7 +1,8 @@
 import { constants } from 'fs'
 import { readdir, access } from 'fs/promises'
 
-import { executed, loading, rewrite, $ } from './util.mjs'
+import { executed, loading, $ } from './util.mjs'
+import { findUnscalableGlyphs } from './make-scalable.mjs'
 import config from './config.mjs'
 
 
@@ -66,12 +67,14 @@ export async function validate(verbose = true) {
   const missingMappings = await loading('Checking missing mappings ...', findMissingMappings)
   const duplicateGlyphNames = await loading('Checking duplicate glyph names ...', findDuplicateGlyphNames)
   const duplicateGlyphUnicodes = await loading('Checking duplicate glyph unicodes ...', findDuplicateGlyphUnicodes)
+  const unscalableGlyphs = await loading('Checking unscalable glyphs ...', findUnscalableGlyphs)
 
   const success = 
     missingGlyphs.length === 0 &&
     missingMappings.length === 0 &&
     duplicateGlyphNames.length === 0 &&
-    duplicateGlyphUnicodes.length === 0
+    duplicateGlyphUnicodes.length === 0 &&
+    unscalableGlyphs.length === 0
 
   let msg = ''
 
@@ -105,6 +108,14 @@ export async function validate(verbose = true) {
       `\n`
   } else {
     msg += $.success(`All glyph unicodes are unique.\n`)
+  }
+
+  if (unscalableGlyphs.length) {
+    msg += $.error(`${unscalableGlyphs.length} glyphs are unscalable:\n`) +
+      $.hint($.errlist(unscalableGlyphs.map(({ variation, glyph }) => `${variation.name}/${glyph.name}`))) +
+      `\n`
+  } else {
+    msg += $.success(`All glyphs are scalable.\n`)
   }
 
   if (verbose) {

@@ -5,10 +5,10 @@ import { parse } from 'yaml'
 import { paramCase } from 'param-case'
 
 
-const root = join(dirname(fileURLToPath(import.meta.url)), '..', '..')
+const root = join(dirname(fileURLToPath(import.meta.url)), '..')
 const destroot = join(root, 'font')
-const config = parse(readFileSync(join(root, 'build', 'config.yml'), 'utf8'))
-const mapping = parse(readFileSync(join(root, 'build', 'mapping.yml'), 'utf8'))
+const config = parse(readFileSync(join(root, 'config.yml'), 'utf8'))
+const mapping = parse(readFileSync(join(root, 'mapping.yml'), 'utf8'))
 
 const pkg = JSON.parse(readFileSync(join(root, 'package.json'), 'utf8'))
 
