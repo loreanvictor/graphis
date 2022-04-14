@@ -114,6 +114,8 @@ export async function validate(verbose = true) {
     msg += $.error(`${unscalableGlyphs.length} glyphs are unscalable:\n`) +
       $.hint($.errlist(unscalableGlyphs.map(({ variation, glyph }) => `${variation.name}/${glyph.name}`))) +
       `\n`
+
+    msg += $.guide(`Run ${$.highlight('npm run prep')} to fix these.`)
   } else {
     msg += $.success(`All glyphs are scalable.\n`)
   }
