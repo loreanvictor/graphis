@@ -13,6 +13,8 @@ const DEL_LINE = '\x1b[2K'
 
 export const $ = {
   loading: chalk.bold.hex('066163'),
+  guide: _ => '👉 ' + _,
+  highlight: chalk.bold.hex('B667F1'),
   success: _ => chalk.bold.green('✔') + ' ' + _,
   error: _ => chalk.bold.red('✕') + ' ' + chalk.hex('FF8080')(_),
   hint: chalk.hex('92A9BD'),
