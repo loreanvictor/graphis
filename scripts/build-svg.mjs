@@ -9,6 +9,7 @@ export async function buildVariation(variation) {
   return new Promise((resolve, reject) => {
     const conf = {
       fontName: config.name,
+      fontId: config.name + ' ' + variation.name,
       metadata: JSON.stringify(config.meta),
       log: () => {},
     }

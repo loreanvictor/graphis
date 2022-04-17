@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 116 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>arrow-up</title>
+  <g id="arrow-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path d="M62.5,42.5 L62.5,106.5 L54.5,106.5 L54.5,42.5 L62.5,42.5 Z M62.3829014,10.0839749 C63.0557466,10.5325384 63.6450428,11.0937993 64.1252851,11.7422529 L64.3243521,12.0254255 L93.8282012,56.2811992 L87.1717988,60.7188008 L58.5,17.712 L29.8282012,60.7188008 L23.1717988,56.2811992 L52.6756479,12.0254255 C54.8201152,8.80872472 59.1662006,7.93950764 62.3829014,10.0839749 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+  </g>
+</svg>
