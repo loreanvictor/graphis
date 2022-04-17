@@ -13,7 +13,7 @@ import { GlyphHeader$ } from './components/glyph-header';
 export const config = /*#__PURE__*/configuration({
   theme,
   dest: {
-    namespace: '/graphis',
+    namespace: '',
     html: 'dist',
     assets: process.env.GITHUB_BUILD === 'true' ? 'dist' : '.',
     bundle: process.env.GITHUB_BUILD === 'true' ? 'bundle' : 'dist/bundle',
