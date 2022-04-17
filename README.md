@@ -30,4 +30,4 @@ body, * {
 ```
 [🚀 Check it out!](https://codepen.io/lorean_victor/pen/oNWzOQr)
 
-[Checkout the website](https://loreanvictor.github.io/graphis/) for a complete list of icons you can just copy and use.
+[Checkout the website](https://graphis.ink) for a complete list of icons you can just copy and use.
