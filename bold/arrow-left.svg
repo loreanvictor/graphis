@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 116 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-left</title>
+    <g id="arrow-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M55.7971107,22.6612459 L60.2028893,29.3387541 L16.776,57.99 L59.6946258,86.1558084 L55.3053742,92.8441916 L11.1170243,63.845587 C10.3206794,63.3229856 9.63936884,62.6433579 9.11479973,61.8483079 C7.03199549,58.6915577 7.83839613,54.4677715 10.8954334,52.2923886 L11.1025631,52.150432 L55.7971107,22.6612459 Z M105.5,54 L105.5,62 L42,62 L42,54 L105.5,54 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
