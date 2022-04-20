@@ -4,7 +4,7 @@
 
 # Design Guidelines
 
-Imagine designing your app icons with a pen. You don't want to close up any loops,
+Imagine drawing and icon with a pen. You don't want to close up any loops,
 and you want to minimize the number of times you have to raise the pen from the paper.
 The resulting look and feel is what defines graphis icons.
 
@@ -143,5 +143,31 @@ Here are some recommended boundaries and maximal grid / key lines for various ic
 <br>
 
 ## Stroke Widths & Spacing
+
+Icons should be designed with three stroke widths corresponding to three weights: light, corresponding to 3px width,
+regular, corresponding to 5px width, and bold, corresponding to 8px width.
+
+> :DarkLight
+> > :InLight
+> >
+> > ![how to use grid lines](/docs/assets/stroke-width-light.svg)
+>
+> > :InDark
+> >
+> > ![how to use grid lines](/docs/assets/stroke-width-dark.svg)
+
+These stroke widths should be considered so that separate lines and strokes do not overlap in a weight where they should not.
+For example, center points of parallel or semi-parallel lines should have a distance of at least one and a half gridlines (12px),
+so that in maximum weight, the lines are still separated by half a stroke (4px). Similarly, edge of a line should at least
+be 8px from the center of a nearby perpendicular line.
+
+> :DarkLight
+> > :InLight
+> >
+> > ![how to use grid lines](/docs/assets/spacing-light.svg)
+>
+> > :InDark
+> >
+> > ![how to use grid lines](/docs/assets/spacing-dark.svg)
 
 > :ToCPrevNext

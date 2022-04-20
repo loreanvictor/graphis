@@ -29,7 +29,6 @@ export function content(_content: HTMLElement, toc: HTMLElement, renderer: Rende
               input {
                 color: inherit;
                 background: inherit;
-                border: 1px solid #7C83FD;
                 border-radius: 3px;
                 padding: 4px;
                 outline: none;

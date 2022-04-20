@@ -62,16 +62,22 @@ export const GlyphStyle = themedStyle<CodedocTheme>(theme => ({
       paddingLeft: 40,
       lineHeight: 2,
       fontSize: 16,
+      marginTop: '0rem',
       appearance: 'none',
       flexGrow: 1,
+      border: `1px solid ${theme.light.primary}`,
       background: theme.light.background,
-      'body.dark &': { background: theme.dark.background },
+      'body.dark &': {
+        background: theme.dark.background,
+        border: `1px solid ${theme.dark.primary}`,
+      },
       '@media (prefers-color-scheme: dark)': {
         'body:not(.dark-mode-animate) &': {
           background: theme.dark.background,
+          border: `px solid ${theme.dark.primary}`,
         }
       },
-      'body.dark-mode-animate &': { transition: 'background .3s' },
+      'body.dark-mode-animate &': { transition: 'background .3s, border-color .3s' },
     },
 
     '& span': {
