@@ -61,7 +61,7 @@
 }
   .button-0-0-4 {
     color: white;
-    border: 2px solid #7C83FD;
+    border: 2px solid #313552;
     cursor: pointer;
     height: 40px;
     margin: 8px;
@@ -70,7 +70,7 @@
     padding: 4px 16px;
     font-size: 16px;
     min-width: 96px;
-    background: #7C83FD;
+    background: #313552;
     align-items: center;
     margin-right: 0;
     border-radius: 3px;
@@ -93,39 +93,39 @@
     background: rgba(66, 66, 66, 0.35);
   }
   body.dark .button-0-0-4 {
-    color: white;
-    background: #7C83FD;
-    border-color: #7C83FD;
+    color: black;
+    background: #e6f4ff;
+    border-color: #e6f4ff;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .button-0-0-4 {
-    color: white;
-    background: #7C83FD;
-    border-color: #7C83FD;
+    color: black;
+    background: #e6f4ff;
+    border-color: #e6f4ff;
   }
   body:not(.dark-mode-animate) .button-0-0-4[disabled] {
-    color: #212121;
+    color: #1b1d2b;
     border: rgba(238, 238, 238, 0.35);
     background: rgba(238, 238, 238, 0.35);
   }
 }
   .button-0-0-4:hover:not([disabled]) {
-    color: #7C83FD;
+    color: #313552;
     background: transparent;
     text-decoration: none;
   }
   body.dark .button-0-0-4:hover:not([disabled]) {
-    color: #7C83FD;
+    color: #e6f4ff;
     background: transparent;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .button-0-0-4:hover:not([disabled]) {
-    color: #7C83FD;
+    color: #e6f4ff;
     background: transparent;
   }
 }
   body.dark .button-0-0-4[disabled] {
-    color: #212121;
+    color: #1b1d2b;
     border: rgba(238, 238, 238, 0.35);
     background: rgba(238, 238, 238, 0.35);
   }
@@ -207,11 +207,11 @@ a.button-0-0-4.icon {
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .footer-0-0-7 {
-    background: rgba(33, 33, 33, 0.85);
+    background: rgba(27, 29, 43, 0.85);
   }
 }
   body.dark .footer-0-0-7 {
-    background: rgba(33, 33, 33, 0.85);
+    background: rgba(27, 29, 43, 0.85);
   }
   .footer-0-0-7 .main {
     overflow: hidden;
@@ -280,13 +280,13 @@ a.button-0-0-4.icon {
     transition: background .3s, border-color .3s;
   }
   body.dark .toc-0-0-8 {
-    background: #1f1f1f;
-    border-color: #282828;
+    background: #1a1c27;
+    border-color: #292b3e;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .toc-0-0-8 {
-    background: #1f1f1f;
-    border-color: #282828;
+    background: #1a1c27;
+    border-color: #292b3e;
   }
 }
 @media screen and (max-width: 1200px) {
@@ -329,13 +329,13 @@ a.button-0-0-4.icon {
     border-bottom-right-radius: 0;
   }
   body.dark .toc-0-0-8 a.current {
-    background: hsl(0, 0%, 13.2%);
-    border-color: #282828;
+    background: hsl(232.5, 22.9%, 14%);
+    border-color: #292b3e;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .toc-0-0-8 a.current {
-    background: #212121;
-    border-color: #282828;
+    background: #1b1d2b;
+    border-color: #292b3e;
   }
 }
 @media screen and (max-width: 1200px) {
@@ -346,11 +346,11 @@ a.button-0-0-4.icon {
   }
 }
   body.dark .toc-0-0-8 a:hover {
-    background: hsl(0, 0%, 13.2%);
+    background: hsl(232.5, 22.9%, 14%);
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .toc-0-0-8 a:hover {
-    background: hsl(0, 0%, 13.2%);
+    background: hsl(232.5, 22.9%, 14%);
   }
 }
   body.dark-mode-animate .toc-0-0-8.animated {
@@ -401,7 +401,7 @@ a.button-0-0-4.icon {
     color: #eeeeee;
   }
   body:not(.dark-mode-animate) .contentnav-0-0-11 a:hover, body:not(.dark-mode-animate) .contentnav-0-0-11 a.active {
-    color: #7C83FD;
+    color: #e6f4ff;
   }
 }
   body.dark .contentnav-0-0-11 {
@@ -411,13 +411,13 @@ a.button-0-0-4.icon {
     color: #eeeeee;
   }
   body.dark .contentnav-0-0-11 a:hover, body.dark .contentnav-0-0-11 a.active {
-    color: #7C83FD;
+    color: #e6f4ff;
   }
   body.dark-mode-animate .contentnav-0-0-11 a {
     transition: color .3s, opacity .3s;
   }
   .contentnav-0-0-11 a:hover, .contentnav-0-0-11 a.active {
-    color: #7C83FD;
+    color: #313552;
     opacity: 1;
   }
   .contentnav-0-0-11 a.h2 {
@@ -454,7 +454,7 @@ body.dark-mode-animate {
   transition: color .3s, background .3s;
 }
 a {
-  color: #7C83FD;
+  color: #313552;
 }
 a:hover {
   text-decoration: underline;
@@ -465,11 +465,11 @@ body.dark-mode-animate a {
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) a {
-    color: #7C83FD;
+    color: #e6f4ff;
   }
 }
 body.dark a {
-  color: #7C83FD;
+  color: #e6f4ff;
 }
 .container {
   margin: 0 auto;
@@ -581,7 +581,7 @@ body.dark-mode-animate blockquote:after {
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) {
     color: #eeeeee;
-    background: #212121;
+    background: #1b1d2b;
   }
   body:not(.dark-mode-animate) blockquote {
     color: #cacaca;
@@ -594,7 +594,7 @@ body.dark-mode-animate blockquote:after {
 }
 body.dark {
   color: #eeeeee;
-  background: #212121;
+  background: #1b1d2b;
 }
 body.dark blockquote {
   color: #cacaca;
@@ -663,7 +663,7 @@ body.dark code {
     font-size: 36px;
   }
   .glyph-0-0-12:hover {
-    border-color: #7C83FD;
+    border-color: #e6f4ff;
   }
   .glyph-0-0-12[hidden] {
     display: none;
@@ -692,11 +692,13 @@ body.dark code {
     margin-left: 4px;
   }
   .glyphSearch-0-0-14 input {
+    border: 1px solid #313552;
     padding: 8px;
     flex-grow: 1;
     font-size: 16px;
     appearance: none;
     background: #f5f5f5;
+    margin-top: 0rem;
     line-height: 2;
     padding-left: 40px;
   }
@@ -710,15 +712,17 @@ body.dark code {
     margin-left: 16px;
   }
   body.dark .glyphSearch-0-0-14 input {
-    background: #212121;
+    border: 1px solid #e6f4ff;
+    background: #1b1d2b;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .glyphSearch-0-0-14 input {
-    background: #212121;
+    border: px solid #e6f4ff;
+    background: #1b1d2b;
   }
 }
   body.dark-mode-animate .glyphSearch-0-0-14 input {
-    transition: background .3s;
+    transition: background .3s, border-color .3s;
   }
 @media only screen and (max-width: 768px) {
   .glyphSearch-0-0-14 button {
