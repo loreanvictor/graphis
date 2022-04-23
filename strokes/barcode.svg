@@ -1,19 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>barcode</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="barcode" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <line x1="16.5" y1="104.5" x2="112.5" y2="104.5" id="Path-256" stroke="#000000" stroke-width="3"></line>
-            <line x1="16.5" y1="24.5" x2="112.5" y2="24.5" id="Path-259" stroke="#000000" stroke-width="3"></line>
-            <path d="M28.5,88.5 L28.5,43.5 C28.5,41.8431458 27.1568542,40.5 25.5,40.5 L19.5,40.5 C17.8431458,40.5 16.5,41.8431458 16.5,43.5 L16.5,85.5 C16.5,87.1568542 17.8431458,88.5 19.5,88.5 L22.5,88.5 L22.5,88.5" id="Path-264" stroke="#000000" stroke-width="3"></path>
-            <line x1="40.5" y1="40.5" x2="40.5" y2="88.5" id="Path-265" stroke="#000000" stroke-width="3"></line>
-            <path d="M60.5,88.5 L55.5,88.5 C53.8431458,88.5 52.5,87.1568542 52.5,85.5 L52.5,43.5 C52.5,41.8431458 53.8431458,40.5 55.5,40.5 L65.5,40.5 C67.1568542,40.5 68.5,41.8431458 68.5,43.5 L68.5,85.5 C68.5,87.1568542 69.8431458,88.5 71.5,88.5 L77.5,88.5 C79.1568542,88.5 80.5,87.1568542 80.5,85.5 L80.5,43.5 C80.5,41.8431458 81.8431458,40.5 83.5,40.5 L97.5,40.5 C99.1568542,40.5 100.5,41.8431458 100.5,43.5 L100.5,88.5 L100.5,88.5" id="Path-266" stroke="#000000" stroke-width="3"></path>
-            <line x1="112.5" y1="40.5" x2="112.5" y2="88.5" id="Path-268" stroke="#000000" stroke-width="3"></line>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>barcode</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="barcode" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <line x1="16.5" y1="104.5" x2="112.5" y2="104.5" id="Path-256" stroke="#000000" stroke-width="3"></line>
+      <line x1="16.5" y1="24.5" x2="112.5" y2="24.5" id="Path-259" stroke="#000000" stroke-width="3"></line>
+      <line x1="40.5" y1="40.5" x2="40.5" y2="88.5" id="Path-265" stroke="#000000" stroke-width="3"></line>
+      <line x1="112.5" y1="40.5" x2="112.5" y2="88.5" id="Path-268" stroke="#000000" stroke-width="3"></line>
+      <path d="M28.5,88.5 L28.5,43.5 C28.5,41.8431458 27.1568542,40.5 25.5,40.5 L19.5,40.5 C17.8431458,40.5 16.5,41.8431458 16.5,43.5 L16.5,85.5 C16.5,87.1568542 17.8431458,88.5 19.5,88.5 L22.5,88.5 L22.5,88.5" id="Path-264" stroke="#000000" stroke-width="3"></path>
+      <path d="M60.5,88.5 L55.5,88.5 C53.8431458,88.5 52.5,87.1568542 52.5,85.5 L52.5,43.5 C52.5,41.8431458 53.8431458,40.5 55.5,40.5 L65.5,40.5 C67.1568542,40.5 68.5,41.8431458 68.5,43.5 L68.5,85.5 C68.5,87.1568542 69.8431458,88.5 71.5,88.5 L77.5,88.5 C79.1568542,88.5 80.5,87.1568542 80.5,85.5 L80.5,43.5 C80.5,41.8431458 81.8431458,40.5 83.5,40.5 L97.5,40.5 C99.1568542,40.5 100.5,41.8431458 100.5,43.5 L100.5,88.5 L100.5,88.5" id="Path-266" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>

@@ -1,5 +1,5 @@
 import { executed, loading, $ } from './util.mjs'
-import { makeAllGlyphsScalable } from './make-scalable.mjs'
+import { makeAllGlyphsScalable } from './validations/scalable-glyphs.mjs'
 
 
 export async function prepare() {

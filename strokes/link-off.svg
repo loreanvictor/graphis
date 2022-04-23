@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>link-off</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="link-off" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M56,72 C56,76.418278 52.418278,80 48,80 L24,80 C19.581722,80 16,76.418278 16,72 L16,56 C16,51.581722 19.581722,48 24,48 C31.1111111,48 36.4444444,48 40,48" id="Path" stroke="#000000" stroke-width="3"></path>
-            <path d="M96,80 C92.4444444,80 87.1111111,80 80,80 C75.581722,80 72,76.418278 72,72 L72,56 C72,51.581722 75.581722,48 80,48 L104,48 C108.418278,48 112,51.581722 112,56" id="Path-Copy" stroke="#000000" stroke-width="3" transform="translate(92.000000, 64.000000) scale(-1, 1) translate(-92.000000, -64.000000) "></path>
-            <path d="M44,64 L56,64 M71.5,64 L84,64" id="Shape" stroke="#000000" stroke-width="3"></path>
-            <line x1="16" y1="16" x2="112" y2="112" id="Path-4" stroke="#000000" stroke-width="3"></line>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>link-off</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="link-off" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M56,72 C56,76.418278 52.418278,80 48,80 L24,80 C19.581722,80 16,76.418278 16,72 L16,56 C16,51.581722 19.581722,48 24,48 C31.1111111,48 36.4444444,48 40,48" id="Path" stroke="#000000" stroke-width="3"></path>
+      <path d="M96,80 C92.4444444,80 87.1111111,80 80,80 C75.581722,80 72,76.418278 72,72 L72,56 C72,51.581722 75.581722,48 80,48 L104,48 C108.418278,48 112,51.581722 112,56" id="Path-Copy" stroke="#000000" stroke-width="3" transform="translate(92.000000, 64.000000) scale(-1, 1) translate(-92.000000, -64.000000)"></path>
+      <path d="M44,64 L56,64 M71.5,64 L84,64" id="Shape" stroke="#000000" stroke-width="3"></path>
+      <line x1="16" y1="16" x2="112" y2="112" id="Path-4" stroke="#000000" stroke-width="3"></line>
     </g>
+  </g>
 </svg>

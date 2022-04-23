@@ -35,7 +35,7 @@ export function rewrite(whatevs) {
 
 const timeout = ms => new Promise(resolve => setTimeout(resolve, ms))
 
-export async function loading(text, fn, opts = { timeout: 500, rewrite: true }) {
+export async function loading(text, fn, opts = { timeout: 0, rewrite: true }) {
   const frames = [
     '   ', '>  ', '>> ', '>>>', '>>>', ' >>', '  >', '   ',
   ]

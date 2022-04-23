@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>arrow-up</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="arrow-up" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <line x1="64.5" y1="112.5" x2="64.5" y2="48.5" id="Path-66" stroke="#000000" stroke-width="3"></line>
-            <path d="M32.5,64.5 L62.0038491,20.2442263 C62.9229065,18.8656403 64.7855145,18.4931187 66.1641006,19.412176 C66.4936575,19.6318806 66.7764463,19.9146695 66.9961509,20.2442263 L96.5,64.5 L96.5,64.5" id="Path-146" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>arrow-up</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="arrow-up" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <line x1="64.5" y1="112.5" x2="64.5" y2="48.5" id="Path-66" stroke="#000000" stroke-width="3"></line>
+      <path d="M32.5,64.5 L62.0038491,20.2442263 C62.9229065,18.8656403 64.7855145,18.4931187 66.1641006,19.412176 C66.4936575,19.6318806 66.7764463,19.9146695 66.9961509,20.2442263 L96.5,64.5 L96.5,64.5" id="Path-146" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>

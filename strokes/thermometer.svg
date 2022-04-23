@@ -1,19 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>thermometer</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="thermometer" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M58.5,92.5 C58.5,95.8137085 61.1862915,98.5 64.5,98.5 C67.8137085,98.5 70.5,95.8137085 70.5,92.5 C70.5,89.1862915 67.8137085,86.5 64.5,86.5 L64.5,48.5" id="Path" stroke="#000000" stroke-width="3"></path>
-            <path d="M56.5,32.5 L52.5,32.5 C52.5,32.419254 52.5000987,28.580746 52.500098,28.5 C52.5000439,21.8726371 57.8725391,16.5 64.499902,16.5 C71.1274337,16.5 76.5000461,21.8725663 76.500103,28.5 L76.5005148,76.498922 C81.3580088,80.147771 84.5,85.9569598 84.5,92.5 C84.5,103.545695 75.545695,112.5 64.5,112.5 C53.454305,112.5 44.5,103.545695 44.5,92.5 C44.5,85.9565086 47.6424245,80.1469698 52.5004901,76.4981671 L52.5,72.5 L56.5,72.5" id="Path" stroke="#000000" stroke-width="3"></path>
-            <line x1="48.5" y1="40.5" x2="56.5" y2="40.5" id="Path-280" stroke="#000000" stroke-width="3"></line>
-            <line x1="56.5" y1="64.5" x2="48.5" y2="64.5" id="Path-281" stroke="#000000" stroke-width="3"></line>
-            <line x1="56.5" y1="56.5" x2="48.5" y2="56.5" id="Path-282" stroke="#000000" stroke-width="3"></line>
-            <line x1="56.5" y1="48.5" x2="48.5" y2="48.5" id="Path-283" stroke="#000000" stroke-width="3"></line>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>thermometer</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="thermometer" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M58.5,92.5 C58.5,95.8137085 61.1862915,98.5 64.5,98.5 C67.8137085,98.5 70.5,95.8137085 70.5,92.5 C70.5,89.1862915 67.8137085,86.5 64.5,86.5 L64.5,48.5" id="Path" stroke="#000000" stroke-width="3"></path>
+      <path d="M56.5,32.5 L52.5,32.5 C52.5,32.419254 52.5000987,28.580746 52.500098,28.5 C52.5000439,21.8726371 57.8725391,16.5 64.499902,16.5 C71.1274337,16.5 76.5000461,21.8725663 76.500103,28.5 L76.5005148,76.498922 C81.3580088,80.147771 84.5,85.9569598 84.5,92.5 C84.5,103.545695 75.545695,112.5 64.5,112.5 C53.454305,112.5 44.5,103.545695 44.5,92.5 C44.5,85.9565086 47.6424245,80.1469698 52.5004901,76.4981671 L52.5,72.5 L56.5,72.5" id="Path" stroke="#000000" stroke-width="3"></path>
+      <line x1="48.5" y1="40.5" x2="56.5" y2="40.5" id="Path-280" stroke="#000000" stroke-width="3"></line>
+      <line x1="56.5" y1="64.5" x2="48.5" y2="64.5" id="Path-281" stroke="#000000" stroke-width="3"></line>
+      <line x1="56.5" y1="56.5" x2="48.5" y2="56.5" id="Path-282" stroke="#000000" stroke-width="3"></line>
+      <line x1="56.5" y1="48.5" x2="48.5" y2="48.5" id="Path-283" stroke="#000000" stroke-width="3"></line>
     </g>
+  </g>
 </svg>

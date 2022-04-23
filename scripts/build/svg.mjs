@@ -1,8 +1,8 @@
 import FontStream from 'svgicons2svgfont'
 import { createReadStream, createWriteStream } from 'fs'
 
-import config from './config.mjs'
-import { executed } from './util.mjs'
+import config from '../config.mjs'
+import { executed } from '../util.mjs'
 
 
 export async function buildVariation(variation) {
@@ -43,7 +43,7 @@ export async function buildVariation(variation) {
 
 
 export async function buildSVG() {
-  return Promise.all(config.variations.map(buildVariation))
+  return Promise.all(config.buildVariations.map(buildVariation))
 }
 
 

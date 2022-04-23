@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>comment-off</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="comment-off" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <line x1="16" y1="16" x2="112" y2="112" id="Path-50" stroke="#000000" stroke-width="3"></line>
-            <polyline id="Path-49" stroke="#000000" stroke-width="3" points="56 88 72 88 88 104"></polyline>
-            <path d="M65,88 L22,88 C18.6862915,88 16,85.3137085 16,82 L16,30 C16,28.8626723 16.3164432,27.7992539 16.8660873,26.892987 M32.5,24 C48.8333333,24 73.3333333,24 106,24 C109.313708,24 112,26.6862915 112,30 L112,82 C112,85.3137085 109.313708,88 106,88 L96,88" id="Shape" stroke="#000000" stroke-width="3"></path>
-            <path d="M48.5,40.5 L88.5,40.5 C92.918278,40.5 96.5,44.081722 96.5,48.5 C96.5,52.918278 92.918278,56.5 88.5,56.5 L64.5,56.5 L64.5,56.5 M48,56.5 L40.5,56.5 C36.081722,56.5 32.5,60.081722 32.5,64.5 C32.5,68.918278 36.081722,72.5 40.5,72.5 L64.5,72.5 L64.5,72.5 M80.5,72.5 L88.5,72.5 C92.918278,72.5 96.5,76.081722 96.5,80.5 L96.5,80.5 L96.5,80.5" id="Shape" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>comment-off</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="comment-off" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <line x1="16" y1="16" x2="112" y2="112" id="Path-50" stroke="#000000" stroke-width="3"></line>
+      <polyline id="Path-49" stroke="#000000" stroke-width="3" points="56 88 72 88 88 104"></polyline>
+      <path d="M65,88 L22,88 C18.6862915,88 16,85.3137085 16,82 L16,30 C16,28.8626723 16.3164432,27.7992539 16.8660873,26.892987 M32.5,24 C48.8333333,24 73.3333333,24 106,24 C109.313708,24 112,26.6862915 112,30 L112,82 C112,85.3137085 109.313708,88 106,88 L96,88" id="Shape" stroke="#000000" stroke-width="3"></path>
+      <path d="M48.5,40.5 L88.5,40.5 C92.918278,40.5 96.5,44.081722 96.5,48.5 C96.5,52.918278 92.918278,56.5 88.5,56.5 L64.5,56.5 L64.5,56.5 M48,56.5 L40.5,56.5 C36.081722,56.5 32.5,60.081722 32.5,64.5 C32.5,68.918278 36.081722,72.5 40.5,72.5 L64.5,72.5 L64.5,72.5 M80.5,72.5 L88.5,72.5 C92.918278,72.5 96.5,76.081722 96.5,80.5 L96.5,80.5 L96.5,80.5" id="Shape" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>

@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>dbl-chevron-left</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="dbl-chevron-left" transform="translate(1.000000, 1.000000)">
-            <g transform="translate(64.000000, 64.000000) scale(-1, 1) translate(-64.000000, -64.000000) ">
-                <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                    <g id="Rectangle">
-                        <rect x="0" y="0" width="128" height="128"></rect>
-                    </g>
-                </g>
-                <path d="M55.5,16.5 L101.37868,62.3786797 C102.550253,63.5502525 102.550253,65.4497475 101.37868,66.6213203 L55.5,112.5 L55.5,112.5" id="Path-26" stroke="#000000" stroke-width="3"></path>
-                <path d="M23.5,16.5 L69.3786797,62.3786797 C70.5502525,63.5502525 70.5502525,65.4497475 69.3786797,66.6213203 L23.5,112.5 L23.5,112.5" id="Path-26-Copy" stroke="#000000" stroke-width="3"></path>
-            </g>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>dbl-chevron-left</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="dbl-chevron-left" transform="translate(1.000000, 1.000000)">
+      <g transform="translate(64.000000, 64.000000) scale(-1, 1) translate(-64.000000, -64.000000)">
+        <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+          <g id="Rectangle">
+            <rect x="0" y="0" width="128" height="128"></rect>
+          </g>
         </g>
+        <path d="M55.5,16.5 L101.37868,62.3786797 C102.550253,63.5502525 102.550253,65.4497475 101.37868,66.6213203 L55.5,112.5 L55.5,112.5" id="Path-26" stroke="#000000" stroke-width="3"></path>
+        <path d="M23.5,16.5 L69.3786797,62.3786797 C70.5502525,63.5502525 70.5502525,65.4497475 69.3786797,66.6213203 L23.5,112.5 L23.5,112.5" id="Path-26-Copy" stroke="#000000" stroke-width="3"></path>
+      </g>
     </g>
+  </g>
 </svg>

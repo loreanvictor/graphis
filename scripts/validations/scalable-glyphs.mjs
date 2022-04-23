@@ -1,7 +1,8 @@
 import { XMLParser, XMLBuilder } from 'fast-xml-parser'
 import { readFile, writeFile } from 'fs/promises'
 
-import config from './config.mjs'
+import { $ } from '../util.mjs'
+import config from '../config.mjs'
 
 
 const XML_CONFIG = { ignoreAttributes: false, allowBooleanAttributes: true, format: true }
@@ -26,22 +27,19 @@ export async function checkScalability(glyph) {
 }
 
 
-export async function findUnscalableGlyphs() {
-  const unscalable = []
-
-  await Promise.all(
-    config.variations.map(async variation => {
-      await Promise.all(
-        variation.mapping.map(async glyph => {
-          if (!await checkScalability(glyph)) {
-            unscalable.push({ variation, glyph })
-          }
-        })
-      )
+export async function findUnscalableGlyphs(variation) {
+  return (await Promise.all(
+    variation.mapping.map(async glyph => {
+      if (!await checkScalability(glyph)) {
+        return { variation, glyph }
+      }
     })
-  )
+  )).filter(_ => !!_)
+}
 
-  return  unscalable
+
+export async function findAllUnscalableGlyphs() {
+  return (await Promise.all(config.variations.map(findUnscalableGlyphs))).flat()
 }
 
 
@@ -71,4 +69,17 @@ export async function makeAllGlyphsScalable() {
       )
     })
   )
+}
+
+
+export const scalableGlyphs = {
+  test: findUnscalableGlyphs,
+  validate: glyphs => glyphs.length === 0,
+  messages: {
+    progress: 'Checking scalable glyphs ...',
+    success: 'All glyphs are scalable.',
+    error: (glyphs) => `${glyphs.length} glyphs are not scalable:\n` +
+      $.hint($.errlist(glyphs.map(({ variation, glyph }) => `${variation.name}/${glyph.name}`))) +
+      '\n  ' + $.guide($.hint(`Run ${$.highlight('npm run prep')} to make all glyphs scalable.`))
+  }
 }

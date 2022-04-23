@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>strike-through-off</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="strike-through-off" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M32.5,24.5 L48.5,24.5 L36.5,24.5 L36.5,28 M36.5,42.5 L36.5,57 M36.5,72.5 L36.5,76.5 C36.5,91.963973 49.036027,104.5 64.5,104.5 C71.9937516,104.5 78.7999292,101.556145 83.8251523,96.7618169 M92.2071956,80.5641304 C92.4001209,79.2373036 92.5,77.8803158 92.5,76.5 L92.5,24.5 L104.5,24.5 L80.5,24.5" id="Shape" stroke="#000000" stroke-width="3"></path>
-            <path d="M16.5,64.5 L56.5,64.5 M73,64.5 L84.5,64.5 M101,64.5 L112.5,64.5" id="Shape" stroke="#000000" stroke-width="3"></path>
-            <line x1="16.5" y1="16.5" x2="112.5" y2="112.5" id="Path-202" stroke="#000000" stroke-width="3"></line>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>strike-through-off</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="strike-through-off" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M32.5,24.5 L48.5,24.5 L36.5,24.5 L36.5,28 M36.5,42.5 L36.5,57 M36.5,72.5 L36.5,76.5 C36.5,91.963973 49.036027,104.5 64.5,104.5 C71.9937516,104.5 78.7999292,101.556145 83.8251523,96.7618169 M92.2071956,80.5641304 C92.4001209,79.2373036 92.5,77.8803158 92.5,76.5 L92.5,24.5 L104.5,24.5 L80.5,24.5" id="Shape" stroke="#000000" stroke-width="3"></path>
+      <path d="M16.5,64.5 L56.5,64.5 M73,64.5 L84.5,64.5 M101,64.5 L112.5,64.5" id="Shape" stroke="#000000" stroke-width="3"></path>
+      <line x1="16.5" y1="16.5" x2="112.5" y2="112.5" id="Path-202" stroke="#000000" stroke-width="3"></line>
     </g>
+  </g>
 </svg>

@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>eye</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="eye" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M55.9038763,77.8034329 C58.2788559,79.1994375 61.0459373,80 64,80 C72.836556,80 80,72.836556 80,64 C80,55.163444 72.836556,48 64,48 C55.163444,48 48,55.163444 48,64" id="Path" stroke="#000000" stroke-width="3"></path>
-            <path d="M47.9816979,84.68807 C46.0486589,83.8168196 44.1700918,82.7800612 42.3666923,81.5777949 L16,64 L42.3666923,46.4222051 C55.4667694,37.6888204 72.5332306,37.6888204 85.6333077,46.4222051 L112,64 L85.6333077,81.5777949 C79.0851699,85.94322 72.0131313,88.2556679 64.0065657,88.127834 C56,88 48,79.5 48,64" id="Path" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>eye</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="eye" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M55.9038763,77.8034329 C58.2788559,79.1994375 61.0459373,80 64,80 C72.836556,80 80,72.836556 80,64 C80,55.163444 72.836556,48 64,48 C55.163444,48 48,55.163444 48,64" id="Path" stroke="#000000" stroke-width="3"></path>
+      <path d="M47.9816979,84.68807 C46.0486589,83.8168196 44.1700918,82.7800612 42.3666923,81.5777949 L16,64 L42.3666923,46.4222051 C55.4667694,37.6888204 72.5332306,37.6888204 85.6333077,46.4222051 L112,64 L85.6333077,81.5777949 C79.0851699,85.94322 72.0131313,88.2556679 64.0065657,88.127834 C56,88 48,79.5 48,64" id="Path" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>

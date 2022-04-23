@@ -9,8 +9,16 @@ metrics:
   descent: 128
 
 variations:
+  - src: strokes
+    name: Strokes
+    build: false
+    tests:
+      - mappings
+      - glyphs
+
   - src: regular
     weight: Regular
+    name: Regular
 
   - src: bold
     weight: Bold

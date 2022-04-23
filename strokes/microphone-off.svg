@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>microphone-off</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="microphone-off" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <line x1="40.5" y1="112.5" x2="56.5" y2="112.5" id="Path-13" stroke="#000000" stroke-width="3"></line>
-            <polyline id="Path-15" stroke="#000000" stroke-width="3" points="88.5 112.5 64.5 112.5 64.5 96"></polyline>
-            <path d="M32.5,64.5 C32.5,82.173112 46.826888,96.5 64.5,96.5 C70.4973158,96.5 76.1092927,94.8501683 80.9068291,91.9796067 M92.5256855,79.9576494 C95.0584006,75.3754589 96.5,70.1060812 96.5,64.5" id="Shape" stroke="#000000" stroke-width="3"></path>
-            <path d="M72.5,44.5 L72.5,44 C72.5,41.790861 74.290861,40 76.5,40 L88.5,40 L88.5,40 C88.5,26.745166 77.754834,16 64.5,16 C55.4897123,16 47.4080767,21.1963046 43.1561312,28.6878759 M40,50.5 C40,53.6111111 40,58.2777778 40,64.5 C40,77.754834 50.745166,88 64,88 C68.0157772,88 71.8470891,87.0596064 75.2371052,85.3800316 M86.0737529,74.7359475 C87.624358,71.6631365 88.5,68.1987471 88.5,64.5 L78.5,64.5 C75.1862915,64.5 72.5,61.8137085 72.5,58.5 C72.5,55.1862915 75.1862915,52.5 78.5,52.5 L88.5,52.5 L88.5,52.5" id="Shape" stroke="#000000" stroke-width="3"></path>
-            <line x1="16" y1="16" x2="112" y2="112" id="Path-4" stroke="#000000" stroke-width="3"></line>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>microphone-off</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="microphone-off" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <line x1="40.5" y1="112.5" x2="56.5" y2="112.5" id="Path-13" stroke="#000000" stroke-width="3"></line>
+      <line x1="16" y1="16" x2="112" y2="112" id="Path-4" stroke="#000000" stroke-width="3"></line>
+      <polyline id="Path-15" stroke="#000000" stroke-width="3" points="88.5 112.5 64.5 112.5 64.5 96"></polyline>
+      <path d="M32.5,64.5 C32.5,82.173112 46.826888,96.5 64.5,96.5 C70.4973158,96.5 76.1092927,94.8501683 80.9068291,91.9796067 M92.5256855,79.9576494 C95.0584006,75.3754589 96.5,70.1060812 96.5,64.5" id="Shape" stroke="#000000" stroke-width="3"></path>
+      <path d="M72.5,44.5 L72.5,44 C72.5,41.790861 74.290861,40 76.5,40 L88.5,40 L88.5,40 C88.5,26.745166 77.754834,16 64.5,16 C55.4897123,16 47.4080767,21.1963046 43.1561312,28.6878759 M40,50.5 C40,53.6111111 40,58.2777778 40,64.5 C40,77.754834 50.745166,88 64,88 C68.0157772,88 71.8470891,87.0596064 75.2371052,85.3800316 M86.0737529,74.7359475 C87.624358,71.6631365 88.5,68.1987471 88.5,64.5 L78.5,64.5 C75.1862915,64.5 72.5,61.8137085 72.5,58.5 C72.5,55.1862915 75.1862915,52.5 78.5,52.5 L88.5,52.5 L88.5,52.5" id="Shape" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>

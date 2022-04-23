@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>grid-rect</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="grid-rect" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M16.5,72.5 L16.5,92.5 C16.5,96.918278 20.081722,100.5 24.5,100.5 L48.5,100.5 L48.5,100.5 L48.5,64.5 L16.5,64.5 L16.5,36.5 C16.5,32.081722 20.081722,28.5 24.5,28.5 L104.5,28.5 C108.918278,28.5 112.5,32.081722 112.5,36.5 L112.5,64.5 L112.5,64.5 L56.5,64.5" id="Path-106" stroke="#000000" stroke-width="3"></path>
-            <line x1="48.5" y1="36.5" x2="48.5" y2="64.5" id="Path-107" stroke="#000000" stroke-width="3"></line>
-            <line x1="80.5" y1="28.5" x2="80.5" y2="56.5" id="Path-108" stroke="#000000" stroke-width="3"></line>
-            <polyline id="Path-109" stroke="#000000" stroke-width="3" points="48.5 100.5 80.5 100.5 80.5 72"></polyline>
-            <path d="M112.5,72 L112.5,92.5 C112.5,96.918278 108.918278,100.5 104.5,100.5 L88.5,100.5 L88.5,100.5" id="Path-110" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>grid-rect</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="grid-rect" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M16.5,72.5 L16.5,92.5 C16.5,96.918278 20.081722,100.5 24.5,100.5 L48.5,100.5 L48.5,100.5 L48.5,64.5 L16.5,64.5 L16.5,36.5 C16.5,32.081722 20.081722,28.5 24.5,28.5 L104.5,28.5 C108.918278,28.5 112.5,32.081722 112.5,36.5 L112.5,64.5 L112.5,64.5 L56.5,64.5" id="Path-106" stroke="#000000" stroke-width="3"></path>
+      <path d="M112.5,72 L112.5,92.5 C112.5,96.918278 108.918278,100.5 104.5,100.5 L88.5,100.5 L88.5,100.5" id="Path-110" stroke="#000000" stroke-width="3"></path>
+      <line x1="48.5" y1="36.5" x2="48.5" y2="64.5" id="Path-107" stroke="#000000" stroke-width="3"></line>
+      <line x1="80.5" y1="28.5" x2="80.5" y2="56.5" id="Path-108" stroke="#000000" stroke-width="3"></line>
+      <polyline id="Path-109" stroke="#000000" stroke-width="3" points="48.5 100.5 80.5 100.5 80.5 72"></polyline>
     </g>
+  </g>
 </svg>

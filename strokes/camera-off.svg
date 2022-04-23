@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>camera-off</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="camera-off" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M83.0680078,93.6986215 C81.0855117,95.1458673 78.6425025,96 76,96 L24,96 C19.581722,96 16,92.418278 16,88 L16,44 C16,38.8543875 19.2386849,34.4652104 23.7888039,32.7597194 M40,32 C48,32 60,32 76,32 C82.627417,32 88,37.372583 88,44 L88,72 L105.201501,88.8431362 C106.779954,90.3887046 109.312473,90.3620465 110.858042,88.7835937 C111.590048,88.0360131 112,87.0313782 112,85.9850945 L112,41.6568542 C112,39.4477153 110.209139,37.6568542 108,37.6568542 C106.939134,37.6568542 105.921718,38.0782816 105.171573,38.8284271 L96,48" id="Shape" stroke="#000000" stroke-width="3" stroke-linejoin="round"></path>
-            <line x1="16" y1="16" x2="112" y2="112" id="Path-4" stroke="#000000" stroke-width="3"></line>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>camera-off</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="camera-off" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M83.0680078,93.6986215 C81.0855117,95.1458673 78.6425025,96 76,96 L24,96 C19.581722,96 16,92.418278 16,88 L16,44 C16,38.8543875 19.2386849,34.4652104 23.7888039,32.7597194 M40,32 C48,32 60,32 76,32 C82.627417,32 88,37.372583 88,44 L88,72 L105.201501,88.8431362 C106.779954,90.3887046 109.312473,90.3620465 110.858042,88.7835937 C111.590048,88.0360131 112,87.0313782 112,85.9850945 L112,41.6568542 C112,39.4477153 110.209139,37.6568542 108,37.6568542 C106.939134,37.6568542 105.921718,38.0782816 105.171573,38.8284271 L96,48" id="Shape" stroke="#000000" stroke-width="3" stroke-linejoin="round"></path>
+      <line x1="16" y1="16" x2="112" y2="112" id="Path-4" stroke="#000000" stroke-width="3"></line>
     </g>
+  </g>
 </svg>

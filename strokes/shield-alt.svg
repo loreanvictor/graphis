@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>shield-alt</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="shield-alt" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
+        </g>
+      </g>
+      <path d="M28.5,72.5 L28.5,75.6555898 C28.5,83.6800663 32.5104272,91.1736182 39.1871953,95.6247969 L63.9452998,112.1302 C64.2811992,112.354133 64.7188008,112.354133 65.0547002,112.1302 L89.8128047,95.6247969 C96.4895728,91.1736182 100.5,83.6800663 100.5,75.6555898 L100.5,31.304245 C100.500142,29.9479484 99.5902758,28.760255 98.280821,28.4068873 C78.3330276,23.0417163 67.0727539,19.0727539 64.5,16.5 C61.9272461,19.0727539 50.6669724,23.0417163 30.719179,28.4068873 C29.4100801,28.760159 28.5003064,29.9473252 28.5,31.3032532 L28.5,64.5 L28.5,64.5 L56.5,64.5" id="Path-253" stroke="#000000" stroke-width="3"></path>
+      <polyline id="Path" stroke="#000000" stroke-width="3" points="64.5 96.5 64.5 32.5 64.5 64.5 93 64.5"></polyline>
+    </g>
+  </g>
+</svg>

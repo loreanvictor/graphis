@@ -1,7 +1,7 @@
 import { writeFile } from 'fs/promises'
 
-import config from './config.mjs'
-import { executed } from './util.mjs'
+import config from '../config.mjs'
+import { executed } from '../util.mjs'
 
 
 const WEIGHT_MAPPING = {
@@ -23,7 +23,7 @@ function buildVariationSegment(variation) {
 
 
 export async function buildCSS() {
-  const css = config.variations.map(buildVariationSegment).join('\n\n')
+  const css = config.buildVariations.map(buildVariationSegment).join('\n\n')
   const dest = `${config.dest}.css`
   await writeFile(dest, css)
 

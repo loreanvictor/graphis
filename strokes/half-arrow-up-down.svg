@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>half-arrow-up-down</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="half-arrow-up-down" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M72.5,16.5 L72.5,109.197224 C72.5,109.749509 72.9477153,110.197224 73.5,110.197224 C73.8343532,110.197224 74.1465845,110.030123 74.3320503,109.751925 L104.5,64.5 L104.5,64.5" id="Path-152" stroke="#000000" stroke-width="3"></path>
-            <path d="M56.5,112.5 L56.5,19.8027756 C56.5,19.2504909 56.0522847,18.8027756 55.5,18.8027756 C55.1656468,18.8027756 54.8534155,18.9698768 54.6679497,19.2480754 L24.5,64.5 L24.5,64.5" id="Path-154" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>half-arrow-up-down</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="half-arrow-up-down" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M72.5,16.5 L72.5,109.197224 C72.5,109.749509 72.9477153,110.197224 73.5,110.197224 C73.8343532,110.197224 74.1465845,110.030123 74.3320503,109.751925 L104.5,64.5 L104.5,64.5" id="Path-152" stroke="#000000" stroke-width="3"></path>
+      <path d="M56.5,112.5 L56.5,19.8027756 C56.5,19.2504909 56.0522847,18.8027756 55.5,18.8027756 C55.1656468,18.8027756 54.8534155,18.9698768 54.6679497,19.2480754 L24.5,64.5 L24.5,64.5" id="Path-154" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>
