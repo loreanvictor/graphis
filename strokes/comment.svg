@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>comment</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="comment" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M56,88 L72,88 L86.2928932,102.292893 C86.6834175,102.683418 87.3165825,102.683418 87.7071068,102.292893 C87.8946432,102.105357 88,101.851003 88,101.585786 L88,88 L88,88" id="Path-49" stroke="#000000" stroke-width="3"></path>
-            <path d="M65,88 L22,88 C18.6862915,88 16,85.3137085 16,82 L16,30 C16,26.6862915 18.6862915,24 22,24 L106,24 C109.313708,24 112,26.6862915 112,30 L112,82 C112,85.3137085 109.313708,88 106,88 L96,88 L96,88" id="Path" stroke="#000000" stroke-width="3"></path>
-            <path d="M32.5,40.5 L88.5,40.5 C92.918278,40.5 96.5,44.081722 96.5,48.5 C96.5,52.918278 92.918278,56.5 88.5,56.5 L40.5,56.5 C36.081722,56.5 32.5,60.081722 32.5,64.5 C32.5,68.918278 36.081722,72.5 40.5,72.5 L88.5,72.5 C92.918278,72.5 96.5,76.081722 96.5,80.5 L96.5,80.5 L96.5,80.5" id="Path-27" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>comment</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="comment" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M56,88 L72,88 L86.2928932,102.292893 C86.6834175,102.683418 87.3165825,102.683418 87.7071068,102.292893 C87.8946432,102.105357 88,101.851003 88,101.585786 L88,88 L88,88" id="Path-49" stroke="#000000" stroke-width="3"></path>
+      <path d="M65,88 L22,88 C18.6862915,88 16,85.3137085 16,82 L16,30 C16,26.6862915 18.6862915,24 22,24 L106,24 C109.313708,24 112,26.6862915 112,30 L112,82 C112,85.3137085 109.313708,88 106,88 L96,88 L96,88" id="Path" stroke="#000000" stroke-width="3"></path>
+      <path d="M32.5,40.5 L88.5,40.5 C92.918278,40.5 96.5,44.081722 96.5,48.5 C96.5,52.918278 92.918278,56.5 88.5,56.5 L40.5,56.5 C36.081722,56.5 32.5,60.081722 32.5,64.5 C32.5,68.918278 36.081722,72.5 40.5,72.5 L88.5,72.5 C92.918278,72.5 96.5,76.081722 96.5,80.5 L96.5,80.5 L96.5,80.5" id="Path-27" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>

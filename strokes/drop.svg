@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>drop</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="drop" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M80.479653,108.768025 C92.3444248,102.881106 100.5,90.6429712 100.5,76.5 C100.5,63.665829 89.2495913,44.5078352 66.7487738,19.0260185 L66.7487723,19.0260198 C65.6521004,17.7840565 63.7562619,17.6662744 62.5142986,18.7629463 C62.4212491,18.8451103 62.333389,18.9329704 62.251225,19.0260198 C39.7504083,44.5078359 28.5,63.6658293 28.5,76.5 C28.5,96.382251 44.617749,112.5 64.5,112.5" id="Path" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>drop</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="drop" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M80.479653,108.768025 C92.3444248,102.881106 100.5,90.6429712 100.5,76.5 C100.5,63.665829 89.2495913,44.5078352 66.7487738,19.0260185 L66.7487723,19.0260198 C65.6521004,17.7840565 63.7562619,17.6662744 62.5142986,18.7629463 C62.4212491,18.8451103 62.333389,18.9329704 62.251225,19.0260198 C39.7504083,44.5078359 28.5,63.6658293 28.5,76.5 C28.5,96.382251 44.617749,112.5 64.5,112.5" id="Path" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>

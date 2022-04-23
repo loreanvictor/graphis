@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>stop</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="stop" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M80.5,24.5 L32.4501562,24.5 C28.0513916,24.5 24.4778042,28.0513222 24.4503125,32.450001 L24.0503125,96.450001 C24.0226988,100.868193 27.5819655,104.47223 32.0001572,104.499844 C32.0168234,104.499948 32.0334898,104.5 32.0501562,104.5 L96.5,104.5 C100.918278,104.5 104.5,100.918278 104.5,96.5 L104.5,32.5 C104.5,28.081722 100.918278,24.5 96.5,24.5 L96.5,24.5 L96.5,24.5" id="Path-173" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>stop</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="stop" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M80.5,24.5 L32.4501562,24.5 C28.0513916,24.5 24.4778042,28.0513222 24.4503125,32.450001 L24.0503125,96.450001 C24.0226988,100.868193 27.5819655,104.47223 32.0001572,104.499844 C32.0168234,104.499948 32.0334898,104.5 32.0501562,104.5 L96.5,104.5 C100.918278,104.5 104.5,100.918278 104.5,96.5 L104.5,32.5 C104.5,28.081722 100.918278,24.5 96.5,24.5 L96.5,24.5 L96.5,24.5" id="Path-173" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>

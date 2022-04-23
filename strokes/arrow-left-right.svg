@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>arrow-left-right</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="arrow-left-right" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M40.5,80.5 L18.9961509,66.1641006 C18.0770935,65.5513957 17.8287458,64.309657 18.4414507,63.3905996 C18.5879204,63.170895 18.7764463,62.9823691 18.9961509,62.8358994 L40.5,48.5 L40.5,48.5" id="Path-306" stroke="#000000" stroke-width="3"></path>
-            <line x1="32.5" y1="64.5" x2="96.5" y2="64.5" id="Path-308" stroke="#000000" stroke-width="3"></line>
-            <path d="M88.5,48.5 L110.003849,62.8358994 C110.922906,63.4486043 111.171254,64.690343 110.558549,65.6094004 C110.41208,65.829105 110.223554,66.0176309 110.003849,66.1641006 L88.5,80.5 L88.5,80.5" id="Path-309" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>arrow-left-right</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="arrow-left-right" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M40.5,80.5 L18.9961509,66.1641006 C18.0770935,65.5513957 17.8287458,64.309657 18.4414507,63.3905996 C18.5879204,63.170895 18.7764463,62.9823691 18.9961509,62.8358994 L40.5,48.5 L40.5,48.5" id="Path-306" stroke="#000000" stroke-width="3"></path>
+      <path d="M88.5,48.5 L110.003849,62.8358994 C110.922906,63.4486043 111.171254,64.690343 110.558549,65.6094004 C110.41208,65.829105 110.223554,66.0176309 110.003849,66.1641006 L88.5,80.5 L88.5,80.5" id="Path-309" stroke="#000000" stroke-width="3"></path>
+      <line x1="32.5" y1="64.5" x2="96.5" y2="64.5" id="Path-308" stroke="#000000" stroke-width="3"></line>
     </g>
+  </g>
 </svg>

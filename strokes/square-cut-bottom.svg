@@ -1,7 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="116px" height="116px" viewBox="0 0 116 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>square-cut-bottom</title>
-    <g id="square-cut-bottom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M98.5,109 C104.203924,109 108.845573,104.451858 108.996226,98.7842951 L109,98.5 L109,80 L13,80 L13,18.5 C13,15.5365209 15.34378,13.1204609 18.2787929,13.0043672 L18.5,13 L98.5,13 C101.463479,13 103.879539,15.34378 103.995633,18.2787929 L104,18.5 L104,74.5 L109,74.5 L109,18.5 C109,12.7960755 104.451858,8.15442656 98.7842951,8.00377424 L98.5,8 L18.5,8 C12.7960755,8 8.15442656,12.548142 8.00377424,18.2157049 L8,18.5 L8,85 L104,85 L104,98.5 C104,101.463479 101.65622,103.879539 98.7212071,103.995633 L98.5,104 L18.5,104 C15.5365209,104 13.1204609,101.65622 13.0043672,98.7212071 L13,98.5 L13,90 L8,90 L8,98.5 C8,104.203924 12.548142,108.845573 18.2157049,108.996226 L18.5,109 L98.5,109 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>square-cut-bottom</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="square-cut-bottom" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
+        </g>
+      </g>
+      <path d="M16.5,33 L16.5,24.5 C16.5,20.081722 20.081722,16.5 24.5,16.5 L104.5,16.5 C108.918278,16.5 112.5,20.081722 112.5,24.5 L112.5,40.5 L112.5,40.5 L16.5,40.5 L16.5,104.5 C16.5,108.918278 20.081722,112.5 24.5,112.5 L104.5,112.5 C108.918278,112.5 112.5,108.918278 112.5,104.5 L112.5,48.5 L112.5,48.5" id="Path-134" stroke="#000000" stroke-width="3" transform="translate(64.500000, 64.500000) scale(1, -1) translate(-64.500000, -64.500000)"></path>
     </g>
+  </g>
 </svg>

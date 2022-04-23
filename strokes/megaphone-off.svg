@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>megaphone-off</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="megaphone-off" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <line x1="16.5" y1="16.5" x2="112.5" y2="112.5" id="Path-178" stroke="#000000" stroke-width="3"></line>
-            <path d="M36.5,64.5 L36.5,52.5000152 C36.5,50.2908678 38.2908526,48.5 40.5,48.5 C40.5,48.5 40.5,48.5 40.5,48.5 M56.5,48.5 L60.5,48.5 L89.0857864,19.9142136 C89.866835,19.133165 91.133165,19.133165 91.9142136,19.9142136 C92.2892863,20.2892863 92.5,20.7979941 92.5,21.3284271 L92.5,84.5 L92.5,84.5 M92.5,101.5 L92.5,107.671573 C92.5,108.776142 91.6045695,109.671573 90.5,109.671573 C89.969567,109.671573 89.4608592,109.460859 89.0857864,109.085786 L60.5,80.5 L60.5,80.5 L39.5,80.5 C37.8431458,80.5 36.5,79.1568542 36.5,77.5" id="Shape" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>megaphone-off</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="megaphone-off" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <line x1="16.5" y1="16.5" x2="112.5" y2="112.5" id="Path-178" stroke="#000000" stroke-width="3"></line>
+      <path d="M36.5,64.5 L36.5,52.5000152 C36.5,50.2908678 38.2908526,48.5 40.5,48.5 C40.5,48.5 40.5,48.5 40.5,48.5 M56.5,48.5 L60.5,48.5 L89.0857864,19.9142136 C89.866835,19.133165 91.133165,19.133165 91.9142136,19.9142136 C92.2892863,20.2892863 92.5,20.7979941 92.5,21.3284271 L92.5,84.5 L92.5,84.5 M92.5,101.5 L92.5,107.671573 C92.5,108.776142 91.6045695,109.671573 90.5,109.671573 C89.969567,109.671573 89.4608592,109.460859 89.0857864,109.085786 L60.5,80.5 L60.5,80.5 L39.5,80.5 C37.8431458,80.5 36.5,79.1568542 36.5,77.5" id="Shape" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>

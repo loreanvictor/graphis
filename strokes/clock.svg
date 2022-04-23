@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>clock</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="clock" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M35,76 L61.9528328,65.4929635 C63.4887163,64.8942292 64.5,63.4145916 64.5,61.7661315 L64.5,19.604472 C64.4999906,17.9476229 63.1568491,16.6044814 61.5,16.6044814 C61.4448896,16.6044814 61.3897897,16.606 61.3347629,16.6090354 C60.987444,16.6281945 60.6808276,16.6489795 60.4149139,16.6713903 C35.8173159,18.7444367 16.5,39.3663179 16.5,64.5 C16.5,91.009668 37.990332,112.5 64.5,112.5 C91.009668,112.5 112.5,91.009668 112.5,64.5 C112.5,42.8452871 98.1603217,24.5397855 78.4586486,18.5611787" id="Path" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>clock</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="clock" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M35,76 L61.9528328,65.4929635 C63.4887163,64.8942292 64.5,63.4145916 64.5,61.7661315 L64.5,19.604472 C64.4999906,17.9476229 63.1568491,16.6044814 61.5,16.6044814 C61.4448896,16.6044814 61.3897897,16.606 61.3347629,16.6090354 C60.987444,16.6281945 60.6808276,16.6489795 60.4149139,16.6713903 C35.8173159,18.7444367 16.5,39.3663179 16.5,64.5 C16.5,91.009668 37.990332,112.5 64.5,112.5 C91.009668,112.5 112.5,91.009668 112.5,64.5 C112.5,42.8452871 98.1603217,24.5397855 78.4586486,18.5611787" id="Path" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>

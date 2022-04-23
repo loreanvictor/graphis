@@ -1,8 +1,8 @@
 import archiver from 'archiver'
 import { createWriteStream } from 'fs'
 
-import config from './config.mjs'
-import { executed } from './util.mjs'
+import config from '../config.mjs'
+import { executed } from '../util.mjs'
 
 
 export async function buildZIP() {
@@ -19,7 +19,7 @@ export async function buildZIP() {
 
     const EXTS = ['.woff2', '.ttf']
 
-    config.variations.forEach(variation => {
+    config.buildVariations.forEach(variation => {
       EXTS.forEach(ext => {
         const file = `${variation.dest}${ext}`
         const filename = file.substring(config.destroot.length + 1)

@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>stack-vert-compact</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="stack-vert-compact" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M16.5,32.5 L16.5,24.5 C16.5,20.081722 20.081722,16.5 24.5,16.5 L104.5,16.5 C108.918278,16.5 112.5,20.081722 112.5,24.5 L112.5,40.5 L112.5,40.5 L16.5,40.5 L16.5,64.5 L112.5,64.5 L112.5,88.5 L16.5,88.5 L16.5,104.5 C16.5,108.918278 20.081722,112.5 24.5,112.5 L104.5,112.5 C108.918278,112.5 112.5,108.918278 112.5,104.5 L112.5,96.5 L112.5,96.5" id="Path-95" stroke="#000000" stroke-width="3" transform="translate(64.500000, 64.500000) rotate(90.000000) translate(-64.500000, -64.500000) "></path>
-            <polyline id="Path-98" stroke="#000000" stroke-width="3" transform="translate(48.500000, 28.500000) rotate(90.000000) translate(-48.500000, -28.500000) " points="36.5 20.5 36.5 36.5 60.5 36.5"></polyline>
-            <polyline id="Path-99" stroke="#000000" stroke-width="3" transform="translate(72.500000, 100.750000) rotate(90.000000) translate(-72.500000, -100.750000) " points="84.25 92.75 84.25 108.75 60.75 108.75"></polyline>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>stack-vert-compact</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="stack-vert-compact" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M16.5,32.5 L16.5,24.5 C16.5,20.081722 20.081722,16.5 24.5,16.5 L104.5,16.5 C108.918278,16.5 112.5,20.081722 112.5,24.5 L112.5,40.5 L112.5,40.5 L16.5,40.5 L16.5,64.5 L112.5,64.5 L112.5,88.5 L16.5,88.5 L16.5,104.5 C16.5,108.918278 20.081722,112.5 24.5,112.5 L104.5,112.5 C108.918278,112.5 112.5,108.918278 112.5,104.5 L112.5,96.5 L112.5,96.5" id="Path-95" stroke="#000000" stroke-width="3" transform="translate(64.500000, 64.500000) rotate(90.000000) translate(-64.500000, -64.500000)"></path>
+      <polyline id="Path-98" stroke="#000000" stroke-width="3" transform="translate(48.500000, 28.500000) rotate(90.000000) translate(-48.500000, -28.500000)" points="36.5 20.5 36.5 36.5 60.5 36.5"></polyline>
+      <polyline id="Path-99" stroke="#000000" stroke-width="3" transform="translate(72.500000, 100.750000) rotate(90.000000) translate(-72.500000, -100.750000)" points="84.25 92.75 84.25 108.75 60.75 108.75"></polyline>
     </g>
+  </g>
 </svg>

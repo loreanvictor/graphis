@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>ear-slash</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="ear-slash" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M40.5,56.5 L40.5,48.5 C40.5,35.245166 51.245166,24.5 64.5,24.5 C77.754834,24.5 88.5,35.245166 88.5,48.5 L88.5,76.5 C88.5,78.709139 86.709139,80.5 84.5,80.5 C82.290861,80.5 80.5,82.290861 80.5,84.5 L80.5,88.5 L80.5,88.5 C80.5,97.336556 73.336556,104.5 64.5,104.5 C55.663444,104.5 48.5,97.336556 48.5,88.5 L48.5,88.5 L48.5,88.5" id="Path-184" stroke="#000000" stroke-width="3"></path>
-            <path d="M64.5,88.5 L64.5,78.5 C64.5,75.1862915 61.8137085,72.5 58.5,72.5 C55.1862915,72.5 52.5,69.8137085 52.5,66.5 L52.5,48.5 C52.5,41.872583 57.872583,36.5 64.5,36.5 C71.127417,36.5 76.5,41.872583 76.5,48.5 L76.5,64.5 L76.5,64.5" id="Path-185" stroke="#000000" stroke-width="3" transform="translate(64.500000, 62.500000) scale(-1, 1) translate(-64.500000, -62.500000) "></path>
-            <path d="M16.5,112.5 L48.7199472,80.2800528 L56.6014096,72.3985904 M88.0605507,40.9394493 L96.6187141,32.3812859 L112.5,16.5" id="Shape" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>ear-slash</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="ear-slash" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M40.5,56.5 L40.5,48.5 C40.5,35.245166 51.245166,24.5 64.5,24.5 C77.754834,24.5 88.5,35.245166 88.5,48.5 L88.5,76.5 C88.5,78.709139 86.709139,80.5 84.5,80.5 C82.290861,80.5 80.5,82.290861 80.5,84.5 L80.5,88.5 L80.5,88.5 C80.5,97.336556 73.336556,104.5 64.5,104.5 C55.663444,104.5 48.5,97.336556 48.5,88.5 L48.5,88.5 L48.5,88.5" id="Path-184" stroke="#000000" stroke-width="3"></path>
+      <path d="M64.5,88.5 L64.5,78.5 C64.5,75.1862915 61.8137085,72.5 58.5,72.5 C55.1862915,72.5 52.5,69.8137085 52.5,66.5 L52.5,48.5 C52.5,41.872583 57.872583,36.5 64.5,36.5 C71.127417,36.5 76.5,41.872583 76.5,48.5 L76.5,64.5 L76.5,64.5" id="Path-185" stroke="#000000" stroke-width="3" transform="translate(64.500000, 62.500000) scale(-1, 1) translate(-64.500000, -62.500000)"></path>
+      <path d="M16.5,112.5 L48.7199472,80.2800528 L56.6014096,72.3985904 M88.0605507,40.9394493 L96.6187141,32.3812859 L112.5,16.5" id="Shape" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>

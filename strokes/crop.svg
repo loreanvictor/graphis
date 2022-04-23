@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>crop</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="crop" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M36.5,16.5 L36.5,84.5 C36.5,88.918278 40.081722,92.5 44.5,92.5 L112.5,92.5 L112.5,92.5" id="Path-297" stroke="#000000" stroke-width="3"></path>
-            <path d="M16.5,36.5 L28.5,36.5 M44,36.5 L84.5,36.5 C88.918278,36.5 92.5,40.081722 92.5,44.5 L92.5,84.5 M92.5,100.5 L92.5,112.5" id="Shape" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>crop</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="crop" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M36.5,16.5 L36.5,84.5 C36.5,88.918278 40.081722,92.5 44.5,92.5 L112.5,92.5 L112.5,92.5" id="Path-297" stroke="#000000" stroke-width="3"></path>
+      <path d="M16.5,36.5 L28.5,36.5 M44,36.5 L84.5,36.5 C88.918278,36.5 92.5,40.081722 92.5,44.5 L92.5,84.5 M92.5,100.5 L92.5,112.5" id="Shape" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>

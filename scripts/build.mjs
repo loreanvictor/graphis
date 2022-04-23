@@ -1,8 +1,8 @@
-import { buildSVG } from './build-svg.mjs'
-import { buildTTF } from './build-ttf.mjs'
-import { buildWOFF2 } from './build-woff2.mjs'
-import { buildCSS } from './build-css.mjs'
-import { buildZIP } from './build-zip.mjs'
+import { buildSVG } from './build/svg.mjs'
+import { buildTTF } from './build/ttf.mjs'
+import { buildWOFF2 } from './build/woff2.mjs'
+import { buildCSS } from './build/css.mjs'
+import { buildZIP } from './build/zip.mjs'
 import { executed, loading, $ } from './util.mjs'
 
 

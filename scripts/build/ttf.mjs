@@ -2,11 +2,11 @@ import { readFile, writeFile } from 'fs/promises'
 import svg2ttf from 'svg2ttf'
 import semver from 'semver'
 
-import config from './config.mjs'
-import { executed } from './util.mjs'
+import config from '../config.mjs'
+import { executed } from '../util.mjs'
 
 
-async function buildVariation(variation) {
+export async function buildVariation(variation) {
   const file = await readFile(variation.dest + '.svg', 'utf8')
   const ttf = svg2ttf(file, {
     copyright: config.meta.copyright,
@@ -23,7 +23,7 @@ async function buildVariation(variation) {
 
 
 export async function buildTTF() {
-  return Promise.all(config.variations.map(buildVariation))
+  return Promise.all(config.buildVariations.map(buildVariation))
 }
 
 

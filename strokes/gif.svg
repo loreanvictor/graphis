@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>gif</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="gif" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M48.5,48.5 C48.5,44.081722 44.918278,40.5 40.5,40.5 L24.5,40.5 C20.081722,40.5 16.5,44.081722 16.5,48.5 L16.5,80.5 C16.5,84.918278 20.081722,88.5 24.5,88.5 L40.5,88.5 C44.918278,88.5 48.5,84.918278 48.5,80.5 L48.5,67.5 C48.5,65.8431458 47.1568542,64.5 45.5,64.5 L36.5,64.5 L36.5,64.5" id="Path-162" stroke="#000000" stroke-width="3"></path>
-            <line x1="64.5" y1="88.5" x2="64.5" y2="40.5" id="Path-163" stroke="#000000" stroke-width="3"></line>
-            <path d="M16.5,96.5 L16.5,104.5 C16.5,108.918278 20.081722,112.5 24.5,112.5 L104.5,112.5 C108.918278,112.5 112.5,108.918278 112.5,104.5 L112.5,72.4944702 L112.5,72.4944702" id="Path-166" stroke="#000000" stroke-width="3"></path>
-            <path d="M16.5,32.5 L16.5,24.5 C16.5,20.081722 20.081722,16.5 24.5,16.5 L104.5,16.5 C108.918278,16.5 112.5,20.081722 112.5,24.5 L112.5,40.5 L112.5,40.5 L83.5,40.5 C81.8431458,40.5 80.5,41.8431458 80.5,43.5 L80.5,88.5 L80.5,88.5 L80.5,64.5 L104.5,64.5" id="Path-167" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>gif</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="gif" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M48.5,48.5 C48.5,44.081722 44.918278,40.5 40.5,40.5 L24.5,40.5 C20.081722,40.5 16.5,44.081722 16.5,48.5 L16.5,80.5 C16.5,84.918278 20.081722,88.5 24.5,88.5 L40.5,88.5 C44.918278,88.5 48.5,84.918278 48.5,80.5 L48.5,67.5 C48.5,65.8431458 47.1568542,64.5 45.5,64.5 L36.5,64.5 L36.5,64.5" id="Path-162" stroke="#000000" stroke-width="3"></path>
+      <path d="M16.5,96.5 L16.5,104.5 C16.5,108.918278 20.081722,112.5 24.5,112.5 L104.5,112.5 C108.918278,112.5 112.5,108.918278 112.5,104.5 L112.5,72.4944702 L112.5,72.4944702" id="Path-166" stroke="#000000" stroke-width="3"></path>
+      <path d="M16.5,32.5 L16.5,24.5 C16.5,20.081722 20.081722,16.5 24.5,16.5 L104.5,16.5 C108.918278,16.5 112.5,20.081722 112.5,24.5 L112.5,40.5 L112.5,40.5 L83.5,40.5 C81.8431458,40.5 80.5,41.8431458 80.5,43.5 L80.5,88.5 L80.5,88.5 L80.5,64.5 L104.5,64.5" id="Path-167" stroke="#000000" stroke-width="3"></path>
+      <line x1="64.5" y1="88.5" x2="64.5" y2="40.5" id="Path-163" stroke="#000000" stroke-width="3"></line>
     </g>
+  </g>
 </svg>

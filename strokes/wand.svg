@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>wand</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="wand" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <polyline id="Path-37" stroke="#000000" stroke-width="3" transform="translate(56.322330, 65.334524) rotate(-45.000000) translate(-56.322330, -65.334524) " points="62.1949135 61.8198052 4.69491347 61.8198052 4.69491347 77.8198052 70.6949135 77.8198052 70.6949135 61.8198052 78.6949135 61.8198052 78.6949135 77.8198052 94.1949135 77.8198052 94.1611652 60.9809704 102.292893 52.8492424 107.949747 58.5060967"></polyline>
-            <line x1="80" y1="16" x2="80" y2="20" id="Path-38" stroke="#000000" stroke-width="3"></line>
-            <line x1="76" y1="24" x2="72" y2="24" id="Path-39" stroke="#000000" stroke-width="3"></line>
-            <polyline id="Path-40" stroke="#000000" stroke-width="3" points="104 40 104 32 112 32"></polyline>
-            <polyline id="Path-40-Copy" stroke="#000000" stroke-width="3" points="104 72 104 64 112 64"></polyline>
-            <line x1="104" y1="28" x2="104" y2="24" id="Path-41" stroke="#000000" stroke-width="3"></line>
-            <line x1="104" y1="60" x2="104" y2="56" id="Path-41-Copy" stroke="#000000" stroke-width="3"></line>
-            <line x1="100" y1="32" x2="96" y2="32" id="Path-42" stroke="#000000" stroke-width="3"></line>
-            <line x1="100" y1="64" x2="96" y2="64" id="Path-42-Copy" stroke="#000000" stroke-width="3"></line>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>wand</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="wand" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <polyline id="Path-37" stroke="#000000" stroke-width="3" transform="translate(56.322330, 65.334524) rotate(-45.000000) translate(-56.322330, -65.334524)" points="62.1949135 61.8198052 4.69491347 61.8198052 4.69491347 77.8198052 70.6949135 77.8198052 70.6949135 61.8198052 78.6949135 61.8198052 78.6949135 77.8198052 94.1949135 77.8198052 94.1611652 60.9809704 102.292893 52.8492424 107.949747 58.5060967"></polyline>
+      <polyline id="Path-40" stroke="#000000" stroke-width="3" points="104 40 104 32 112 32"></polyline>
+      <polyline id="Path-40-Copy" stroke="#000000" stroke-width="3" points="104 72 104 64 112 64"></polyline>
+      <line x1="80" y1="16" x2="80" y2="20" id="Path-38" stroke="#000000" stroke-width="3"></line>
+      <line x1="76" y1="24" x2="72" y2="24" id="Path-39" stroke="#000000" stroke-width="3"></line>
+      <line x1="104" y1="28" x2="104" y2="24" id="Path-41" stroke="#000000" stroke-width="3"></line>
+      <line x1="104" y1="60" x2="104" y2="56" id="Path-41-Copy" stroke="#000000" stroke-width="3"></line>
+      <line x1="100" y1="32" x2="96" y2="32" id="Path-42" stroke="#000000" stroke-width="3"></line>
+      <line x1="100" y1="64" x2="96" y2="64" id="Path-42-Copy" stroke="#000000" stroke-width="3"></line>
     </g>
+  </g>
 </svg>

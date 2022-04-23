@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>pie-chart</title>
-    <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="pie-chart" transform="translate(1.000000, 1.000000)">
-            <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
-                <g id="Rectangle">
-                    <rect x="0" y="0" width="128" height="128"></rect>
-                </g>
-            </g>
-            <path d="M104.395561,91.1987737 C109.514187,83.5652231 112.5,74.3812985 112.5,64.5 C112.5,51.2271251 107.112782,39.2125023 98.4056388,30.5234246 L64.5,64.5 L64.5,16.5 C37.990332,16.5 16.5,37.990332 16.5,64.5 C16.5,91.009668 37.990332,112.5 64.5,112.5 C77.8336114,112.5 89.8974288,107.063365 98.5956496,98.2858991 L71.5,71.5" id="Path" stroke="#000000" stroke-width="3"></path>
-            <path d="M92.2122193,25.302957 C86.4971463,21.2550553 79.8580787,18.4256247 72.6734454,17.1930941" id="Path" stroke="#000000" stroke-width="3"></path>
+<?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>pie-chart</title>
+  <g id="strokes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="pie-chart" transform="translate(1.000000, 1.000000)">
+      <g id="Group" stroke="#979797" stroke-opacity="0.01" stroke-width="0.1">
+        <g id="Rectangle">
+          <rect x="0" y="0" width="128" height="128"></rect>
         </g>
+      </g>
+      <path d="M104.395561,91.1987737 C109.514187,83.5652231 112.5,74.3812985 112.5,64.5 C112.5,51.2271251 107.112782,39.2125023 98.4056388,30.5234246 L64.5,64.5 L64.5,16.5 C37.990332,16.5 16.5,37.990332 16.5,64.5 C16.5,91.009668 37.990332,112.5 64.5,112.5 C77.8336114,112.5 89.8974288,107.063365 98.5956496,98.2858991 L71.5,71.5" id="Path" stroke="#000000" stroke-width="3"></path>
+      <path d="M92.2122193,25.302957 C86.4971463,21.2550553 79.8580787,18.4256247 72.6734454,17.1930941" id="Path" stroke="#000000" stroke-width="3"></path>
     </g>
+  </g>
 </svg>
