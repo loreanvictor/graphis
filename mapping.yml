@@ -31,7 +31,7 @@
 - name: arrow-up-down-left-right
   unicode: ✛
 - name: chevron-right
-  unicode: >
+  unicode: '>'
 - name: chevron-left
   unicode: <
 - name: chevron-up
