@@ -24,7 +24,7 @@ is not present, still meaningful content will be displayed.
 
 ## Using the Web Font
 ```html
-<link rel="stylesheet" href="https://unpkg.com/graphis/font/graphis.css">
+<link rel="stylesheet" href="https://esm.sh/graphis/font/graphis.css">
 ```
 ```css
 font-family: 'graphis', sans-serif;
